@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-```html
-<h3><font color =#7e54bd> About me</font></h3>
-```
+### About me
 I am an Assistant Professor of Computer Science at North Carolina A&T State University.
 
 I obtained my PhD in the Software Verification, Validation and Testing (SVVAT) group at the University of Texas at Austin in 2017. My adviser is [Sarfraz Khurshid](#). I obtained my M.S. degree in software engineering at UT Austin in 2014 and my B.S. degree in software engineering from The University of Texas at Dallas in 2012 (whoosh). My PhD dissertation can be found [here](#).
