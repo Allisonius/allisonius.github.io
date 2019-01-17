@@ -16,14 +16,14 @@ Here, I provide a highlight view of some current projects; for more information,
 
 ### Students
 **Current Students**
-* Fikirte Ayalke | Doctoral Student | Projected Graduation: Spring 2022
-* Jasmine Mabrey | Masters Thesis | Projected Graduation: Spring 2020
-* George Thompson | Masters Thesis | Projected Graduation: Spring 2020
-* Angel Patterson | Masters Thesis | Projected Graduation: Spring 2020
-* Sai Basavaraju | Masters Thesis | Projected Graduation: Fall 2020
+* Fikirte Ayalke :: Doctoral Student :: Projected Graduation: Spring 2022
+* Jasmine Mabrey :: Masters Thesis :: Projected Graduation: Spring 2020
+* George Thompson :: Masters Thesis :: Projected Graduation: Spring 2020
+* Angel Patterson :: Masters Thesis :: Projected Graduation: Spring 2020
+* Sai Basavaraju :: Masters Thesis :: Projected Graduation: Fall 2020
 
 **Former Students**
-* Regine Bunch | Master's Fall 2018 | Project: Email for Autism
+* Regine Bunch :: Master's Fall 2018 :: Project: Email for Autism
 
 ### Tools
 
