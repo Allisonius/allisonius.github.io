@@ -6,5 +6,5 @@ author_profile: true
 ---
 | Starting with most recent                                                           |
 | -------------------------------------------------------------------- |
-| ICSE 2019 Demo   (x)   K. Wang, **A. Sullivan**, S. Khurshid  ARepair: A Repair Framework for Alloy |
+| \[[13](files/ARepairDemoICSE.pdf)\] ICSE 2019 Demo      K. Wang, **A. Sullivan**, S. Khurshid  ARepair: A Repair Framework for Alloy |
 
