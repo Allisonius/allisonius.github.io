@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 2018
-
+### 2019
 
 * **ARepair: A Repair Framework for Alloy**     
 K. Wang, **A. Sullivan**, S. Khurshid  
