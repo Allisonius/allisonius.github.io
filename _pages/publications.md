@@ -9,7 +9,7 @@ author_profile: true
 
 * **ARepair: A Repair Framework for Alloy**     
 K. Wang, **A. Sullivan**, S. Khurshid  
-_Proceedings of the 41st IEEE/ACM International Conference on Software Engineering_ 
+*Proceedings of the 41st IEEE/ACM International Conference on Software Engineering*
 (ICSE 2019 Demo) To Appear. May 2019. \[[PDF](files/ARepairDemoICSE.pdf)\] 
 
 ### 2018
