@@ -50,13 +50,13 @@ _Proceedings of the 2017 IEEE International Conference on Software Testing, Veri
 (ICST 2017) June 2017. \[[PDF](files/AUnitICST17.pdf)\] 
 
 ### 2016
-  * **The Effect of Test Suite Type on Regression Test Selection**
+  * **The Effect of Test Suite Type on Regression Test Selection**    
   	N. Dini, **A. Sullivan**, M. Gligoric, G. Rothermel  
     _Proceedings of the 27th {IEEE} International Symposium on Software Reliability Engineering_   
 (ISSRE 2016) October 2016. \[[PDF](files/RegressionISSRE16.pdf)\] 
 
 ### 2014
-  * **Towards a Test Automation Framework for Alloy**
+  * **Towards a Test Automation Framework for Alloy**    
   	**A. Sullivan**, R.N. Zaeem, S. Khurshid, D. Marinov  
     _Proceedings of the 2014 International Symposium on Model Checking of Software_   
 (SPIN 2014) July 2014. \[[PDF](files/AUnitSpin14.pdf)\] 
