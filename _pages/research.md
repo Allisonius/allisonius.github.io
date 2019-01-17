@@ -4,26 +4,19 @@ permalink: /research/
 author_profile: true
 ---
 
-### Research Interest
+### Students
+**Current Students**
+* Fikirte Ayalke (Doctoral Student -- Projected Graduation: Spring 2022)
+* Jasmine Mabrey (Masters Thesis -- Projected Graduation: Spring 2020)
+* George Thompson (Masters Thesis -- Projected Graduation: Spring 2020)
+* Angel Patterson (Masters Thesis -- Projected Graduation: Spring 2020)
 
-My main goal is to improve software __*reliability*__ by focusing on:
-* **Automated Software Engineering:** Test/Oracle Generation, Automated Bug Localization and Repair, Model Based Testing, Regression Testing
-* **Formal Methods and Programming Languages:** Program Synthesis, Model Checking, First-Order Logic, Declarative Programming, Symbolic Execution
-
-Here, I provide a highlight view of some current projects; for more information, please read some of my papers, or contact me directly.
+**Former Students**
+* Regine Bunch (Master's Fall 2018 -- Project: Email for Autism)
 
 ---
 
-### Students
-**Current Students**
-* Fikirte Ayalke :: Doctoral Student :: Projected Graduation: Spring 2022
-* Jasmine Mabrey :: Masters Thesis :: Projected Graduation: Spring 2020
-* George Thompson :: Masters Thesis :: Projected Graduation: Spring 2020
-* Angel Patterson :: Masters Thesis :: Projected Graduation: Spring 2020
-* Sai Basavaraju :: Masters Thesis :: Projected Graduation: Fall 2020
-
-**Former Students**
-* Regine Bunch :: Master's Fall 2018 :: Project: Email for Autism
+Here, I provide a highlight view of some current projects; for more information, please read some of my papers, or contact me directly.
 
 ### Tools
 
