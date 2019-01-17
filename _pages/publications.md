@@ -9,19 +9,19 @@ author_profile: true
 
 * **ARepair: A Repair Framework for Alloy**     
 K. Wang, **A. Sullivan**, S. Khurshid  
-*Proceedings of the 41st IEEE/ACM International Conference on Software Engineering*
+*Proceedings of the 41st IEEE/ACM International Conference on Software Engineering*  
  (ICSE 2019 Demo) To Appear. May 2019. \[[PDF](files/ARepairDemoICSE.pdf)\] 
 
 ### 2018
 
 * **ASketch: A Sketching Framework for Alloy**     
 K. Wang, **A. Sullivan**, S. Khurshid  
-_Proceedings of the 2018 ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering_ 
+_Proceedings of the 2018 ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering_   
 (FSE 2018) November 2018. \[[PDF](files/ASketchDemoFSE18.pdf)\] 
 
 * **Automated Model Repair for Alloy**     
-K. Wang, **A. Sullivan**, S. Khurshid  
-_Proceedings of the 41st IEEE/ACM International Conference on Software Engineering_ 
+K. Wang, **A. Sullivan**, S. Khurshid    
+_Proceedings of the 41st IEEE/ACM International Conference on Software Engineering_   
 (ASE 2018) September 2018. \[[PDF](files/ARepairASE.pdf)\] 
 
 * **Solver-based Sketching of Alloy Models using Test Valuations**     
