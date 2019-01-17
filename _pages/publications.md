@@ -25,12 +25,12 @@ _Proceedings of the 41st IEEE/ACM International Conference on Software Engineeri
 (ASE 2018) September 2018. \[[PDF](files/ARepairASE.pdf)\] 
 
 * **Solver-based Sketching of Alloy Models using Test Valuations**     
-K. Wang, **A. Sullivan**,  D. Marinov, S. Khurshid
+K. Wang, **A. Sullivan**,  D. Marinov, S. Khurshid 
 _Proceedings of the 6th International Conference on Abstract State Machines, Alloy, B, TLA, VDM, and Z_ 
 (ABZ 2018) June 2018. \[[PDF](files/ASolveABZ18.pdf)\] 
 
 * **Systematic Generation of Non-Equivalent Expressions for Relational Algebra**     
-K. Wang, **A. Sullivan**, M. Koukoutos, D. Marinov, S. Khurshid
+K. Wang, **A. Sullivan**, M. Koukoutos, D. Marinov, S. Khurshid 
 _Proceedings of the 6th International Conference on Abstract State Machines, Alloy, B, TLA, VDM, and Z_ 
 (ABZ 2018) June 2018. \[[PDF](files/AGenABZ18.pdf)\] 
 
