@@ -2,10 +2,11 @@
 title: "Research"
 permalink: /research/
 author_profile: true
+---
 
 Here, I provide a highlight view of some current projects; for more information, please read some of my papers, or contact me directly.
 
----
+
 
 ### Tools
 
