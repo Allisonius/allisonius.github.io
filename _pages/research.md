@@ -2,21 +2,10 @@
 title: "Research"
 permalink: /research/
 author_profile: true
----
-
-### Students
-**Current Students**
-* Fikirte Ayalke (Doctoral Student -- Projected Graduation: Spring 2022)
-* Jasmine Mabrey (Masters Thesis -- Projected Graduation: Spring 2020)
-* George Thompson (Masters Thesis -- Projected Graduation: Spring 2020)
-* Angel Patterson (Masters Thesis -- Projected Graduation: Spring 2020)
-
-**Former Students**
-* Regine Bunch (Master's Fall 2018 -- Project: Email for Autism)
-
----
 
 Here, I provide a highlight view of some current projects; for more information, please read some of my papers, or contact me directly.
+
+---
 
 ### Tools
 
@@ -26,6 +15,8 @@ I am interested in applied research, and the efforts to transition research idea
   * **AUnit Analyzer:** Extension to the Alloy Analyzer that provides support for AUnit (test creation, test execution, coverage).
   * **ASketch:** Tool to synthesize parts of an Alloy model using sketching.
   * **ARepair:** Tool for automated repair of Alloy models. The tool firsts perofmrs fault localization to narrow in on the buggy portion of the model, then uses synthesis techniques to fix the model.
+  
+  ---
   
 ### Research Projects
 
