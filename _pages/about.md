@@ -25,7 +25,7 @@ My main goal is to improve software _reliability_ by focusing on:
   * **December 2018:** Became the faculty advisor for the NC A&T student team competing in the 2nd Annual AMIE Design Challenge at the 2019 Black Engineer of the Year Conference.
   * **December 2018:** Graduated Regina Bunch. Master's student. Project: Email for Austim.
   * **December 2018:** Paper "ARepair: A Repair Framework for Alloy" accepted into the 41st IEEE/ACM International Conference on Software Engineering ([ICSE 2019](#)).
-  * **September 2018:** Joined the SAE International and General Motors co-sponsored Autodrive Challenge as a faculty advisor for the Functional Safety Challenge and the Mapping Challenge. This involves applying modeling and machine learning to verify autonomous vechicle systems. 
+  * **September 2018:** Joined the SAE International and General Motors co-sponsored [Autodrive Challenge](https://www.autodrivechallenge.com/) as a faculty advisor for the Functional Safety Challenge and the Mapping Challenge. This involves applying modeling and machine learning to verify autonomous vechicle systems. 
   * **August 2018:** Stated working at North Carolina A&T State University
   * **August 2018:** Attended Facebook’s T3 Summit for Data Structures and Algorithms curriculum building.
   
