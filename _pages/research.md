@@ -17,8 +17,6 @@ I am interested in applied research, and the efforts to transition research idea
   * **[ASketch:](https://github.com/kaiyuanw/ASketch)** Tool to synthesize parts of an Alloy model using sketching.
   * **[ARepair:](https://github.com/kaiyuanw/ARepair)** Tool for automated repair of Alloy models. The tool firsts perofmrs fault localization to narrow in on the buggy portion of the model, then uses synthesis techniques to fix the model.
   
-  ---
-  
 ### Research Projects
 
 ## Verification of Alloy Models
