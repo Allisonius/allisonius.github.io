@@ -31,6 +31,6 @@ My main goal is to improve software _reliability_ by focusing on:
   
   ### Hobbies
   
-  <img src="img/a.png" alt="">
+ <img src="images/a.png" alt=""> <img src="images/b.png" alt=""> <img src="images/c.png" alt=""> <img src="images/g.png" alt="">
   
   I love puzzles just as much as my cat likes laying out over all the puzzle pieces. In my downtime, I play video games: I have a weekly discord get together with all my close friends in Texas. I equally enjoy getting out of the house. Since I stopped running marathons, I've taken to hiking -- I have a goal to visit every national park in the United States. I am also egar to get out and explore the world -- I enjoy backpacking with my husband internationally. 
