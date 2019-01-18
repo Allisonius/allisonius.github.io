@@ -88,7 +88,7 @@
       border-radius: 0;
 
       &:hover {
-        color: 7e54bd;
+        color: #7e54bd;
       }
 
       &.current {
@@ -336,7 +336,7 @@
     padding-right: 0.5em;
 
     font-weight: bold;
-    color: #7e54bd;
+    font-color: #7e54bd;
     border-radius: $border-radius;
 
     &:hover {
