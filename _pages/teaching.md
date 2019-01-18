@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 > Any increase in knowledge anywhere helps pave the way for an increase in knowledge everywhere.
+>
 > <font color = #7e54bd><b>Issac Asimov</b></font> - Writer and professor of biochemistry at Boston University 
 
 ### List of courses taught at NC A&T
