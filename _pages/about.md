@@ -29,7 +29,7 @@ My main goal is to improve software _reliability_ by focusing on:
   * **August 2018:** Stated working at North Carolina A&T State University
   * **August 2018:** Attended Facebook’s T3 Summit for Data Structures and Algorithms curriculum building.
   
-  ### Hobbies
+<h3>Hobbies</h3>
   
  <img src="images/a.png" alt=""> <img src="images/b.jpg" alt=""> <img src="images/c.JPG" alt=""> <img src="images/d.JPG" alt="">
   
