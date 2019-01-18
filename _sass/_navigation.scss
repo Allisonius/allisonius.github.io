@@ -84,11 +84,11 @@
       text-align: center;
       text-decoration: none;
       color: mix(#fff, $gray, 25%);
-      border: 1px solid $light-gray;
+      border: 1px solid #7e54bd;
       border-radius: 0;
 
       &:hover {
-        color: $link-color-hover;
+        color: 7e54bd;
       }
 
       &.current {
