@@ -6,7 +6,7 @@ author_profile: true
 
 ><font size = "4"><b>"</b>An increase in knowledge anywhere helps pave the way for an increase in knowledge everywhere.<b>"</b></font> 
 >
->  &mdash&mdash <cite>Benjamin Franklin</cite> 
+>  <cite>Issac Asimov</cite> 
 
 ### List of courses taught at NC A&T
 
