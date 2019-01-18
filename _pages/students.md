@@ -1,4 +1,5 @@
 ---
+title: ""
 permalink: /students/
 author_profile: true
 ---
