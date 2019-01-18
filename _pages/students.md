@@ -6,7 +6,7 @@ author_profile: true
 
 ### Prospective Students
 
-*RAships/TAships available!* Please contact me if you are a self-motivated PhD student (or graduate student interested in our PhD program) with **strong programming skills** and **strong interests** in software testing, analysis, and verification. Please include a copy of your CV/Resume, including descriptions of your education background, programming skills, and previous projects, in your correspondence. 
+*RAships/TAships available:* Please contact me if you are a self-motivated PhD student (or graduate student interested in our PhD program) with **strong programming skills** and **strong interests** in software testing, analysis, and verification. Please include a copy of your CV/Resume, including descriptions of your education background, programming skills, and previous projects, in your correspondence. 
 
 
 ### Current Students
