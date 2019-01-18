@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-> <font size = "3">"Any increase in knowledge anywhere helps pave the way for an increase in knowledge everywhere."</font>
+> <font size = "4">**"**Any increase in knowledge anywhere helps pave the way for an increase in knowledge everywhere.**"**</font> 
 >
 >    <font color = "#7e54bd"><b>-- Issac Asimov</b></font>  
 
