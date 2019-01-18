@@ -17,8 +17,9 @@ I obtained my PhD in the Software Verification, Validation and Testing (SVVAT) g
 ### Research Interest
 
 My main goal is to improve software _reliability_ by focusing on:
-  * **Automated Software Engineering:** Test/Oracle Generation, Automated Bug Localization and Repair, Model Based Testing, Regression Testing
-  * **Formal Methods and Programming Languages:** Program Synthesis, Model Checking, First-Order Logic, Declarative Programming, Symbolic Execution
+  * **Automated Software Engineering:** Test/Oracle Generation, Automated Bug Localization and Repair, Regression Testing, Parallel and Incremental Program Analysis Techniques
+  
+  * **Formal Methods and Programming Languages:** Program Synthesis, Model Checking, Model Based Testing, First-Order Logic, Declarative Programming, Symbolic Execution
 
 ### News
 
