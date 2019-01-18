@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-author_profile: false
+author_profile: true
 ---
 
 > <font size = "4"><b>"</b>Any increase in knowledge anywhere helps pave the way for an increase in knowledge everywhere.<b>"</b></font> 
