@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-### <i class="fa fa-fw fa-home" aria-hidden="true"></i> About me
+### <i class="fa fa-fw fa-female" aria-hidden="true"></i> About me
 I am an Assistant Professor of [Computer Science](https://www.ncat.edu/coe/departments/comp/index.html) at [North Carolina A&T State University](https://www.ncat.edu/). My CV can be found [here](/files/ASullivan_CV.pdf).
 
 I obtained my PhD in the Software Verification, Validation and Testing (SVVAT) group at the University of Texas at Austin in 2017. My adviser is [Sarfraz Khurshid](#). I obtained my M.S. degree in software engineering at UT Austin in 2014 and my B.S. degree in software engineering from The University of Texas at Dallas in 2012 (whoosh). My PhD dissertation can be found [here](files/dissertation.pdf). 
 
 
-### Research Interest
+### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Interest
 
 My main goal is to improve software _reliability_ by focusing on:
   * **Automated Software Engineering:** Test/Oracle Generation, Automated Bug Localization and Repair, Regression Testing, Parallel and Incremental Program Analysis Techniques
   * **Formal Methods and Programming Languages:** Program Synthesis, Model Checking, Model Based Testing, First-Order Logic, Declarative Programming, Symbolic Execution
 
-### News
+### <i class="fa fa-fw fa-exclamation" aria-hidden="true"></i> News
 
   * **December 2018:** Became the faculty advisor for the NC A&T student team competing in the 2nd Annual AMIE Design Challenge at the 2019 Black Engineer of the Year Conference.
   * **December 2018:** Graduated Regina Bunch. Master's student. Project: Email for Austim.
@@ -29,7 +29,7 @@ My main goal is to improve software _reliability_ by focusing on:
   * **August 2018:** Stated working at North Carolina A&T State University
   * **August 2018:** Attended Facebook’s T3 Summit for Data Structures and Algorithms curriculum building.
   
-<h3>Hobbies</h3>
+<h3><i class="fa fa-fw fa-cat" aria-hidden="true"></i> Hobbies</h3>
   
  <center><img src="images/a.png" alt=""> <img src="images/b.jpg" alt=""> <img src="images/c.JPG" alt=""></center>
   
