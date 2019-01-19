@@ -20,4 +20,4 @@ author_profile: true
 
 ### Former Students
 
-* **Regine Bunch** (Master's Fall 2018 -- Project: Email for Autism)
+* **Regina Bunch** (Master's Fall 2018 -- Project: Email for Autism)
