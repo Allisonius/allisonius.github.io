@@ -4,11 +4,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
->
+> 
 >"An increase in knowledge anywhere helps pave the way for an increase in knowledge everywhere."
->
+> 
 >  <cite>Issac Asimov</cite> 
->
+> 
 
 ### List of courses taught at NC A&T
 
