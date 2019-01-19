@@ -12,6 +12,6 @@ author_profile: true
 
 ### List of courses taught at NC A&T
 
-* **Spring 2019:** Comp 681 *Formal Methods* (Graduate)
-* **Spring 2019:** Comp 496: *Senior Design* (Undergrad)
-* **Fall 2018:** Comp 285: *Design and Analysis of Algorithms* (Undergrad)
+* **Spring 2019:** Comp 681 *[Formal Methods](#)* (Graduate)
+* **Spring 2019:** Comp 496: *[Senior Design](#)* (Undergrad)
+* **Fall 2018:** Comp 285: *[Design and Analysis of Algorithms](#)* (Undergrad)
