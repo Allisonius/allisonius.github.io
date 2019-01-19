@@ -41,11 +41,11 @@ _Proceedings of the 11th IEEE International Conference on Software Testing, Veri
 ### 2017
 
 * **Evaluating State Modeling Techniques in Alloy**     
-K. Wang, **A. Sullivan**, S. Khurshid, D. Marinov    
+**A. Sullivan**, K. Wang, S. Khurshid, D. Marinov    
 _Proceedings of the Sixth Workshop on Software Quality Analysis, Monitoring, Improvement, and Applications_  
 (SQAMIA 2017) September 2017. \[[PDF](../files/StateModelSQAMIA17.pdf)\] 
 * **Automated Test Generation and Mutation Testing for Alloy**     
-K. Wang, **A. Sullivan**, S. Khurshid    
+**A. Sullivan**, K. Wang, R.N. Zaeem, S. Khurshid    
 _Proceedings of the 2017 IEEE International Conference on Software Testing, Verification and Validation_   
 (ICST 2017) June 2017. \[[PDF](../files/AUnitICST17.pdf)\] 
 
