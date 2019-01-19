@@ -14,4 +14,4 @@ author_profile: true
 
 * **Spring 2019:** Comp 681 [Formal Methods](#) (Graduate)
 * **Spring 2019:** Comp 496: [Senior Design](#) (Undergrad)
-* **Fall 2018:** Comp 285: [Design and Analysis of Algorithms](#) (Undergrad)
+* **Fall 2018:** Comp 285: [Design and Analysis of Algorithms](https://comp285-fall18.github.io/) (Undergrad)
