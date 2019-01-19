@@ -16,7 +16,7 @@ K. Wang, **A. Sullivan**, S. Khurshid
  * **ASketch: A Sketching Framework for Alloy**     
 K. Wang, **A. Sullivan**, S. Khurshid  
 _Proceedings of the 2018 ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering_   
-(FSE 2018) November 2018. \[[PDF](files/ASketchDemoFSE18.pdf)\] 
+(FSE 2018) November 2018. \[[PDF](../files/ASketchDemoFSE18.pdf)\] 
  * **Automated Model Repair for Alloy**     
 K. Wang, **A. Sullivan**, S. Khurshid    
 _Proceedings of the 41st IEEE/ACM International Conference on Software Engineering_   
