@@ -8,7 +8,7 @@ Here, I provide a highlight view of some current projects; for more information,
 
 
 
-### Tools
+### <i class="fa fa-fw fa-desktop" aria-hidden="true"></i> Tools
 
 I am interested in applied research, and the efforts to transition research ideas into real tools to be used by the software development community.
 
@@ -17,7 +17,7 @@ I am interested in applied research, and the efforts to transition research idea
   * **[ASketch:](https://github.com/kaiyuanw/ASketch)** Tool to synthesize parts of an Alloy model using sketching.
   * **[ARepair:](https://github.com/kaiyuanw/ARepair)** Tool for automated repair of Alloy models. The tool firsts perofmrs fault localization to narrow in on the buggy portion of the model, then uses synthesis techniques to fix the model.
   
-### Research Projects
+### <i class="fa fa-fw fa-cogs" aria-hidden="true"></i> Research Projects
 
 ## Verification of Alloy Models
 AUnit introduces the first testing infrastructure for Alloy, namely: test case, test executuion and coverage. With this infrastructure in place, we can now explore how to bring well-established imperative v&v techniques (automated test generation, fault localization, mutation testing, regression testing, etc) into the Alloy language. The goal is to enable *systematic testing* of Alloy models to build confidence in the overall correctness of a model.
