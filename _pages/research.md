@@ -8,7 +8,7 @@ Here, I provide a highlight view of some current projects; for more information,
 
 
 
-### <i class="fa fa-fw fa-desktop" aria-hidden="true"></i> Tools
+### <i class="fa fa-fw fa-code-branch" aria-hidden="true"></i> Tools
 
 I am interested in applied research, and the efforts to transition research ideas into real tools to be used by the software development community.
 
