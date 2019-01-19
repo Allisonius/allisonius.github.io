@@ -59,5 +59,5 @@ _Proceedings of the 2017 IEEE International Conference on Software Testing, Veri
   * **Towards a Test Automation Framework for Alloy**    
   	**A. Sullivan**, R.N. Zaeem, S. Khurshid, D. Marinov  
     _Proceedings of the 2014 International Symposium on Model Checking of Software_   
-(SPIN 2014) July 2014. \[[PDF](../files/AUnitSpin14.pdf)\] 
+(SPIN 2014) July 2014. \[[PDF](../files/AUnitSPIN14.pdf)\] 
 
