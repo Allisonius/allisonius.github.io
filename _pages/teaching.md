@@ -3,9 +3,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+<link href="https://fonts.googleapis.com/css?family=Lobster+Two" rel="stylesheet">
 
 
- <blockquote cite="Tim Berners-Lee">The Semantic Web is not a separate Web but an extension of the current one, in which information is given well-defined meaning, better enabling computers and people to work in cooperation.</blockquote>
 
 ### List of courses taught at NC A&T
 
