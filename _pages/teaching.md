@@ -3,10 +3,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-<link href="https://fonts.googleapis.com/css?family=Lobster+Two" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,700|Righteous" rel="stylesheet">
 
-<h4><font face="Righteous">"Any increase in knowledge anywhere helps pave the way for an increase in knowledge everywhere."</font></h4>
+<h4><font face="Comfortaa">"Any increase in knowledge anywhere helps pave the way for an increase in knowledge everywhere."</font></h4>
 - Isaac Asimov
 
 ### List of courses taught at NC A&T
