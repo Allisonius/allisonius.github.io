@@ -4,10 +4,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-> &nbsp;
->"An increase in knowledge anywhere helps pave the way for an increase in knowledge everywhere."
->  <cite>Issac Asimov</cite> 
-> &nbsp;
+
+ <blockquote cite="Tim Berners-Lee">The Semantic Web is not a separate Web but an extension of the current one, in which information is given well-defined meaning, better enabling computers and people to work in cooperation.</blockquote>
 
 ### List of courses taught at NC A&T
 
