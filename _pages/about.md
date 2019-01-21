@@ -22,6 +22,7 @@ My main goal is to improve software _reliability_ by focusing on:
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
 
+  * **Janurary 2019:** Earned IBM's [Enterprise Design Thinking Badge](https://www.youracclaim.com/badges/e5123a17-6b9a-40c2-a1b3-87f8afc98a4b/public_url) to meet my responsibilities as faculty advisor for the 2nd Annual AMIE Design Challenge. 
   * **December 2018:** Became the faculty advisor for the NC A&T student team competing in the 2nd Annual AMIE Design Challenge at the 2019 Black Engineer of the Year Conference.
   * **December 2018:** Graduated Regina Bunch. Master's student. Project: Email for Austim.
   * **December 2018:** Paper "ARepair: A Repair Framework for Alloy" accepted into the 41st IEEE/ACM International Conference on Software Engineering ([ICSE 2019](https://conf.researchr.org/home/icse-2019)).
