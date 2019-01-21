@@ -5,7 +5,7 @@ author_profile: true
 ---
 <link href="https://fonts.googleapis.com/css?family=Lobster+Two" rel="stylesheet">
 
-<font face="Lobster Two" size="3">"Any increase in knowledge anywhere helps pave the way for an increase in knowledge everywhere."</font>
+<h4><font face="Lobster Two">"Any increase in knowledge anywhere helps pave the way for an increase in knowledge everywhere."</font></h4>
 - Isaac Asimov
 
 ### List of courses taught at NC A&T
