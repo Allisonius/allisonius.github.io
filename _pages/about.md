@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poiret+One');
 
 ### <i class="fa fa-fw fa-cat" aria-hidden="true"></i> About me
 I am an Assistant Professor of [Computer Science](https://www.ncat.edu/coe/departments/comp/index.html) at [North Carolina A&T State University](https://www.ncat.edu/). My CV can be found [here](/files/ASullivan_CV.pdf).
