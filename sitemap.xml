@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://allisonius.github.io/</loc>
+  <lastmod>2019-01-21T06:51:22+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://allisonius.github.io/research/</loc>
+  <lastmod>2019-01-21T06:51:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://allisonius.github.io/students/</loc>
+  <lastmod>2019-01-21T06:51:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://allisonius.github.io/teaching/</loc>
+  <lastmod>2019-01-21T06:51:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://allisonius.github.io/publications/</loc>
+  <lastmod>2019-01-21T06:51:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://allisonius.github.io/files/ASullivan_CV.pdf</loc>
+  <lastmod>2019-01-21T06:51:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://allisonius.github.io/files/dissertation.pdf</loc>
+  <lastmod>2019-01-21T06:51:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://allisonius.github.io/files/ASketchDemoFSE18.pdf</loc>
+  <lastmod>2019-01-21T06:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://allisonius.github.io/files/ARepairASE.pdf</loc>
+  <lastmod>2019-01-21T06:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://allisonius.github.io/files/ASolveABZ18.pdf</loc>
+  <lastmod>2019-01-21T06:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://allisonius.github.io/files/AGenABZ18.pdf</loc>
+  <lastmod>2019-01-21T06:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://allisonius.github.io/files/MuAlloyDemoICSE18.pdf</loc>
+  <lastmod>2019-01-21T06:51:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://allisonius.github.io/files/AUnitDemoICST18.pdf</loc>
+  <lastmod>2019-01-21T06:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://allisonius.github.io/files/StateModelSQAMIA17.pdf</loc>
+  <lastmod>2019-01-21T06:51:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://allisonius.github.io/files/AUnitICST17.pdf</loc>
+  <lastmod>2019-01-21T06:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://allisonius.github.io/files/RegressionISSRE16.pdf</loc>
+  <lastmod>2019-01-21T06:51:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://allisonius.github.io/files/AUnitSPIN14.pdf</loc>
+  <lastmod>2019-01-21T06:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
