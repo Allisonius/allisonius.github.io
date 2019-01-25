@@ -11,10 +11,10 @@ author_profile: true
 
 ### Current Students
 
-* **Fikirte Ayalke** (Doctoral Student -- Focus: Formal Methods & Cybersecurity -- Projected Graduation: Spring 2022)
-* **Jasmine Mabrey** (Masters Thesis -- Focus: Automated Program Repair -- Projected Graduation: Spring 2020)
-* **George Thompson** (Masters Thesis -- Focus: Fault Localization -- Projected Graduation: Spring 2020)
-* **Angel Patterson** (Masters Thesis -- Focus: Autonomous Vechicle Verification -- Projected Graduation: Spring 2020)
+* **Fikirte Ayalke** (Doctoral Student -- Projected Graduation: Spring 2022)
+* **Jasmine Mabrey** (Masters Thesis -- Projected Graduation: Spring 2020)
+* **George Thompson** (Masters Thesis -- Projected Graduation: Spring 2020)
+* **Angel Patterson** (Masters Thesis -- Projected Graduation: Spring 2020)
 * **Joelle Banks** (Undergraduate -- Projected Graduation: Spring 2020)
 ---
 
