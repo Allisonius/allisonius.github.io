@@ -16,6 +16,7 @@ author_profile: true
 * **George Thompson** (Masters Thesis -- Projected Graduation: Spring 2020)
 * **Angel Patterson** (Masters Thesis -- Projected Graduation: Spring 2020)
 * **Joelle Banks** (Undergraduate -- Projected Graduation: Spring 2020)
+
 ---
 
 ### Former Students
