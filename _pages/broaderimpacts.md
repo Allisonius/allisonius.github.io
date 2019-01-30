@@ -1,3 +1,9 @@
+---
+title: "Broader Impacts"
+permalink: /impacts/
+author_profile: true
+---
+
 ### Undergraduate Research Mentorship
 
 Deciding to go to graduate school is a big decision. One thing that helped me make the decision was the opportunity to partake in undergraduate research. Now a professor, I am happy to have the chance to pay that experience forward. Refer to the student tab for more information about current openings.
