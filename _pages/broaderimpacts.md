@@ -21,7 +21,8 @@ Deciding to go to graduate school is a big decision. One thing that helped me ma
 I'll let you know a trade secret about professors: we do not have to take any training related to teaching. However, undergraduate education is our chance to make the largest impact on our field, because we get the opportunity to build up all our students into productive members of the computer science community (*and that is something that touches more lives than our research ever can -- well, for most of us this is true*). Additionally, most undergraduate students pay out-of-pocket for their education, causing them to go into debt or have a 6 to 8 year bachelors path. Therefore, I am dedicated to delivering quality undergraduate education. I want my students walking out of my classroom feeling empowered and prepared for the future. I do not want them thinking it was a waste of time or that the only value they gain is the credentials for a job. I am constantly consulting with other professors to learn what did and did not work in their classrooms, and I am always looking for industry engagement in course design.
 
 ## Professional Development 
-* **\[August 2018\] Facebook's T3 Faculty Summit** dedicated to developing Data Structures and Algorithms curriculum
+* **\[Fall 2018\] Re-designed Comp 285:** I co-designed my "Comp 285: Design and Analysis of Algorithms" course with one of my PhD committee members, Dr. Julien from the University of Texas at Austin.
+* **\[August 2018\] Facebook's T3 Faculty Summit** dedicated to developing Data Structures and Algorithms curriculum.
 
 ### <i class="fa fa-fw fa-school" aria-hidden="true"></i> K-12 Outreach
 
