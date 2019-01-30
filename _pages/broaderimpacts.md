@@ -8,9 +8,9 @@ author_profile: true
 
 Deciding to go to graduate school is a big decision. One thing that helped me make the decision was the opportunity to partake in undergraduate research. Now a professor, I am happy to have the chance to pay that experience forward. Refer to the student tab for more information about current openings.
 
-## The Awesome Undergrads I've Had the Pleasure of Working With
+## The Awesome Undergrads I've Have/Had the Pleasure of Working With
 
-* **Mrs. Joelle Banks** working on an empirical study for semantic-based program repair. Projected graduate: Spring 2020
+* **\[current\] Mrs. Joelle Banks** is working on an empirical study for semantic-based program repair. Projected graduate: Spring 2020
 
 ## Undergraduate Mentorships
 * **AMIE Design Challenge at BEYA 2019:** Mentoring 6 undergraduate students as they develop a student-led solution for a student identified problem in the healthcare sector. If you are attending BEYA 2019, come check out the remarkable work these students designed and prototyped. (Industry sponsor: NetApp).
