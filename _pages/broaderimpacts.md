@@ -16,6 +16,8 @@ Deciding to go to graduate school is a big decision. One thing that helped me ma
 * **AMIE Design Challenge at BEYA 2019:** Mentoring 6 undergraduate students as they develop a student-led solution for a student identified problem in the healthcare sector. If you are attending BEYA 2019, come check out the remarkable work these students designed and prototyped. (Industry sponsor: NetApp).
 * **AutoDrive Challenge:** Mentoring 3 undergraduate students across the mapping and functional safety challenges. The AutoDrive challenge is an applied research project where the students gradually work towards building a self-driving car over a 3 year time peiod. This experience exposes undergraduate students to graduate students, industry collaboration, and the bridge between industry and research.
 
+---
+
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Undergraduate Education and Curriculum
 
 I'll let you know a trade secret about professors: we do not have to take any training related to teaching. However, undergraduate education is our chance to make the largest impact on our field, because we get the opportunity to build up all our students into productive members of the computer science community (*and that is something that touches more lives than our research ever can -- well, for most of us this is true*). Additionally, most undergraduate students pay out-of-pocket for their education, causing them to go into debt or have a 6 to 8 year bachelors path. Therefore, I am dedicated to delivering quality undergraduate education. I want my students walking out of my classroom feeling empowered and prepared for the future. I do not want them thinking it was a waste of time or that the only value they gain is the credentials for a job. I am constantly consulting with other professors to learn what did and did not work in their classrooms, and I am always looking for industry engagement in course design.
@@ -23,6 +25,8 @@ I'll let you know a trade secret about professors: we do not have to take any tr
 ## Professional Development 
 * **\[Fall 2018\] Re-designed Comp 285:** I co-designed my "Comp 285: Design and Analysis of Algorithms" course with one of my PhD committee members, Dr. Julien from the University of Texas at Austin.
 * **\[August 2018\] Facebook's T3 Faculty Summit** dedicated to developing Data Structures and Algorithms curriculum.
+
+---
 
 ### <i class="fa fa-fw fa-school" aria-hidden="true"></i> K-12 Outreach
 
