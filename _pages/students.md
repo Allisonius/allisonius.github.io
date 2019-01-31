@@ -11,8 +11,6 @@ author_profile: true
 
 ### Current Students
 
-At NC A&T, all the students I work with are from underrepresented minorities, including 4 underrepresented minority women. However, the most important thing to know about them is that they are passionate and talented.
-
 * **Fikirte Ayalke** (Doctoral Student -- Projected Graduation: Spring 2022)
 * **Jasmine Mabrey** (Masters Thesis -- Projected Graduation: Spring 2020)
 * **George Thompson** (Masters Thesis -- Projected Graduation: Spring 2020)
