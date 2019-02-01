@@ -34,4 +34,4 @@ My main goal is to improve software _reliability_ by focusing on:
   
  <center><img src="images/a.png" alt=""> <img src="images/b.jpg" alt=""> <img src="images/c.JPG" alt=""></center>
   <br>
-  I love puzzles just as much as my cat likes laying out over all the puzzle pieces. In my downtime, I play video games: I have a weekly discord get together with all my close friends in Texas. I equally enjoy getting out of the house. Since I stopped running marathons, I've taken to hiking -- I have a goal to visit every national park in the United States. I am also egar to get out and explore the world -- I enjoy backpacking with my husband internationally. 
+  I love puzzles just as much as my cat likes laying out over all the puzzle pieces. In my downtime, I play video games: I have a weekly discord get together with all my close friends in Texas. I equally enjoy getting out of the house. Since I stopped running marathons, I've taken to hiking -- I have a goal to visit every national park in the United States. I am also eager to get out and explore the world -- I enjoy backpacking with my husband internationally. 
