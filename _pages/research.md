@@ -15,15 +15,15 @@ I am interested in applied research, and the efforts to transition research idea
   * **[AUnit Analyzer:](https://sites.google.com/view/aunitanalyzer)** Extension to the Alloy Analyzer that provides support for AUnit (test creation, test execution, coverage).
   * **[MuAlloy:](https://github.com/kaiyuanw/MuAlloy)** Mutation testing tool for Alloy 
   * **[ASketch:](https://github.com/kaiyuanw/ASketch)** Tool to synthesize parts of an Alloy model using sketching.
-  * **[ARepair:](https://github.com/kaiyuanw/ARepair)** Tool for automated repair of Alloy models. The tool firsts perofmrs fault localization to narrow in on the buggy portion of the model, then uses synthesis techniques to fix the model.
+  * **[ARepair:](https://github.com/kaiyuanw/ARepair)** Tool for automated repair of Alloy models. The tool firsts performs fault localization to narrow in on the buggy portion of the model, then uses synthesis techniques to fix the model.
   
 ### <i class="fa fa-fw fa-cogs" aria-hidden="true"></i> Research Projects
 
 ## Verification of Alloy Models
-AUnit introduces the first testing infrastructure for Alloy, namely: test case, test executuion and coverage. With this infrastructure in place, we can now explore how to bring well-established imperative v&v techniques (automated test generation, fault localization, mutation testing, regression testing, etc) into the Alloy language. The goal is to enable *systematic testing* of Alloy models to build confidence in the overall correctness of a model.
+AUnit introduces the first testing infrastructure for Alloy, namely: test case, test execution and coverage. With this infrastructure in place, we can now explore how to bring well-established imperative v&v techniques (automated test generation, fault localization, mutation testing, regression testing, etc) into the Alloy language. The goal is to enable *systematic testing* of Alloy models to build confidence in the overall correctness of a model.
 
 ## Synthesis of Alloy Models
 Even with verification techniques in place, writing correct Alloy models is hard. We focus on techniques to automatically generate portions of Alloy models to enable *correct from construction* designs. This includes *sketching* portions of Alloy models to match specified behavior (AUnit test suite) and *repairing* Alloy models.
 
-## Autonomous Vechicle Verification
-Autonomous vechicles are a future technology that many expect to come to fruition. The software systems associated with autonomous vechicles will inherently be *safety critical* and we will need rigious techniques to ensure these system *never* fail. There are numerous hardware and software subsystems that interact in countless ways in autonomous vechicles. Our work focuses on approaches leveraging formal methods to develop novel techniques to verify the design, subsystem interactions, and the underlying machine learning subsystem. 
+## Autonomous Vehicle Verification
+Autonomous vehicles are a future technology that many expect to come to fruition. The software systems associated with autonomous vehicles will inherently be *safety critical* and we will need rigorous techniques to ensure these system *never* fail. There are numerous hardware and software subsystems that interact in countless ways in autonomous vehicles. Our work focuses on approaches leveraging formal methods to develop novel techniques to verify the design, subsystem interactions, and the underlying machine learning subsystem.
