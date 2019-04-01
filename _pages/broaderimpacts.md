@@ -17,7 +17,7 @@ Deciding to go to graduate school is a big decision. One thing that helped me ma
 
 * **AutoDrive Challenge:** Mentoring 3 undergraduate students across the mapping and functional safety challenges. The AutoDrive challenge is an applied research project where the students gradually work towards building a self-driving car over a 3 year time period. This experience exposes undergraduate students to graduate students, industry collaboration, and the bridge between industry and research.
 
-<center><img src="../images/amie.jpg" alt="AMIE Design Challenge"  style="width:250px;height:177px;"> <img src="../images/autodrive.jpg" alt="SAE-GM Autodrive Challenge"  style="width:250px;height:187px;"></center>
+<center><img src="../images/amie.jpg" alt="AMIE Design Challenge"  style="width:250px;height:177px;"> <img src="../images/autodrive.JPG" alt="SAE-GM Autodrive Challenge"  style="width:250px;height:187px;"></center>
 
 ---
 
