@@ -15,7 +15,7 @@ Deciding to go to graduate school is a big decision. One thing that helped me ma
 ## Undergraduate Mentorships
 * **AMIE Design Challenge at BEYA 2019:** Mentoring 6 undergraduate students as they develop a student-led solution for a student identified problem in the healthcare sector. If you are attending BEYA 2019, come check out the remarkable work these students designed and prototyped. (Industry sponsor: NetApp).
 
-<center><img src="allisonius.github.io/images/amie.jpg" alt="AMIE Design Challenge"  style="width:400px;height:283px;"> </center>
+<center><img src="../images/amie.jpg" alt="AMIE Design Challenge"  style="width:400px;height:283px;"> </center>
 
 * **AutoDrive Challenge:** Mentoring 3 undergraduate students across the mapping and functional safety challenges. The AutoDrive challenge is an applied research project where the students gradually work towards building a self-driving car over a 3 year time period. This experience exposes undergraduate students to graduate students, industry collaboration, and the bridge between industry and research.
 
