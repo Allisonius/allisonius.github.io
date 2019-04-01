@@ -38,5 +38,5 @@ Often, we follow the career paths of the people around us. As a result, many peo
 (*you are often lucky if you have a computer science class offered let alone a mechanical or electrical engineering course*).This is why STEM outreach is so important. I am eager to share the STEMS field with k-12 students, and make them aware of STEM majors as a possible career path.
 
 ## Activities
-* **Triad Programming Contest:** I am a organizer and judge for the Triad Programming Contest, hosted by NC A&T State University. The contest was open to both highschool and colleges in the greated Triad area.
+* **Triad Programming Contest:** I am an organizer and judge for the Triad Programming Contest, hosted by NC A&T State University. The contest was open to both highschool and colleges in the greated Triad area.
 * **FIRST LEGO League State Championships volunteer:** On February 2nd and 3rd, approximately 900 4th through 8th grade students from across the state of North Carolina will come to NC A&T campus to compete at the FIRST LEGO League (FLL) State Championships.
