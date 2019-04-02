@@ -6,7 +6,7 @@ author_profile: true
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Undergraduate Research Mentorship
 
-<center><img src="../images/amie.jpg" alt="AMIE Design Challenge"  style="width:250px;height:177px;"> <img src="../images/autodrive.JPG" alt="SAE-GM Autodrive Challenge"  style="width:250px;height:187px;"></center>
+<center><img src="../images/amie.png" alt="AMIE Design Challenge"> <img src="../images/auto1.png" alt="SAE-GM Autodrive Challenge"></center>
 
 Deciding to go to graduate school is a big decision. One thing that helped me make the decision was the opportunity to partake in undergraduate research. Now a professor, I am happy to have the chance to pay that experience forward. Refer to the student tab for more information about current openings.
 
