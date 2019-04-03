@@ -19,6 +19,8 @@ I am interested in applied research, and the efforts to transition research idea
   
 ### <i class="fa fa-fw fa-cogs" aria-hidden="true"></i> Research Projects
 
+<center><img src="../images/auto2.png" alt="SAE-GM Autodrive Challenge"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="../images/auto3.png" alt="SAE-GM Autodrive Challenge"></center>
+
 ## Verification of Alloy Models
 AUnit introduces the first testing infrastructure for Alloy, namely: test case, test execution and coverage. With this infrastructure in place, we can now explore how to bring well-established imperative v&v techniques (automated test generation, fault localization, mutation testing, regression testing, etc) into the Alloy language. The goal is to enable *systematic testing* of Alloy models to build confidence in the overall correctness of a model.
 
