@@ -21,8 +21,8 @@ My main goal is to improve software _reliability_ by focusing on:
   * **Formal Methods and Programming Languages:** Program Synthesis, Model Checking, Model Based Testing, First-Order Logic, Declarative Programming, Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
-  * **April 2019:** I am the faculty advisor for the [Girls Who Code Loops](https://girlswhocode.com/collegeloops/) branch an NC A&T, which we just got chartered and will be active from the 2019-2020 school year.
-  * **April 2019:** I co-hosted the Triad Programming Contest where 14 different teams competed, including both high school and collehe based teams.
+  * **April 2019:** I am the faculty advisor for the [Girls Who Code Loops](https://girlswhocode.com/collegeloops/) branch an NC A&T, which we just got chartered and will be active for the 2019-2020 school year.
+  * **April 2019:** I co-hosted the Triad Programming Contest.
   * **February 2019:** I am happy to announce that I have been selected to be a Google Faculty in Residence this summer. 
   * **January 2019:** Earned IBM's [Enterprise Design Thinking Badge](https://www.youracclaim.com/badges/e5123a17-6b9a-40c2-a1b3-87f8afc98a4b/public_url) to meet my responsibilities as faculty advisor for the 2nd Annual AMIE Design Challenge. 
   * **December 2018:** Became the faculty advisor for the NC A&T student team competing in the 2nd Annual AMIE Design Challenge at the 2019 Black Engineer of the Year Conference.
