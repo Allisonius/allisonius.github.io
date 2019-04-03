@@ -6,7 +6,6 @@ author_profile: true
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Undergraduate Research Mentorship
 
-<center><img src="../images/amie.png" alt="AMIE Design Challenge"> <img src="../images/auto1.png" alt="SAE-GM Autodrive Challenge"></center>
 
 Deciding to go to graduate school is a big decision. One thing that helped me make the decision was the opportunity to partake in undergraduate research. Now a professor, I am happy to have the chance to pay that experience forward. Refer to the student tab for more information about current openings.
 
@@ -18,6 +17,7 @@ Deciding to go to graduate school is a big decision. One thing that helped me ma
 * **AMIE Design Challenge at BEYA 2019:** Mentoring 6 undergraduate students as they develop a student-led solution for a student identified problem in the healthcare sector. If you are attending BEYA 2019, come check out the remarkable work these students designed and prototyped. (Industry sponsor: NetApp).
 * **AutoDrive Challenge:** Mentoring 3 undergraduate students across the mapping and functional safety challenges. The AutoDrive challenge is an applied research project where the students gradually work towards building a self-driving car over a 3 year time period. This experience exposes undergraduate students to graduate students, industry collaboration, and the bridge between industry and research.
 
+<center><img src="../images/amie.png" alt="AMIE Design Challenge"> &nbsp;&nbsp; <img src="../images/auto1.png" alt="SAE-GM Autodrive Challenge"></center>
 
 ---
 
