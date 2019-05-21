@@ -27,7 +27,7 @@ My main goal is to improve software _reliability_ by focusing on:
   * **April 2019:** I co-hosted the Triad Programming Contest.
   * **February 2019:** I am happy to announce that I have been selected to be a Google Faculty in Residence this summer. 
   * **January 2019:** Earned IBM's [Enterprise Design Thinking Badge](https://www.youracclaim.com/badges/e5123a17-6b9a-40c2-a1b3-87f8afc98a4b/public_url) to meet my responsibilities as faculty advisor for the 2nd Annual AMIE Design Challenge. 
-  * **December 2018:** Became the faculty advisor for the NC A&T student team competing in the 2nd Annual AMIE Design Challenge at the 2019 Black Engineer of the Year Conference.
+  * **December 2018:** Became the faculty advisor for the NC A&T student team competing in the 2nd Annual AMIE Design Challenge at the 2019 Black Engineer of the Year Award Conference ([BEYA 2019](https://s4.goeshow.com/ccgroup/beyastem/2019/index.cfm)).
   * **December 2018:** Graduated Regina Bunch. Master's student. Project: Email for Autism.
   * **December 2018:** Paper "ARepair: A Repair Framework for Alloy" accepted into the 41st IEEE/ACM International Conference on Software Engineering ([ICSE 2019](https://conf.researchr.org/home/icse-2019)).
   * **September 2018:** Joined the SAE International and General Motors co-sponsored [Autodrive Challenge](https://www.autodrivechallenge.com/) as a faculty advisor for the Functional Safety Challenge and the Mapping Challenge. This involves applying modeling and machine learning to verify autonomous vehicle systems. 
