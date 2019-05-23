@@ -21,6 +21,7 @@ My main goal is to improve software _reliability_ by focusing on:
   * **Formal Methods and Programming Languages:** Program Synthesis, Model Checking, Model Based Testing, First-Order Logic, Declarative Programming, Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
+ * **May 2019:** I am excited to have received a GHC Faculty Scholarship to attend the [2019 Grace Hopper Celebration](https://ghc.anitab.org/) in Orlando, Florida, from October 1 to 4.
  * **May 2019:** I will be NC A&T's Computer Science representative at Intel's HBCU Consortium from July 16th-17th in Hillsboro, Oregon.
  * **April 2019:** I am now a faculty member of NC A&T's Center of Excellence in Cybersecurity Research, Education and Outreach (CREO), focusing on collaborative research to apply formal methods to the cybersecurity field.
  * **April 2019:** I am the faculty advisor for the [Girls Who Code Loops](https://girlswhocode.com/collegeloops/) branch an NC A&T, which we just got chartered and will be active for the 2019-2020 school year.
