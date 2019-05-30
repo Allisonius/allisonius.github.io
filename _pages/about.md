@@ -21,12 +21,13 @@ My main goal is to improve software _reliability_ by focusing on:
   * **Formal Methods and Programming Languages:** Program Synthesis, Model Checking, Model Based Testing, First-Order Logic, Declarative Programming, Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
+ * **June 2019:** Started summer employment at Google as a Faculty in Residence. 
+ * **May 2019:** Recieved a NSF HBCU-UP ACE Implementation Project in Data Science Scholarship of Teaching and Learning Award for 2019 in the amount of $5000 to improve my curriculum for Comp 285: Design and Analysis of Algorithms.
  * **May 2019:** I am excited to have received a GHC Faculty Scholarship to attend the [2019 Grace Hopper Celebration](https://ghc.anitab.org/) in Orlando, Florida, from October 1 to 4.
  * **May 2019:** I will be NC A&T's Computer Science representative at Intel's HBCU Consortium from July 16th-17th in Hillsboro, Oregon.
  * **April 2019:** I am now a faculty member of NC A&T's Center of Excellence in Cybersecurity Research, Education and Outreach (CREO), focusing on collaborative research to apply formal methods to the cybersecurity field.
  * **April 2019:** I am the faculty advisor for the [Girls Who Code Loops](https://girlswhocode.com/collegeloops/) branch an NC A&T, which we just got chartered and will be active for the 2019-2020 school year.
   * **April 2019:** I co-hosted the Triad Programming Contest.
-  * **February 2019:** I am happy to announce that I have been selected to be a Google Faculty in Residence this summer. 
   * **January 2019:** Earned IBM's [Enterprise Design Thinking Badge](https://www.youracclaim.com/badges/e5123a17-6b9a-40c2-a1b3-87f8afc98a4b/public_url) to meet my responsibilities as faculty advisor for the 2nd Annual AMIE Design Challenge. 
   * **December 2018:** Became the faculty advisor for the NC A&T student team competing in the 2nd Annual AMIE Design Challenge at the 2019 Black Engineer of the Year Award Conference ([BEYA 2019](https://s4.goeshow.com/ccgroup/beyastem/2019/index.cfm)).
   * **December 2018:** Graduated Regina Bunch. Master's student. Project: Email for Autism.
