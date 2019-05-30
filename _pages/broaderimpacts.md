@@ -14,7 +14,7 @@ Deciding to go to graduate school is a big decision. One thing that helped me ma
 * **\[current\] Mrs. Joelle Banks** is working on an empirical study for semantic-based program repair. Projected graduate: Spring 2020.
 
 ## Undergraduate Mentorships
-* **AMIE Design Challenge at BEYA 2019:** Mentoring 6 undergraduate students as they develop a student-led solution for a student identified problem in the healthcare sector. If you are attending BEYA 2019, come check out the remarkable work these students designed and prototyped. (Industry sponsor: NetApp).
+* **AMIE Design Challenge at BEYA 2019:** Mentoring 6 undergraduate students as they develop a student-led solution for a student identified problem in the healthcare sector. If you are attending BEYA 2019, come check out the remarkable work these students designed and prototyped. (Industry sponsor: NetApp). I also earned IBM's [Enterprise Design Thinking Badge](https://www.youracclaim.com/badges/e5123a17-6b9a-40c2-a1b3-87f8afc98a4b/public_url) to meet my responsibilities as faculty advisor.
 * **AutoDrive Challenge:** Mentoring 3 undergraduate students across the mapping and functional safety challenges. The AutoDrive challenge is an applied research project where the students gradually work towards building a self-driving car over a 3 year time period. This experience exposes undergraduate students to graduate students, industry collaboration, and the bridge between industry and research.
 
 <center><img src="../images/amie.png" alt="AMIE Design Challenge"> &nbsp;&nbsp; <img src="../images/auto1.png" alt="SAE-GM Autodrive Challenge"></center>
@@ -23,7 +23,7 @@ Deciding to go to graduate school is a big decision. One thing that helped me ma
 
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Undergraduate Education and Curriculum
 
-I'll let you know a trade secret about professors: we do not have to take any training related to teaching. However, undergraduate education is our chance to make the largest impact on our field, because we get the opportunity to build up all our students into productive members of the computer science community (*and that is something that touches more lives than our research ever can -- well, for most of us this is true*). Additionally, most undergraduate students pay out-of-pocket for their education, causing them to go into debt or have a 6 to 8 year bachelors path. Therefore, I am dedicated to delivering quality undergraduate education. I want my students walking out of my classroom feeling empowered and prepared for the future. I do not want them thinking it was a waste of time or that the only value they gain is the credentials for a job. I am constantly consulting with other professors to learn what did and did not work in their classrooms, and I am always looking for industry engagement in course design.
+I'll let you know a trade secret about professors: we do not have to take any training related to teaching. However, undergraduate education is our chance to make the largest impact on our field, because we get the opportunity to build up all our students into productive members of the computer science community (*and that is something that touches more lives than our research ever can -- well, for most of us this is true*). With the continual rising cost of higher education, I am dedicated to constantly improving and innovating my course material.
 
 ## Professional Development 
 * **\[Summer 2019\] Google FIR:** FIR is an immersive professional development program that engages CS faculty serving underrepresented populations in tech.  Our focus is on industry-informed, applied learning projects. 
@@ -38,5 +38,5 @@ Often, we follow the career paths of the people around us. As a result, many peo
 (*you are often lucky if you have a computer science class offered let alone a mechanical or electrical engineering course*).This is why STEM outreach is so important. I am eager to share the STEMS field with k-12 students, and make them aware of STEM majors as a possible career path.
 
 ## Activities
-* **Triad Programming Contest:** I am an organizer and judge for the Triad Programming Contest, hosted by NC A&T State University. The contest was open to both highschool and colleges in the greated Triad area.
+* **Triad Programming Contest:** I am an organizer and judge for the Triad Programming Contest, hosted by NC A&T State University. The contest was open to both high school and colleges in the greater Triad area.
 * **FIRST LEGO League State Championships volunteer:** On February 2nd and 3rd, approximately 900 4th through 8th grade students from across the state of North Carolina will come to NC A&T campus to compete at the FIRST LEGO League (FLL) State Championships.
