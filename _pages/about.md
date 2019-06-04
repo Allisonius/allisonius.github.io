@@ -21,7 +21,7 @@ My main goal is to improve software _reliability_ by focusing on:
   * **Formal Methods and Programming Languages:** Program Synthesis, Model Checking, Model Based Testing, First-Order Logic, Declarative Programming, Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
-  * **June 2019:** NC A&T's AutoDrive challenge team - Aggie Autonomous Auto - placed 2nd overall in the year 2 competition. My students placed 3rd in the mapping sub-challenge. There was no dedicated sub-challenge for the functional safety team. 
+  * **June 2019:** NC A&T's AutoDrive challenge team - Aggies Autonomous Auto (A3) - placed 2nd overall in the year 2 competition. My students placed 3rd in the mapping sub-challenge. There was no dedicated sub-challenge for the functional safety team. 
   * **June 2019:** Started summer employment at Google as a Faculty in Residence. 
   * **May 2018:** Presented accepted paper "ARepair: A Repair Framework for Alloy" at the 41st IEEE/ACM International Conference on Software Engineering ([ICSE 2019](https://conf.researchr.org/home/icse-2019)).
  * **May 2019:** My proposal "Project Based Learning in the Teaching of Analysis of Algorithms" received funding as a NSF HBCU-UP ACE Implementation Project in Data Science Scholarship of Teaching and Learning Award. Amount: $5000.
