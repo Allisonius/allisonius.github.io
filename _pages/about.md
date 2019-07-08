@@ -24,7 +24,7 @@ My main goal is to improve software _reliability_ by focusing on:
   * **June 2019:** The AutoDrive challenge team - Aggies Autonomous Auto (A3) - [placed **2nd** overall in the year 2 competition!](https://www.ncat.edu/coe/coe_news_room/2019-coenews/2019-autodrive-challenge.html)
   * **June 2019:** Started summer employment at Google as a Faculty in Residence. 
   * **May 2018:** Presented accepted paper "ARepair: A Repair Framework for Alloy" at the 41st IEEE/ACM International Conference on Software Engineering ([ICSE 2019](https://conf.researchr.org/home/icse-2019)).
- * **May 2019:** My proposal "Project Based Learning in the Teaching of Analysis of Algorithms" received funding as a Scholarship of Teaching and Learning Fellowship under an NSF HBCU-UP ACE Implementation Project. Amount: $5000.
+ * **May 2019:** My proposal "Project Based Learning in the Teaching of Analysis of Algorithms" received funding as a Scholarship of Teaching and Learning Fellowship under an NSF HBCU-UP ACE Implementation Project. Amt: $5000.
  * **May 2019:** I am excited to have received a GHC Faculty Scholarship to attend the [2019 Grace Hopper Celebration](https://ghc.anitab.org/) in Orlando, Florida, from October 1 to 4.
  * **May 2019:** I will be NC A&T's Computer Science representative at Intel's HBCU Consortium from July 16th-17th in Hillsboro, Oregon.
  * **April 2019:** I am now a faculty member of NC A&T's Center of Excellence in Cybersecurity Research, Education and Outreach (CREO), focusing on collaborative research to apply formal methods to the cybersecurity field.
