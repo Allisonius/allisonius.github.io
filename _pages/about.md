@@ -21,7 +21,7 @@ My main goal is to improve software _reliability_ by focusing on:
   * **Formal Methods and Programming Languages:** Program Synthesis, Model Checking, Model Based Testing, First-Order Logic, Declarative Programming, Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
-  * **August 2019:** I recieved an [NSF FMitF award](...) to continue work on verification and synthesis of Alloy models.
+  * **August 2019:** I recieved an [NSF FMitF award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1918189&HistoricalAwards=false) to continue work on verification and synthesis of Alloy models.
   * **June 2019:** The AutoDrive challenge team - Aggies Autonomous Auto - [placed **2nd** in the year 2 competition!](https://www.ncat.edu/coe/coe_news_room/2019-coenews/2019-autodrive-challenge.html)
   * **June 2019:** Started summer employment at Google as a Faculty in Residence. 
   * **May 2018:** Presented accepted paper "ARepair: A Repair Framework for Alloy" at the 41st IEEE/ACM International Conference on Software Engineering ([ICSE 2019](https://conf.researchr.org/home/icse-2019)).
