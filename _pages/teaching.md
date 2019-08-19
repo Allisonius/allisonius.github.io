@@ -11,6 +11,8 @@ author_profile: true
 
 ### List of courses taught at NC A&T
 
+* **Fall 2019:** Comp 611: [System Testing and Evaluation](https://comp611-fall19.github.io/) (Graduate)
+* **Fall 2019:** Comp 285: [Design and Analysis of Algorithms](https://comp285-fall19.github.io/) (Undergrad)
 * **Spring 2019:** Comp 681 [Formal Methods](https://comp681-spring19.github.io/) (Graduate)
 * **Spring 2019:** Comp 496: [Senior Design](https://comp496-spring19.github.io/) (Undergrad)
 * **Fall 2018:** Comp 285: [Design and Analysis of Algorithms](https://comp285-fall18.github.io/) (Undergrad)
