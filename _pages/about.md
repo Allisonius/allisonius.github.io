@@ -21,6 +21,7 @@ My main goal is to improve software _reliability_ by focusing on:
   * **Formal Methods and Programming Languages:** Program Synthesis, Model Checking, Model Based Testing, First-Order Logic, Declarative Programming, Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
+ * **September 2019:** I am the faculty advisor for the Society of Women Engineers (SWE) NC A&T branch.
  * **August 2019:** Our paper "Solution Enumeration Abstraction -- A Modeling Idiom to Enhance a Lightweight Formal Method" got accepted into [ICFEM 19](http://csse.szu.edu.cn/icfem2019/).
   * **August 2019:** I recieved an [NSF FMitF award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1918189&HistoricalAwards=false) to continue work on verification and synthesis of Alloy models.
   * **June 2019:** The AutoDrive challenge team - Aggies Autonomous Auto - [placed **2nd** in the year 2 competition!](https://www.ncat.edu/coe/coe_news_room/2019-coenews/2019-autodrive-challenge.html)
