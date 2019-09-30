@@ -21,6 +21,7 @@ My main goal is to improve software _reliability_ by focusing on:
   * **Formal Methods and Programming Languages:** Program Synthesis, Model Checking, Model Based Testing, First-Order Logic, Declarative Programming, Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
+* **October 2019:** Attending the 2019 Grace Hopper Celebration as a [Faculty Scholar](https://ghc.anitab.org/2019-student-academic/scholarships/our-ghc-19-scholars-2/attachment/sullivan-allison/).
  * **September 2019:** I am the faculty advisor for the Society of Women Engineers (SWE) NC A&T branch.
  * **August 2019:** Our paper "Solution Enumeration Abstraction -- A Modeling Idiom to Enhance a Lightweight Formal Method" got accepted into [ICFEM 19](http://csse.szu.edu.cn/icfem2019/).
   * **August 2019:** I recieved an [NSF FMitF award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1918189&HistoricalAwards=false) to continue work on verification and synthesis of Alloy models.
