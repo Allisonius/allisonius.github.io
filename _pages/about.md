@@ -21,7 +21,7 @@ My main goal is to improve software _reliability_ by focusing on:
   * **Formal Methods and Programming Languages:** Program Synthesis, Model Checking, Model Based Testing, First-Order Logic, Declarative Programming, Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
-* **October 2019:** Attending the 2019 Grace Hopper Celebration as a [Faculty Scholar](https://ghc.anitab.org/2019-student-academic/scholarships/our-ghc-19-scholars-2/attachment/sullivan-allison/).
+* **October 2019:** Attended the 2019 Grace Hopper Celebration as a [Faculty Scholar](https://ghc.anitab.org/2019-student-academic/scholarships/our-ghc-19-scholars-2/attachment/sullivan-allison/).
  * **September 2019:** I am the faculty advisor for the Society of Women Engineers (SWE) NC A&T branch.
  * **August 2019:** Our paper "Solution Enumeration Abstraction -- A Modeling Idiom to Enhance a Lightweight Formal Method" got accepted into [ICFEM 19](http://csse.szu.edu.cn/icfem2019/).
   * **August 2019:** I recieved an [NSF FMitF award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1918189&HistoricalAwards=false) to continue work on verification and synthesis of Alloy models.
@@ -29,7 +29,6 @@ My main goal is to improve software _reliability_ by focusing on:
   * **June 2019:** Started summer employment at Google as a Faculty in Residence. 
   * **May 2018:** Presented accepted paper "ARepair: A Repair Framework for Alloy" at the 41st IEEE/ACM International Conference on Software Engineering ([ICSE 2019](https://conf.researchr.org/home/icse-2019)).
  * **May 2019:** My proposal "Project Based Learning in the Teaching of Analysis of Algorithms" received funding as a Scholarship of Teaching and Learning Fellowship under an NSF HBCU-UP ACE Implementation Project. Amt: $5000.
- * **May 2019:** I am excited to have received a GHC Faculty Scholarship to attend the [2019 Grace Hopper Celebration](https://ghc.anitab.org/) in Orlando, Florida, from October 1 to 4.
  * **May 2019:** I will be NC A&T's Computer Science representative at Intel's HBCU Consortium from July 16th-17th in Hillsboro, Oregon.
  * **April 2019:** I am now a faculty member of NC A&T's Center of Excellence in Cybersecurity Research, Education and Outreach (CREO), focusing on collaborative research to apply formal methods to the cybersecurity field.
  * **April 2019:** I am the faculty advisor for the [Girls Who Code Loops](https://girlswhocode.com/collegeloops/) branch an NC A&T, which we just got chartered and will be active for the 2019-2020 school year.
