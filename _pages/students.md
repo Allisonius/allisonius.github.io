@@ -11,7 +11,7 @@ author_profile: true
 
 ### Current Students
 
-* **Fikirte Ayalke** (Doctoral Student -- Projected Graduation: Spring 2022)
+* **Fikirte Ayalke** (Doctoral Student -- Projected Graduation: Spring 2022) \[Co-Advised with Dr. Xiaohong Yuan\]
 * **Swetha Chittam** (Masters Project -- Projected Graduation: Spring 2020)
 * **Jasmine Mabrey** (Masters Thesis -- Projected Graduation: Spring 2020)
 * **Jeffrey Moore, II** (Masters Thesis -- Projected Graduation: Spring 2020)
