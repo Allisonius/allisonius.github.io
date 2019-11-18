@@ -17,8 +17,10 @@ I obtained my PhD in the Software Verification, Validation and Testing (SVVAT) g
 ### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Interest
 
 My main goal is to improve software _reliability_ by focusing on:
-  * **Automated Software Engineering:** Test/Oracle Generation, Automated Bug Localization and Repair, Regression Testing, Parallel and Incremental Program Analysis Techniques
-  * **Formal Methods and Programming Languages:** Program Synthesis, Model Checking, Model Based Testing, First-Order Logic, Declarative Programming, Symbolic Execution
+  * **Automated Software Engineering:** Test/Oracle Generation, Automated Bug Localization and Repair, Regression Testing, and
+Mutation Testing
+  * **Formal Methods and Programming Languages:** Model Based Testing, First-Order Logic, Program Synthesis, Model
+Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
  * **November 2019:** Presented our paper "Solution Enumeration Abstraction -- A Modeling Idiom to Enhance a Lightweight Formal Method" at [ICFEM 19](http://csse.szu.edu.cn/icfem2019/).
