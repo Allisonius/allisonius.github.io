@@ -27,7 +27,7 @@ Checking and Symbolic Execution
 * **October 2019:** Attended the 2019 Grace Hopper Celebration as a [Faculty Scholar](https://ghc.anitab.org/2019-student-academic/scholarships/our-ghc-19-scholars-2/attachment/sullivan-allison/).
  * **September 2019:** I am the faculty advisor for the Society of Women Engineers (SWE) NC A&T branch.
  * **August 2019:** Our paper "Solution Enumeration Abstraction -- A Modeling Idiom to Enhance a Lightweight Formal Method" got accepted into [ICFEM 19](http://csse.szu.edu.cn/icfem2019/).
-  * **August 2019:** I recieved an [NSF FMitF award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1918189&HistoricalAwards=false) to continue work on verification and synthesis of Alloy models.
+  * **August 2019:** I received an [NSF FMitF award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1918189&HistoricalAwards=false) to continue work on verification and synthesis of Alloy models.
   * **June 2019:** The AutoDrive challenge team - Aggies Autonomous Auto - [placed **2nd** in the year 2 competition!](https://www.ncat.edu/coe/coe_news_room/2019-coenews/2019-autodrive-challenge.html)
   * **June 2019:** Started summer employment at Google as a Faculty in Residence. 
   * **May 2018:** Presented accepted paper "ARepair: A Repair Framework for Alloy" at the 41st IEEE/ACM International Conference on Software Engineering ([ICSE 2019](https://conf.researchr.org/home/icse-2019)).
