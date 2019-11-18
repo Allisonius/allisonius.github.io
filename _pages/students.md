@@ -12,10 +12,10 @@ author_profile: true
 ### Current Students
 
 * **Fikirte Ayalke** (Doctoral Student -- Projected Graduation: Spring 2022)
+* **Swetha Chittam** (Masters Project -- Projected Graduation: Spring 2020)
 * **Jasmine Mabrey** (Masters Thesis -- Projected Graduation: Spring 2020)
 * **Jeffrey Moore, II** (Masters Thesis -- Projected Graduation: Spring 2020)
 * **George Thompson** (Masters Thesis -- Projected Graduation: Spring 2020)
-* **Angel Patterson** (Masters Thesis -- Projected Graduation: Spring 2020)
 * **Joelle Banks** (Undergraduate -- Projected Graduation: Spring 2020)
 
 ---
