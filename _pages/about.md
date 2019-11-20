@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 ### <i class="fa fa-fw fa-cat" aria-hidden="true"></i> About me
-I am an Assistant Professor of [Computer Science](https://www.ncat.edu/coe/departments/comp/index.html) at [North Carolina A&T State University](https://www.ncat.edu/) (NC A&T). My CV can be found [here](/files/ASullivan_CV.pdf).
+I am an Assistant Professor of [Computer Science](https://www.ncat.edu/coe/departments/comp/index.html) at [North Carolina A&T State University](https://www.ncat.edu/) (NC A&T). Here is my current [CV](/files/ASullivan_CV.pdf), [Research Statement](../files/researchstatement.pdf), [Teaching Statement](../files/teachingstatement.pdf), and [Contribution to Diversity, Equity, and Inclusion](../files/Commitment_to_Diversity_Statement.pdf)
 
 I obtained my PhD in the Software Verification, Validation and Testing (SVVAT) group at the University of Texas at Austin (hook'em) in 2017. My adviser is [Sarfraz Khurshid](https://users.ece.utexas.edu/~khurshid/). I obtained my M.S. degree in software engineering at UT Austin in 2014 and my B.S. degree in software engineering from The University of Texas at Dallas in 2012 (whoosh). My PhD dissertation can be found [here](files/dissertation.pdf). 
+
+
 
 
 ### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Interest
