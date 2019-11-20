@@ -9,11 +9,11 @@ author_profile: true
 * **Solution Enumeration Abstraction - A Modeling Idiom to Enhance a Lightweight Formal Method**     
 **A.Sullivan**, D. Marinov, S. Khurshid     
 _The 21st International Conference on Formal Engineering Methods_     
-(ICFEM) November 2019. To Appear.
+(ICFEM) November 2019. \[[PDF](../files/ARepairDemo.pdf)\]
 * **ARepair: A Repair Framework for Alloy**     
 K. Wang, **A. Sullivan**, S. Khurshid  
 *Proceedings of the 41st IEEE/ACM International Conference on Software Engineering*  
- (ICSE 2019 Demo) May 2019.  \[[PDF](../files/ARepairDemo.pdf)\]
+ (ICSE 2019 Demo) May 2019.  \[[PDF](../files/SolutionEnumerationAbstractionICFEM.pdf)\]
 
 ### 2018
 
