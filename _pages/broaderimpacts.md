@@ -12,6 +12,7 @@ Deciding to go to graduate school is a big decision. One thing that helped me ma
 ## The Awesome Undergrads I've Have/Had the Pleasure of Working With
 
 * **\[current\] Mrs. Joelle Banks** is working on an empirical study for semantic-based program repair. Projected graduate: Spring 2020.
+* **\[current\] Mr. William Dunston** is working on improving the efficiency of program repair if the type of fault is known. Projected graduate: Spring 2020.
 
 ## Undergraduate Mentorships
 * **AMIE Design Challenge at BEYA 2019:** Mentoring 6 undergraduate students as they develop a student-led solution for a student identified problem in the healthcare sector. If you are attending BEYA 2019, come check out the remarkable work these students designed and prototyped. (Industry sponsor: NetApp). I also earned IBM's [Enterprise Design Thinking Badge](https://www.youracclaim.com/badges/e5123a17-6b9a-40c2-a1b3-87f8afc98a4b/public_url) to meet my responsibilities as faculty advisor.
