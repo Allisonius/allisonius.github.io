@@ -17,6 +17,7 @@ author_profile: true
 * **Jeffrey Moore, II** (Masters Thesis -- Projected Graduation: Spring 2020)
 * **George Thompson** (Masters Thesis -- Projected Graduation: Spring 2020)
 * **Joelle Banks** (Undergraduate -- Projected Graduation: Spring 2020)
+* **William Dunston** (Undergraduate -- Projected Graduation: Spring 2020)
 
 ---
 
