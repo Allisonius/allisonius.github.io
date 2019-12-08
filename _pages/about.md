@@ -27,7 +27,7 @@ Mutation Testing
 Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
- * **December 2019:** Participating in a female engineer focus group on how to prepare students for careers as research engineers. The effort is part of [NSF Innovations in Graduate Education: Developing a Research Engineer Identity](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1856346&HistoricalAwards=false) grant.
+ * **December 2019:** Participating in a female engineer focus group on how to prepare students for careers as researchers. The effort is part of [NSF Innovations in Graduate Education: Developing a Research Engineer Identity](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1856346&HistoricalAwards=false) grant.
  * **December 2019:** Congratulations to Mr. Derrick LeFlore for his successful MS defense and congratulations to Mrs. Hanan Alshahr and Mr. Shannon Brown for their successful PhD and MS proposals respectively.
  * **November 2019:** Presented our paper "Solution Enumeration Abstraction -- A Modeling Idiom to Enhance a Lightweight Formal Method" at [ICFEM 19](http://csse.szu.edu.cn/icfem2019/).
 * **October 2019:** Attended the 2019 Grace Hopper Celebration as a [Faculty Scholar](https://ghc.anitab.org/2019-student-academic/scholarships/our-ghc-19-scholars-2/attachment/sullivan-allison/).
