@@ -25,7 +25,7 @@ My main goal is to improve software _reliability_ by focusing on:
 Mutation Testing
   * **Formal Methods and Programming Languages:** Model Based Testing, First-Order Logic, Program Synthesis, Model
 Checking and Symbolic Execution
- * **Upcoming Service:** SPIN 2020 (PC Member)
+ * **Upcoming Service:** SPIN 2020 (PC Member), NSF FMitF Operating and Distributed System Panelist 
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
 * **Janurary 2020:** Faculty advisor for the NC A&T student team competing in the 3rd Annual AMIE Design Challenge at the 2020 Black Engineer of the Year Award Conference ([BEYA 2020](https://s4.goeshow.com/ccgroup/beyastem/2020/index.cfm)).
