@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### <i class="fa fa-fw fa-cat" aria-hidden="true"></i> About me
-I am an Assistant Professor of [Computer Science](https://www.ncat.edu/coe/departments/comp/index.html) at [North Carolina A&T State University](https://www.ncat.edu/) (NC A&T). 
+I am an Assistant Professor of [Computer Science](https://www.ncat.edu/coe/departments/cs/index.php) at [North Carolina A&T State University](https://www.ncat.edu/) (NC A&T). 
 
 Here is my current [CV](/files/ASullivan_CV.pdf), [Research Statement](../files/research_statement.pdf), [Teaching Statement](../files/teaching_statement.pdf), and [Contribution to Diversity, Equity, and Inclusion](../files/Commitment_to_Diversity_Statement.pdf).
 
