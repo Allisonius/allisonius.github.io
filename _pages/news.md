@@ -4,7 +4,6 @@ permalink: /news/
 author_profile: true
 ---
 
-### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
 * **Janurary 2020:** Faculty advisor for the NC A&T student team competing in the 3rd Annual AMIE Design Challenge at the 2020 Black Engineer of the Year Award Conference ([BEYA 2020](https://s4.goeshow.com/ccgroup/beyastem/2020/index.cfm)).
  * **December 2019:** Participating in a female engineer focus group on how to prepare students for careers as researchers as part of an  [NSF Innovations in Graduate Education: Developing a Research Engineer Identity](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1856346&HistoricalAwards=false) grant.
  * **December 2019:** Congratulations to Mr. Derrick LeFlore for his successful MS defense and congratulations to Mrs. Hanan Alshahr and Mr. Shannon Brown for their successful PhD and MS proposals respectively.
