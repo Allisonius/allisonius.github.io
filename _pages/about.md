@@ -28,6 +28,7 @@ Checking and Symbolic Execution
  * **Upcoming Service:** SPIN 2020 (PC Member), ESEC/FSE 2020 Tool Demonstrations Track (PC Member), 2 Panels for the National Science Foundation
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
+* **February 2020:** I am a Performer on the Naval Research Laboratory project "Assured Development and Operation of Autonomous Systems (ADAS)" funded by the DoD Research and Engineering (Modernization) program. Lead PI: Constance Heitmeyer. Total: $45M, My Share: $885k.
 * **February 2020:** Lead organizer for the 2020 Triad Programming Contest.
 * **Janurary 2020:** Faculty advisor for the NC A&T student team competing in the 3rd Annual AMIE Design Challenge at the 2020 Black Engineer of the Year Award Conference ([BEYA 2020](https://s4.goeshow.com/ccgroup/beyastem/2020/index.cfm)).
  * **December 2019:** Participating in a female engineer focus group on how to prepare students for careers as researchers as part of an  [NSF Innovations in Graduate Education: Developing a Research Engineer Identity](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1856346&HistoricalAwards=false) grant.
