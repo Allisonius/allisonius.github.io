@@ -9,7 +9,7 @@ author_profile: true
  
  *~Isaac Asimov*
 
-### List of courses taught at NC A&T
+### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> List of courses taught at NC A&T
 
 * **Spring 2020:** Comp 681 [Formal Methods](https://comp681-spring20.github.io/) (Graduate)
 * **Spring 2020:** Comp 496: [Senior Design](https://comp496-spring20.github.io/) (Undergrad)
