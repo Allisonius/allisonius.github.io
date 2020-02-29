@@ -20,8 +20,6 @@ Deciding to go to graduate school is a big decision. One thing that helped me ma
 
 <center><img src="../images/amie.png" alt="AMIE Design Challenge"> &nbsp;&nbsp; <img src="../images/auto1.png" alt="SAE-GM Autodrive Challenge"></center>
 
----
-
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Undergraduate Education and Curriculum
 
 Undergraduate education is our chance to make the largest impact on our field, because we get the opportunity to build up all our students into productive members of the computer science community. Futhermore, with the continual rising cost of higher education, I am dedicated to constantly improving and innovating my course material.
@@ -30,8 +28,6 @@ Undergraduate education is our chance to make the largest impact on our field, b
 * **\[Summer 2019\] Google FIR:** FIR is an immersive professional development program that engages CS faculty serving underrepresented populations in tech.  Our focus is on industry-informed, applied learning projects. 
 * **\[Fall 2018\] Re-designed Comp 285:** I co-designed my "Comp 285: Design and Analysis of Algorithms" course with one of my PhD committee members, Dr. Julien from the University of Texas at Austin.
 * **\[August 2018\] Facebook's T3 Faculty Summit** dedicated to developing Data Structures and Algorithms curriculum.
-
----
 
 ### <i class="fa fa-fw fa-school" aria-hidden="true"></i> K-12 Outreach
 
