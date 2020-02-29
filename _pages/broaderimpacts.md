@@ -15,7 +15,7 @@ Deciding to go to graduate school is a big decision. One thing that helped me ma
 * **\[current\] Mr. William Dunston** is working on improving the efficiency of program repair if the type of fault is known. Projected graduate: Spring 2020.
 
 ## Undergraduate Mentorships
-* **AMIE Design Challenge at BEYA:** Mentoring students as they develop a student-led solution for a student identified problem in the healthcare sector. If you are attending BEYA 2019, come check out the remarkable work these students designed and prototyped. (Industry sponsor: NetApp 2019, Apple 2020). I also earned IBM's [Enterprise Design Thinking Badge](https://www.youracclaim.com/badges/e5123a17-6b9a-40c2-a1b3-87f8afc98a4b/public_url) to meet my responsibilities as faculty advisor.
+* **AMIE Design Challenge hosted at the BEYA conference:** Mentoring students as they develop a student-led solution for a student identified problem in the healthcare sector. (Industry sponsor: NetApp 2019, Apple 2020). I also earned IBM's [Enterprise Design Thinking Badge](https://www.youracclaim.com/badges/e5123a17-6b9a-40c2-a1b3-87f8afc98a4b/public_url) to meet my responsibilities as faculty advisor.
 * **AutoDrive Challenge:** Mentoring 3 undergraduate students across the mapping and functional safety challenges. The AutoDrive challenge is an applied research project where the students gradually work towards building a self-driving car over a 3 year time period. This experience exposes undergraduate students to graduate students, industry collaboration, and the bridge between industry and research.
 
 <center><img src="../images/amie.png" alt="AMIE Design Challenge"> &nbsp;&nbsp; <img src="../images/auto1.png" alt="SAE-GM Autodrive Challenge"></center>
