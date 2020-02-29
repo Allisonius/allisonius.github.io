@@ -20,7 +20,7 @@ I am interested in applied research, and the efforts to transition research idea
   
 ### <i class="fa fa-fw fa-cogs" aria-hidden="true"></i> Research Projects
 
-## <i class="fa fa-fw fa-satellite" aria-hidden="true"></i> Model-Based Testing of Autonomous Systems 
+## <i class="fa fa-fw fa-robot" aria-hidden="true"></i> Model-Based Testing of Autonomous Systems 
 Formally verifying a system is the first step in ensuring system reliability. However, a crucial next step is ensuing the corresponding implementation is a faithful reproduction of the formal model. I am working with an interdisciplinary team to develop methods to link highly assured formal methods of autonomous systems to the actual implementations of those systems. We are crafting novel ways to utilize model-based testing to ensure the implementation of an autonomous system has the same behavior as the corresponding formally assured model. Due to the many collaborators on this project, we will be able to develop these practices over operational autonomous systems in the Department of Defense.
 
 ## <i class="fa fa-fw fa-car-side" aria-hidden="true"></i> Autonomous Vehicle Verification 
