@@ -20,16 +20,16 @@ I am interested in applied research, and the efforts to transition research idea
   
 ### <i class="fa fa-fw fa-cogs" aria-hidden="true"></i> Research Projects
 
-## Model-Based Testing of Autonomous Systems 
+## <i class="fa fa-fw fa-fighter-jet" aria-hidden="true"></i> Model-Based Testing of Autonomous Systems 
 Formally verifying a system is the first step in ensuring system reliability. However, a crucial next step is ensuing the corresponding implementation is a faithful reproduction of the formal model. I am working with an interdisciplinary team to develop methods to link highly assured formal methods of autonomous systems to the actual implementations of those systems. We are crafting novel ways to utilize model-based testing to ensure the implementation of an autonomous system has the same behavior as the corresponding formally assured model. Due to the many collaborators on this project, we will be able to develop these practices over operational autonomous systems in the Department of Defense.
 
-## Autonomous Vehicle Verification
+## <i class="fa fa-fw fa-car-side" aria-hidden="true"></i> Autonomous Vehicle Verification 
 Autonomous vehicles are a future technology that many expect to come to fruition. The software systems associated with autonomous vehicles will inherently be *safety critical* and we will need rigorous techniques to ensure these system *never* fail. There are numerous hardware and software subsystems that interact in countless ways in autonomous vehicles. Our work focuses on approaches leveraging formal methods to develop novel techniques to verify the design, subsystem interactions, and the underlying machine learning subsystem.
 
 <center><img src="../images/auto2.png" alt="SAE-GM Autodrive Challenge"> &nbsp;&nbsp;&nbsp;<img src="../images/auto3.png" alt="SAE-GM Autodrive Challenge"></center>
 
-## Verification of Alloy Models
+## <i class="fa fa-fw fa-bug" aria-hidden="true"></i> Verification of Alloy Models
 AUnit introduces the first testing infrastructure for Alloy, namely: test case, test execution and coverage. With this infrastructure in place, we can now explore how to bring well-established imperative v&v techniques (automated test generation, fault localization, mutation testing, regression testing, etc) into the Alloy language. The goal is to enable *systematic testing* of Alloy models to build confidence in the overall correctness of a model.
 
-## Synthesis of Alloy Models
+## <i class="fa fa-fw fa-atom" aria-hidden="true"></i> Synthesis of Alloy Models
 Even with verification techniques in place, writing correct Alloy models is hard. We focus on techniques to automatically generate portions of Alloy models to enable *correct from construction* designs. This includes *sketching* portions of Alloy models to match specified behavior (AUnit test suite) and *repairing* Alloy models.
