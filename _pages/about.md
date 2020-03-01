@@ -16,7 +16,7 @@ Here is my current [CV](/files/ASullivan_CV.pdf), [Research Statement](../files/
 I obtained my PhD in the Software Verification, Validation and Testing (SVVAT) group at the University of Texas at Austin (hook'em) in 2017. My adviser is [Sarfraz Khurshid](https://users.ece.utexas.edu/~khurshid/). I obtained my M.S. degree in software engineering at UT Austin in 2014 and my B.S. degree in software engineering from The University of Texas at Dallas in 2012 (whoosh). My PhD dissertation can be found [here](files/dissertation.pdf). 
 
 ### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Interest
-My main goal is to improve software _reliability_ by focusing on:
+My main goal is to improve **software reliability** by focusing on:
   * **Automated Software Engineering:** Test/Oracle Generation, Automated Bug Localization and Repair, Regression Testing, and
 Mutation Testing
   * **Formal Methods and Programming Languages:** Model Based Testing, First-Order Logic, Program Synthesis, Model
