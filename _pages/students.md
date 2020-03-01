@@ -19,8 +19,6 @@ author_profile: true
 * **Joelle Banks** (Undergraduate -- Projected Graduation: Spring 2020)
 * **William Dunston** (Undergraduate -- Projected Graduation: Spring 2020)
 
----
-
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students
 
 * **Regina Bunch** (Master's Fall 2018 -- Project: Email for Autism)
