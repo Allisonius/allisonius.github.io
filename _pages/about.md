@@ -16,7 +16,7 @@ Here is my current [CV](/files/ASullivan_CV.pdf), [Research Statement](../files/
 I obtained my PhD in the Software Verification, Validation and Testing (SVVAT) group at the University of Texas at Austin (hook'em) in 2017. My adviser is [Sarfraz Khurshid](https://users.ece.utexas.edu/~khurshid/). I obtained my M.S. degree in software engineering at UT Austin in 2014 and my B.S. degree in software engineering from The University of Texas at Dallas in 2012 (whoosh). My PhD dissertation can be found [here](files/dissertation.pdf). 
 
 ### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Interest
-My main goal is to improve **software reliability** by focusing on:
+My main goal is to improve software reliability by focusing on:
   * **Automated Software Engineering:** Test/Oracle Generation, Automated Bug Localization and Repair, Regression Testing, and
 Mutation Testing
   * **Formal Methods and Programming Languages:** Model Based Testing, First-Order Logic, Program Synthesis, Model
@@ -24,7 +24,7 @@ Checking and Symbolic Execution
  * **Upcoming Service:** SPIN 2020 (PC Member), ESEC/FSE 2020 Tool Demonstrations Track (PC Member), 2 Panels for the National Science Foundation
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
-* **February 2020:** I am a Performer on the Naval Research Laboratory project **"Assured Development and Operation of Autonomous Systems (ADAS)"** funded by the DoD Research and Engineering Modernization program. **Lead PI:** Constance Heitmeyer. **Total:** 45M, **My Share:** 885k.
+* **February 2020:** I am a Performer on the Naval Research Laboratory project "Assured Development and Operation of Autonomous Systems (ADAS)" funded by the DoD Research and Engineering Modernization program. Lead PI: Constance Heitmeyer. **Total:** 45M, **My Share:** 885k.
 * **February 2020:** Lead organizer for the [2020 Triad Programming Contest](https://triad-pc-2020.github.io/).
 * **Janurary 2020:** Faculty advisor for the NC A&T student team competing in the 3rd Annual AMIE Design Challenge at the 2020 Black Engineer of the Year Award Conference ([BEYA 2020](https://s4.goeshow.com/ccgroup/beyastem/2020/index.cfm)).
  * **December 2019:** Participating in a female engineer focus group on how to prepare students for careers as researchers as part of an  [NSF Innovations in Graduate Education: Developing a Research Engineer Identity](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1856346&HistoricalAwards=false) grant.
