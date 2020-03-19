@@ -15,7 +15,6 @@ author_profile: true
 * **William Dunston** (Undergraduate -- Projected Graduation: Fall 2020)
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students
-**Master's**
 * **Jasmine Mabrey** 
     - **M.S. Thesis May 2020:** Automated Defect Classification using Machine Learning 
     - **First Job:** Sandia National Laboratory, Albuquerque, NM 
@@ -25,7 +24,5 @@ author_profile: true
 * **Regina Bunch** 
     - **M.S. Project Dec 2018:** AMail: Email for Autism 
     - **First Job:** Cigna, Philadelphia, PA
-
-**Undergraduates**
 * **Joelle Banks** 
     - **B.S. in Computer Science May 2020:** Conducted an empirical study of program repair techniques to aid in Jasmine Mabrey's thesis efforts.
