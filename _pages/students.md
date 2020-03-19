@@ -16,8 +16,8 @@ author_profile: true
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students
 * **Jasmine Mabrey** (Masters Thesis -- Projected Graduation: Spring 2020)
- - **MS May 2020:** Automated Defect Classification using Machine Learning
- - **First Job:** Sandia National Laboratory
+    - **MS May 2020:** Automated Defect Classification using Machine Learning
+    - **First Job:** Sandia National Laboratory
 * **George Thompson** (Masters Thesis -- Projected Graduation: Spring 2020)
 * **Joelle Banks** (Undergraduate -- Projected Graduation: Spring 2020)
 * **Regina Bunch** (Master's Fall 2018 -- Project: Email for Autism)
