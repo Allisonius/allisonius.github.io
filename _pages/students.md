@@ -10,15 +10,14 @@ author_profile: true
 
 
 ### <i class="fa fa-fw fa-users" aria-hidden="true"></i> Current Students
-
-* **Fikirte Ayalke** (Doctoral Student -- Projected Graduation: Spring 2022) 
-* **Swetha Chittam** (Masters Project -- Projected Graduation: Spring 2020)
-* **Jasmine Mabrey** (Masters Thesis -- Projected Graduation: Spring 2020)
-* **Jeffrey Moore, II** (Masters Thesis -- Projected Graduation: Spring 2020)
-* **George Thompson** (Masters Thesis -- Projected Graduation: Spring 2020)
-* **Joelle Banks** (Undergraduate -- Projected Graduation: Spring 2020)
-* **William Dunston** (Undergraduate -- Projected Graduation: Spring 2020)
+* **Swetha Chittam** (Masters Project -- Projected Graduation: Spring 2021)
+* **Jeffrey Moore, II** (Masters Thesis -- Projected Graduation: Fall 2020)
+* **William Dunston** (Undergraduate -- Projected Graduation: Fall 2020)
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students
-
+* **Jasmine Mabrey** (Masters Thesis -- Projected Graduation: Spring 2020)
+ - **MS May 2020:** Automated Defect Classification using Machine Learning
+ - **First Job:** Sandia National Laboratory
+* **George Thompson** (Masters Thesis -- Projected Graduation: Spring 2020)
+* **Joelle Banks** (Undergraduate -- Projected Graduation: Spring 2020)
 * **Regina Bunch** (Master's Fall 2018 -- Project: Email for Autism)
