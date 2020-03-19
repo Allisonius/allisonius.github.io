@@ -25,7 +25,7 @@ body {
 }
 
  ul {
-    font-size: $type-size-6;
+    font-size: $type-size-5;
     margin-top: 0.7em;
     padding-top: 0;
      margin-bottom: 0.7em;
@@ -33,13 +33,13 @@ body {
   }
 
 ul ul {
-     font-size: $type-size-6;
+     font-size: $type-size-5;
      padding-left: -5px; 
    margin-left: -5px; 
 }
 
 ul ul li {
-     font-size: $type-size-6;
+     font-size: $type-size-5;
 }
 
 h1, h2, h3, h4, h5, h6 {
