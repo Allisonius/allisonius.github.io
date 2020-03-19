@@ -25,4 +25,4 @@ author_profile: true
     - **M.S. Project Dec 2018:** AMail: Email for Autism 
     - **First Job:** Cigna, Philadelphia, PA
 * **Joelle Banks** 
-    - **B.S. in Computer Science May 2020:** Conducted an empirical study of program repair techniques to aid in Jasmine Mabrey's thesis efforts.
+    - **B.S. May 2020:** Conducted an empirical study of program repair techniques to aid in Jasmine Mabrey's thesis efforts.
