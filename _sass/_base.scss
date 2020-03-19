@@ -38,6 +38,10 @@ ul ul {
    margin-left: -100px; 
 }
 
+ul ul li {
+     font-size: $type-size-4;
+}
+
 h1, h2, h3, h4, h5, h6 {
   margin: 0.5em 0 0.5em;
   line-height: 1.2;
