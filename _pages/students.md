@@ -10,18 +10,20 @@ author_profile: true
 
 
 ### <i class="fa fa-fw fa-users" aria-hidden="true"></i> Current Students
-* **Swetha Chittam** (Masters Project -- Projected Graduation: Spring 2021)
+* **Swetha Chittam** (Masters Thesis -- Projected Graduation: Spring 2021)
 * **Jeffrey Moore, II** (Masters Thesis -- Projected Graduation: Fall 2020)
 * **William Dunston** (Undergraduate -- Projected Graduation: Fall 2020)
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students
 **Master's**
-* **Jasmine Mabrey** -- **M.S. Theis May 2020:** "Automated Defect Classification using Machine Learning" -- **First Job:** Sandia National Laboratory, Albuquerque, NM
+* **Jasmine Mabrey** 
+    - **M.S. Thesis May 2020:** Automated Defect Classification using Machine Learning
+    - **First Job:** Sandia National Laboratory, Albuquerque, NM
 * **George Thompson** 
-    - **MS May 2020:** Towards Automated Fault Localization for Prolog Models
+    - **M.S. Thesis May 2020:** Towards Automated Fault Localization for Prolog Models
     - **First Job:** Sandia National Laboratory, Albuquerque, NM
 * **Regina Bunch** 
-    - **MS Dec 2018:** AMail: Email for Autism 
+    - **M.S. Project Dec 2018:** AMail: Email for Autism 
     - **First Job:** Cigna, Philadelphia, PA
 
 **Undergraduates**
