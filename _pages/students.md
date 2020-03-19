@@ -28,4 +28,4 @@ author_profile: true
 
 **Undergraduates**
 * **Joelle Banks** 
-    - **BS May 2020:** Conducted an empirical study of program repair techniques to aid in Jasmine Mabrey's thesis efforts.
+    - **B.S. in Computer Science May 2020:** Conducted an empirical study of program repair techniques to aid in Jasmine Mabrey's thesis efforts.
