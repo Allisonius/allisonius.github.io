@@ -18,8 +18,8 @@ author_profile: true
 **Master's**
 * **Jasmine Mabrey** 
 
-⋅⋅⋅**M.S. Thesis May 2020:** Automated Defect Classification using Machine Learning⋅⋅
-⋅⋅⋅**First Job:** Sandia National Laboratory, Albuquerque, NM
+   **M.S. Thesis May 2020:** Automated Defect Classification using Machine Learning 
+   **First Job:** Sandia National Laboratory, Albuquerque, NM 
 
 * **George Thompson** 
     - **M.S. Thesis May 2020:** Towards Automated Fault Localization for Prolog Models
