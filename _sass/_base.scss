@@ -25,7 +25,7 @@ body {
 }
 
  ul {
-    font-size: $type-size-4;
+    font-size: $type-size-5;
     margin-top: 0.7em;
     padding-top: 0;
      margin-bottom: 0.7em;
@@ -33,9 +33,9 @@ body {
   }
 
 ul ul {
-     font-size: $type-size-4;
+     font-size: $type-size-5;
      padding-left: -10px; 
-   margin-left: -100px; 
+   margin-left: -10px; 
 }
 
 ul ul li {
