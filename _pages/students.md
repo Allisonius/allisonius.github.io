@@ -17,8 +17,8 @@ author_profile: true
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students
 **Master's**
 * **Jasmine Mabrey** 
-    - **MS May 2020:** Automated Defect Classification using Machine Learning
-    - **First Job:** Sandia National Laboratory, Albuquerque, NM
+  - **MS May 2020:** Automated Defect Classification using Machine Learning
+  - **First Job:** Sandia National Laboratory, Albuquerque, NM
 * **George Thompson** 
     - **MS May 2020:** Towards Automated Fault Localization for Prolog Models
     - **First Job:** Sandia National Laboratory, Albuquerque, NM
