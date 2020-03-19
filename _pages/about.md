@@ -24,8 +24,8 @@ Checking and Symbolic Execution
  * **Upcoming Service:** SPIN 2020 (PC Member), ESEC/FSE 2020 Tool Demonstrations Track (PC Member), 2 Panels for the National Science Foundation
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
-* **March 2020:** Congratulations to **Jasmine Mabrey** for being nominated by the Department Chair for NC A&T's "Outstanding Rising Scholar Award" for her M.S. Thesis work.
-* **March 2020:** Congratulations to **George Thompson** for being nominated by the Department Chair for NC A&T's "Outstanding Thesis Award" for his M.S. Thesis work.
+* **March 2020:** Congratulations to Jasmine Mabrey for being nominated by the Department Chair for NC A&T's "Outstanding Rising Scholar Award" for her M.S. Thesis work.
+* **March 2020:** Congratulations to George Thompson for being nominated by the Department Chair for NC A&T's "Outstanding Thesis Award" for his M.S. Thesis work.
 * **March 2020:** Congratulations to Jasmine Mabrey (Automated Defect Classifiction using Machine Learning) and George Thompson (Towards Automated Fault Localization for Prolog Models) on their successful Master Thesis proposals! Proud of you guys!!
 * **February 2020:** I am a Performer on the Naval Research Laboratory project "Assured Development and Operation of Autonomous Systems (ADAS)" funded by the DoD Research and Engineering Modernization program. Lead PI: Constance Heitmeyer. **Total:** 45M, **My Share:** 885k.
 * **February 2020:** Lead organizer for the [2020 Triad Programming Contest](https://triad-pc-2020.github.io/).
