@@ -18,7 +18,7 @@ author_profile: true
 **Master's**
 * **Jasmine Mabrey** 
 
-⋅⋅⋅**M.S. Thesis May 2020:** Automated Defect Classification using Machine Learning
+⋅⋅⋅**M.S. Thesis May 2020:** Automated Defect Classification using Machine Learning⋅⋅
 ⋅⋅⋅**First Job:** Sandia National Laboratory, Albuquerque, NM
 
 * **George Thompson** 
