@@ -15,9 +15,17 @@ author_profile: true
 * **William Dunston** (Undergraduate -- Projected Graduation: Fall 2020)
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students
-* **Jasmine Mabrey** (Masters Thesis -- Projected Graduation: Spring 2020)
+**Master's**
+* **Jasmine Mabrey** 
     - **MS May 2020:** Automated Defect Classification using Machine Learning
-    - **First Job:** Sandia National Laboratory
-* **George Thompson** (Masters Thesis -- Projected Graduation: Spring 2020)
-* **Joelle Banks** (Undergraduate -- Projected Graduation: Spring 2020)
-* **Regina Bunch** (Master's Fall 2018 -- Project: Email for Autism)
+    - **First Job:** Sandia National Laboratory, Albuquerque, NM
+* **George Thompson** 
+    - **MS May 2020:** Towards Automated Fault Localization for Prolog Models
+    - **First Job:** Sandia National Laboratory, Albuquerque, NM
+* **Regina Bunch** 
+    - **MS Dec 2018:** AMail: Email for Autism 
+    - **First Job:** Cigna, Philadelphia, PA
+
+**Undergraduates**
+* **Joelle Banks** 
+    - **BS May 2020:** Conducted an empirical study of program repair techniques to aid in Jasmine Mabrey's thesis efforts.
