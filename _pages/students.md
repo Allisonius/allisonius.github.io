@@ -10,9 +10,9 @@ author_profile: true
 
 
 ### <i class="fa fa-fw fa-users" aria-hidden="true"></i> Current Students
-* **Swetha Chittam** <br> - **Masters Thesis, Focus:** Alloy Analyzer Plus IDE <br> - **Projected Graduation:** Spring 2021
-* **Jeffrey Moore, II** <br> - **Masters Thesis, Focus:** Hardware Security Vulnerability Verification  <br> - **Projected Graduation:** Fall 2020
-* **William Dunston** <br> - **Undergraduate, Computer Engineering, Focus:** Extending Java-Based Program Repair <br> - **Projected Graduation:** Fall 2020
+* **Swetha Chittam** <br> - Masters Thesis, Focus: Alloy Analyzer Plus IDE <br> - Projected Graduation: Spring 2021
+* **Jeffrey Moore, II** <br> - Masters Thesis, Focus: Hardware Security Vulnerability Verification  <br> - Projected Graduation: Fall 2020
+* **William Dunston** <br> - Undergraduate, Computer Engineering, Focus: Extending Java-Based Program Repair <br> - Projected Graduation: Fall 2020
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students
 * **Jasmine Mabrey** <br> - **M.S. Thesis May 2020:** "Automated Defect Classification using Machine Learning" <br> - **First Job:** Sandia National Laboratory, Albuquerque, NM
