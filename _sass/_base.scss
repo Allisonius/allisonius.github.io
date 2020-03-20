@@ -25,22 +25,11 @@ body {
 }
 
  ul {
-    font-size: $type-size-5;
     margin-top: 0.7em;
     padding-top: 0;
      margin-bottom: 0.7em;
     padding-bottom: 0;
   }
-
-ul ul {
-     font-size: $type-size-4;
-     padding-left: -15px; 
-   margin-left: -15x; 
-}
-
-ul ul li {
-     font-size: $type-size-4;
-}
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0.5em 0 0.5em;
