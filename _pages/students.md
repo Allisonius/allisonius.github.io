@@ -17,5 +17,6 @@ author_profile: true
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students
 * **Jasmine Mabrey** <br> - **M.S. Thesis May 2020:** "Automated Defect Classification using Machine Learning" *Nominated for Riising Scholar Award* <br> - **First Job:** Sandia National Laboratory, Albuquerque, NM
 * **George Thompson** <br> - **M.S. Thesis May 2020:** "Towards Automated Fault Localization for Prolog Models" *Nominated for Outstanding Thesis Award* <br> - **First Job:** Sandia National Laboratory, Albuquerque, NM
-* **Regina Bunch** <br> - **M.S. Project Dec 2018:** "AMail: Email for Autism" <br> - **First Job:** Cigna, Philadelphia, PA
 * **Joelle Banks** <br> - **B.S. in CS May 2020:** Conducted an empirical study of program repair techniques to aid in Jasmine Mabrey's thesis.
+* **Regina Bunch** <br> - **M.S. Project Dec 2018:** "AMail: Email for Autism" <br> - **First Job:** Cigna, Philadelphia, PA
+
