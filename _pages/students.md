@@ -15,8 +15,8 @@ author_profile: true
 * **William Dunston** <br> - Undergraduate, Computer Engineering, Focus: Extending Java-Based Program Repair <br> - Projected Graduation: Fall 2020
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students
-* **Jasmine Mabrey** <br> - **M.S. Thesis May 2020:** "Automated Defect Classification using Machine Learning" *Nominated for Riising Scholar Award* <br> - **First Job:** Sandia National Laboratory, Albuquerque, NM
-* **George Thompson** <br> - **M.S. Thesis May 2020:** "Towards Automated Fault Localization for Prolog Models" *Nominated for Outstanding Thesis Award* <br> - **First Job:** Sandia National Laboratory, Albuquerque, NM
+* **Jasmine Mabrey** <br> - **M.S. Thesis May 2020:** "Automated Defect Classification using Machine Learning" <br> - Nominated for Rising Scholar Award <br> - **First Job:** Sandia National Laboratory, Albuquerque, NM
+* **George Thompson** <br> - **M.S. Thesis May 2020:** "Towards Automated Fault Localization for Prolog Models" <br> - Nominated for Outstanding Thesis Award <br> - **First Job:** Sandia National Laboratory, Albuquerque, NM
 * **Joelle Banks** <br> - **B.S. in CS May 2020:** Conducted an empirical study of program repair techniques to aid in Jasmine Mabrey's thesis.
 * **Regina Bunch** <br> - **M.S. Project Dec 2018:** "AMail: Email for Autism" <br> - **First Job:** Cigna, Philadelphia, PA
 
