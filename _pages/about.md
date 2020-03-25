@@ -21,8 +21,8 @@ My main goal is to improve software reliability by focusing on:
 Mutation Testing
   * **Formal Methods and Programming Languages:** Model Based Testing, First-Order Logic, Program Synthesis, Model
 Checking and Symbolic Execution
- * **Upcoming Service:** SPIN 2020 (PC Member), ESEC/FSE 2020 Tool Demonstrations Track (PC Member), 2 Panels for the National Science Foundation
-
+ * **Upcoming Service:** SPIN 2020 (PC Member), ESEC/FSE 2020 Tool Demonstrations Track (PC Member)
+ 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
 * **March 2020:** Congratulations to Jasmine Mabrey for being nominated by the Department Chair for NC A&T's "Outstanding Rising Scholar Award" for her M.S. Thesis work.
 * **March 2020:** Congratulations to George Thompson for being nominated by the Department Chair for NC A&T's "Outstanding Thesis Award" for his M.S. Thesis work.
