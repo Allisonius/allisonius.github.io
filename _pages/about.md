@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### <i class="fa fa-fw fa-cat" aria-hidden="true"></i> About me
-I am an Assistant Professor of [Computer Science](https://www.ncat.edu/coe/departments/cs/index.php) at [North Carolina A&T State University](https://www.ncat.edu/) (NC A&T). ***Starting in the fall of 2020, I will be an assistant professor at UT Arlington!***
+I am an Assistant Professor of [Computer Science](https://www.ncat.edu/coe/departments/cs/index.php) at [North Carolina A&T State University](https://www.ncat.edu/) (NC A&T). **Starting in the fall of 2020, I will be an assistant professor at UT Arlington!**
 
 Here is my current [CV](/files/ASullivan_CV.pdf), [Research Statement](../files/research_statement.pdf), [Teaching Statement](../files/teaching_statement.pdf), and [Contribution to Diversity, Equity, and Inclusion](../files/Commitment_to_Diversity_Statement.pdf).
 
@@ -24,7 +24,7 @@ Checking and Symbolic Execution
  * **Upcoming Service:** SPIN 2020 (PC Member), ESEC/FSE 2020 Tool Demonstrations Track (PC Member)
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
-* **April 2020:** I have accepted a position as an Assistant Professor in the [Computer Science and Engineering Department] (https://cse.uta.edu/) at [UT Arlington](https://www.uta.edu/) starting in Fall 2020.
+* **April 2020:** I have accepted a position as an Assistant Professor in the [Computer Science and Engineering Department](https://cse.uta.edu/) at [UT Arlington](https://www.uta.edu/) starting in Fall 2020.
 * **March 2020:** Congratulations to Jasmine Mabrey for being nominated by the Department Chair for NC A&T's "Outstanding Rising Scholar Award" for her M.S. Thesis work.
 * **March 2020:** Congratulations to George Thompson for being nominated by the Department Chair for NC A&T's "Outstanding Thesis Award" for his M.S. Thesis work.
 * **March 2020:** Congratulations to Jasmine Mabrey (Automated Defect Classifiction using Machine Learning) and George Thompson (Towards Automated Fault Localization for Prolog Models) on their successful Master Thesis proposals! Proud of you guys!!
