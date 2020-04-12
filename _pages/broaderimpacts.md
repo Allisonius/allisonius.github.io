@@ -11,18 +11,18 @@ Deciding to go to graduate school is a big decision. One thing that helped me ma
 
 ## The Awesome Undergrads I've Have/Had the Pleasure of Working With
 
-* **\[current\] Mrs. Joelle Banks** is working on an empirical study for semantic-based program repair. Projected graduate: Spring 2020.
-* **\[current\] Mr. William Dunston** is working on improving the efficiency of program repair if the type of fault is known. Projected graduate: Spring 2020.
+* **Mrs. Joelle Banks** worked on an empirical study for semantic-based program repair. Graduation: Spring 2020.
+* **Mr. William Dunston** is working on improving the efficiency of program repair if the type of fault is known. Projected graduate: Spring 2020.
 
 ## Undergraduate Mentorships
-* **AMIE Design Challenge hosted at the BEYA conference:** Mentoring students as they develop a student-led solution for a student identified problem in the healthcare sector. (Industry sponsor: NetApp 2019, Apple 2020). I also earned IBM's [Enterprise Design Thinking Badge](https://www.youracclaim.com/badges/e5123a17-6b9a-40c2-a1b3-87f8afc98a4b/public_url) to meet my responsibilities as faculty advisor.
-* **AutoDrive Challenge:** Mentoring 3 undergraduate students across the mapping and functional safety challenges. The AutoDrive challenge is an applied research project where the students gradually work towards building a self-driving car over a 3 year time period. This experience exposes undergraduate students to graduate students, industry collaboration, and the bridge between industry and research.
+* **AMIE Design Challenge hosted at the BEYA conference:** Mentoring students as they develop a student-led solution for a student identified problem in the healthcare sector. (Industry sponsor: NetApp 2019, Apple 2020). 
+* **AutoDrive Challenge:** Mentoring 3 undergraduate students across the mapping and functional safety challenges. The AutoDrive challenge is an applied research project where the students gradually work towards building a self-driving car over a 3 year time period. 
 
 <center><img src="../images/amie.png" alt="AMIE Design Challenge"> &nbsp;&nbsp; <img src="../images/auto1.png" alt="SAE-GM Autodrive Challenge"></center>
 
 ### <i class="fa fa-fw fa-chalkboard-teacher" aria-hidden="true"></i> Undergraduate Education and Curriculum
 
-Undergraduate education is our chance to make the largest impact on our field, because we get the opportunity to build up all our students into productive members of the computer science community. Futhermore, with the continual rising cost of higher education, I am dedicated to constantly improving and innovating my course material.
+Undergraduate education is our chance to make the largest impact on our field, because we get the opportunity to build up all our students into productive members of the computer science community. 
 
 ## Professional Development 
 * **\[Summer 2019\] Google FIR:** FIR is an immersive professional development program that engages CS faculty serving underrepresented populations in tech.  Our focus is on industry-informed, applied learning projects. 
@@ -32,7 +32,7 @@ Undergraduate education is our chance to make the largest impact on our field, b
 ### <i class="fa fa-fw fa-school" aria-hidden="true"></i> K-12 Outreach
 
 Often, we follow the career paths of the people around us. Most high schools do not expose students to the diverse array of STEM majors 
-(*you are often lucky if you have a computer science class offered let alone a mechanical or electrical engineering course*). This is why STEM outreach is so important. I am eager to share the STEMS field with k-12 students, and make them aware of STEM majors as a possible career path.
+(*you are often lucky if you have a computer science class offered let alone a mechanical or electrical engineering course*). This is why STEM outreach is so important. 
 
 ## Activities
 * **Triad Programming Contest:** I am the organizer and main judge for the Triad Programming Contest, hosted by NC A&T State University. The contest is offered annual and open to both high school and colleges in the greater Triad area.
