@@ -24,6 +24,7 @@ Checking and Symbolic Execution
  * **Upcoming Service:** SPIN 2020 (PC Member), ESEC/FSE 2020 Tool Demonstrations Track (PC Member)
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News
+* **April 2020:** I am Co-PI on a 20 member interdisciplinary team selected for NASA's [University Leadership Initiative](https://www.nasa.gov/press-release/nasa-looks-to-university-teams-to-advance-aviation-technology). **Total:** 8M, **My Share:** 635k.
 * **April 2020:** I have accepted a position as an Assistant Professor in the [Computer Science and Engineering Department](https://cse.uta.edu/) at [UT Arlington](https://www.uta.edu/) starting in Fall 2020.
 * **March 2020:** Congratulations to Jasmine Mabrey for being nominated by the Department Chair for NC A&T's "Outstanding Rising Scholar Award" for her M.S. Thesis work.
 * **March 2020:** Congratulations to George Thompson for being nominated by the Department Chair for NC A&T's "Outstanding Thesis Award" for his M.S. Thesis work.
