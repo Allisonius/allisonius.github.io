@@ -9,10 +9,7 @@ author_profile: true
 
 Deciding to go to graduate school is a big decision. One thing that helped me make the decision was the opportunity to partake in undergraduate research. Now a professor, I am happy to have the chance to pay that experience forward.
 
-## The Awesome Undergrads I've Have/Had the Pleasure of Working With
-
-* **Mrs. Joelle Banks** worked on an empirical study for semantic-based program repair. Graduation: Spring 2020.
-* **Mr. William Dunston** is working on improving the efficiency of program repair if the type of fault is known. Projected graduate: Spring 2020.
+You can see the awesome undergraduate I have given REU appointments to under the student tab. 
 
 ## Undergraduate Mentorships
 * **AMIE Design Challenge hosted at the BEYA conference:** Mentoring students as they develop a student-led solution for a student identified problem in the healthcare sector. (Industry sponsor: NetApp 2019, Apple 2020). 
