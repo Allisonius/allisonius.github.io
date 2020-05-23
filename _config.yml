@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Allison K. Sullivan, PhD"
 title_separator          : "-"
 name                     : &name "Allison K. Sullivan"
-description              : &description "Allison Sullivan assistant professor at NN A&T website"
+description              : &description "Allison Sullivan assistant professor at UT Arlington website"
 url                      : https://allisonius.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "allisonius/allisonius.github.io"
@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Assistant Professor of Computer Science"
   location         : 504 McNair Hall
-  employer         : "North Carolina A&T State"
+  employer         : "UT Arlington"
   googlescholar    : "https://scholar.google.com/citations?user=omg10AMAAAAJ&hl=en&oi=ao"
-  email            : "aksullivan@ncat.edu"
+  email            : "allison.sullivan@uta.edu"
   researchgate     :  
   uri              :
   bitbucket        :
