@@ -24,6 +24,7 @@ Checking and Symbolic Execution
  * **Upcoming Service:** SPIN 2020 (PC Member), ESEC/FSE 2020 Tool Demonstrations Track (PC Member)
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **May 2020:** One paper accepted at ISSTA 2020 Tools and Demostrations Track "ProFL: ProFL: A Fault Localization Framework for Prolog" - Congratulations George!
 * **May 2020:** Congratulations to Jasmine Mabrey for being given the "Outstanding Rising Scholar Award" by the graduate college at NC A&T for her M.S. Thesis work.
 * **April 2020:** I am Co-PI on a 20 member interdisciplinary team selected for NASA's [University Leadership Initiative](https://www.nasa.gov/press-release/nasa-looks-to-university-teams-to-advance-aviation-technology). Our focus is on verifying the interaction between multiple unmanned aerial vehicles. **Total:** 8M, **My Share:** 635k.
 * **April 2020:** I have accepted a position as an Assistant Professor in the [Computer Science and Engineering Department](https://cse.uta.edu/) at [UT Arlington](https://www.uta.edu/) starting in Fall 2020.
