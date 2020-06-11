@@ -4,6 +4,11 @@ permalink: /research/
 author_profile: true
 ---
 
+<h4>"The world always seems brighter when you've just made something that wasn't there before."</h4>
+ 
+ *~Neil Gaiman*
+
+
 Here, I provide a highlight view of some current projects; for more information, please read some of my papers, or contact me directly.
 
 
