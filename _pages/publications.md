@@ -8,7 +8,7 @@ author_profile: true
 * **ProFL: A Fault Localization Framework for Prolog**     
 G. Thompson, **A.Sullivan**     
 _The 29th ACM SIGSOFT International Symposium on Software Testing and Analysis_     
-(ISSTA Demo) July 2020. **To Appear.**
+(ISSTA Demo) July 2020. \[[PDF](../files/ISSTA2020Demo.pdf)\]
 
 ### 2019
 
