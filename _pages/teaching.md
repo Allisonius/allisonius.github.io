@@ -9,6 +9,9 @@ author_profile: true
  
  *~Isaac Asimov*
 
+### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> List of courses taught at UTA
+* **Fall 2020:** CSE CSE [Design and Analysis of Algorithms](https://cse5311-fall20.github.io/) (Graduate)
+
 ### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> List of courses taught at NC A&T
 
 * **Spring 2020:** Comp 681 [Formal Methods](https://comp681-spring20.github.io/) (Graduate)
