@@ -10,7 +10,7 @@ author_profile: true
  *~Isaac Asimov*
 
 ### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> List of courses taught at UTA
-* **Fall 2020:** CSE CSE [Design and Analysis of Algorithms](https://cse5311-fall20.github.io/) (Graduate)
+* **Fall 2020:** CSE 5311 [Design and Analysis of Algorithms](https://cse5311-fall20.github.io/) (Graduate)
 
 ### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> List of courses taught at NC A&T
 
