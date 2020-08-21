@@ -35,7 +35,7 @@ Checking and Symbolic Execution
 * **February 2020:** I am a Performer on the Naval Research Laboratory project "Assured Development and Operation of Autonomous Systems (ADAS)" funded by the DoD Research and Engineering Modernization program. Lead PI: Constance Heitmeyer. **Total:** 45M, **My Share:** 885k.
 * **February 2020:** Lead organizer for the [2020 Triad Programming Contest](https://triad-pc-2020.github.io/).
 * **Janurary 2020:** Faculty advisor for the NC A&T student team competing in the 3rd Annual AMIE Design Challenge at the 2020 Black Engineer of the Year Award Conference ([BEYA 2020](https://s4.goeshow.com/ccgroup/beyastem/2020/index.cfm)).
-  * **More:** ([Older News](https://allisonius.github.io/news/)).
+* **More:** ([Older News](https://allisonius.github.io/news/)).
   
 <h3><i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> Hobbies</h3>
   
