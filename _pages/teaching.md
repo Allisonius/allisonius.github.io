@@ -10,14 +10,14 @@ author_profile: true
  *~Isaac Asimov*
 
 ### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> List of courses taught at UTA
-* **Fall 2020:** CSE 5311 [Design and Analysis of Algorithms](https://cse5311-fall20.github.io/) (Graduate)
+* **Fall 2020:** CSE 5311 Design and Analysis of Algorithms (Graduate)
 
 ### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> List of courses taught at NC A&T
 
-* **Spring 2020:** Comp 681 [Formal Methods](https://comp681-spring20.github.io/) (Graduate)
-* **Spring 2020:** Comp 496: [Senior Design](https://comp496-spring20.github.io/) (Undergrad)
-* **Fall 2019:** Comp 611: [System Testing and Evaluation](https://comp611-fall19.github.io/) (Graduate)
-* **Fall 2019:** Comp 285: [Design and Analysis of Algorithms](https://comp285-fall19.github.io/) (Undergrad)
-* **Spring 2019:** Comp 681 [Formal Methods](https://comp681-spring19.github.io/) (Graduate)
-* **Spring 2019:** Comp 496: [Senior Design](https://comp496-spring19.github.io/) (Undergrad)
-* **Fall 2018:** Comp 285: [Design and Analysis of Algorithms](https://comp285-fall18.github.io/) (Undergrad)
+* **Spring 2020:** Comp 681 Formal Methods (Graduate)
+* **Spring 2020:** Comp 496: Senior Design (Undergrad)
+* **Fall 2019:** Comp 611: System Testing and Evaluation (Graduate)
+* **Fall 2019:** Comp 285: Design and Analysis of Algorithms (Undergrad)
+* **Spring 2019:** Comp 681 Formal Methods (Graduate)
+* **Spring 2019:** Comp 496: Senior Design (Undergrad)
+* **Fall 2018:** Comp 285: Design and Analysis of Algorithms (Undergrad)
