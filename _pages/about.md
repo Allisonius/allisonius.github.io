@@ -21,7 +21,10 @@ Mutation Testing
 Checking and Symbolic Execution
  * **Upcoming Service:** SPIN 2020 (PC Member), ESEC/FSE 2020 Tool Demonstrations Track (PC Member)
  
+
+ 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **August 2020:** Attending [TAPIA](https://tapiaconference.cmd-it.org/) as a volunteer for the UTA booth. 
 * **August 2020:** I am the co-advisor for Society of Women Engineers ([SWE](https://mavorgs.campuslabs.com/engage/organization/societyofwomenengineers)) at UTA. 
 * **August 2020:** One paper accepted into [ISSRE 2020](http://2020.issre.net/) "Fault Localization for Declarative Models in Alloy"
 * **July 2020:** I am Co-PI on a [NSF MRI award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2018879&HistoricalAwards=false) to obtain equipment to facilitate research on the interaction between multiple autonomous ground vehicles. **Total:** 550k, **My Share:** 55k. 
