@@ -34,8 +34,5 @@ Autonomous vehicles are a future technology that many expect to come to fruition
 
 <center><img src="../images/auto2.png" alt="SAE-GM Autodrive Challenge"> &nbsp;&nbsp;&nbsp;<img src="../images/auto3.png" alt="SAE-GM Autodrive Challenge"></center>
 
-## <i class="fa fa-fw fa-bug" aria-hidden="true"></i> Verification of Alloy Models
-AUnit introduces the first testing infrastructure for Alloy, namely: test case, test execution and coverage. With this infrastructure in place, we can now explore how to bring well-established imperative v&v techniques (automated test generation, fault localization, mutation testing, regression testing, etc) into the Alloy language. The goal is to enable *systematic testing* of Alloy models to build confidence in the overall correctness of a model.
-
-## <i class="fa fa-fw fa-atom" aria-hidden="true"></i> Synthesis of Alloy Models
-Even with verification techniques in place, writing correct Alloy models is hard. We focus on techniques to automatically generate portions of Alloy models to enable correct from construction designs. This includes sketching portions of Alloy models to match specified behavior (AUnit test suite) and repairing Alloy models.
+## <i class="fa fa-fw fa-bug" aria-hidden="true"></i> Verification and Synthesis of Foirmal Methods
+AUnit introduces the first testing infrastructure for Alloy, namely: test case, test execution and coverage. With this infrastructure in place, we can now explore how to bring well-established imperative v&v techniques (automated test generation, fault localization, mutation testing, regression testing, etc) into the Alloy language. Additionally, AUnit enables automated repair and synthesis techniques for Alloy. These frameworks ease the burden of developing Alloy models, which is a non-trivial task. Based on the success of AUnit, we plan to explore verification and synthesis techniques for a broader range of formal modeling languages. 
