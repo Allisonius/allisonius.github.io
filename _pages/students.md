@@ -13,7 +13,7 @@ author_profile: true
 * **Jeffrey Moore, II** <br> - Masters Thesis, Focus: Hardware Security Vulnerability Verification  <br> - Projected Graduation: Fall 2020
 * **William Dunston** <br> - Undergraduate, Computer Engineering, Focus: Extending Java-Based Program Repair <br> - Projected Graduation: Fall 2020
 
-### <i class="fa fa-fw fa-users" aria-hidden="true"></i> Volunteer Positions
+### <i class="fa fa-fw fa-hands-helping" aria-hidden="true"></i> Volunteer Positions
 * **Apoorv Saxena** <br> - Role: Streamline Aunit Analyzer's development pipeline. 
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students
