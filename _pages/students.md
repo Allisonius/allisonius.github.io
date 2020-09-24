@@ -9,8 +9,12 @@ author_profile: true
 **RAships/TAships/REU appointments available:** Please contact me if you are a self-motivated PhD student (or graduate student interested in our PhD program) with **strong programming skills** and **strong interests** in autonomous systems, software engineering and verification. Please include a copy of your CV/Resume, including descriptions of your education background, programming skills, and previous projects, in your correspondence. 
 
 ### <i class="fa fa-fw fa-users" aria-hidden="true"></i> Current Students
+* **Prajkta Krishna Jagtap** <br> - Masters Thesis, Focus: Verification of Formal Modeling Languages  <br> - Projected Graduation: Spring 2021
 * **Jeffrey Moore, II** <br> - Masters Thesis, Focus: Hardware Security Vulnerability Verification  <br> - Projected Graduation: Fall 2020
 * **William Dunston** <br> - Undergraduate, Computer Engineering, Focus: Extending Java-Based Program Repair <br> - Projected Graduation: Fall 2020
+
+### <i class="fa fa-fw fa-users" aria-hidden="true"></i> Volunteer Positions
+* **Apoorv Saxena** <br> - Role: Streamline Aunit Analyzer's development pipeline. 
 
 ### <i class="fa fa-fw fa-user-graduate" aria-hidden="true"></i> Former Students
 * **Jasmine Mabrey** <br> - **M.S. Thesis May 2020:** "Automated Defect Classification using Machine Learning" <br> - **Received:** Rising Scholar Award - only one rising scholar award is given out for the entire university. <br> - **First Job:** Sandia National Laboratory, Albuquerque, NM
