@@ -8,7 +8,7 @@ author_profile: true
 * **Fault Localization for Declarative Models in Alloy**     
 K. Wang, **A.Sullivan**, D. Marinov, S. Khurshid    
 _TThe 31st International Symposium on Software Reliability Engineering_     
-(ISSRE) October 2020. To appear.
+(ISSRE) October 2020. \[[PDF](../files/ISSRE2020.pdf)\]
 * **ProFL: A Fault Localization Framework for Prolog**     
 G. Thompson, **A.Sullivan**     
 _The 29th ACM SIGSOFT International Symposium on Software Testing and Analysis_     
