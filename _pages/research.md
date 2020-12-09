@@ -26,6 +26,9 @@ I am interested in applied research, and the efforts to transition research idea
   
 ### <i class="fa fa-fw fa-cogs" aria-hidden="true"></i> Research Projects
 
+## <i class="fa fa-fw fa-book-reader" aria-hidden="true"></i> Formal Methods Education
+Software models can help improve software reliability. Yet, many developers do not use software models. Why? Often, people have the perception that software modeling is too difficult, time consuming and not practical for real world systems. My research looks to break this perception by developing novel techniques and tools to streamline formal methods education for both writing specifications and analyzing specifications. 
+
 ## <i class="fa fa-fw fa-robot" aria-hidden="true"></i> Model-Based Testing of Autonomous Systems 
 Formally verifying a system is the first step in ensuring system reliability. However, a crucial next step is ensuing the corresponding implementation is a faithful reproduction of the formal model. I am working with an interdisciplinary team to develop methods to link highly assured formal methods of autonomous systems to the actual implementations of those systems. Due to the many collaborators on this project, we will be able to develop these practices over operational autonomous systems in the Department of Defense.
 
