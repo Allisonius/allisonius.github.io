@@ -24,6 +24,7 @@ Checking and Symbolic Execution
 
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **Janurary 2020:** I will be offering a [Workshop on Z3](https://uta.engineering/ourcs/workshops.php) at [OurCS@DFW](https://uta.engineering/ourcs/) cohosted by UTA and UNT.
 * **September 2020:** I am a member of the following Broadening Participation in Computing (BPC) sub committees at UTA: BPC Student Awards, External BPC Conferences and K-12 Outreach sub-committees.
 * **September 2020:** Attending [TAPIA](https://tapiaconference.cmd-it.org/) as a volunteer for the UTA booth. 
 * **August 2020:** I am the co-advisor for Society of Women Engineers ([SWE](https://mavorgs.campuslabs.com/engage/organization/societyofwomenengineers)) at UTA. 
