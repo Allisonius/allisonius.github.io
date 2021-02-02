@@ -24,7 +24,7 @@ Checking and Symbolic Execution
 
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
-* **Feburary 2021:** I will be sitting on the "The Graduate School Experience" at [OurCS@DFW](https://uta.engineering/ourcs/) cohosted by UTA and UNT.
+* **February 2021:** I will be sitting on the "The Graduate School Experience" panel at [OurCS@DFW](https://uta.engineering/ourcs/) cohosted by UTA and UNT.
 * **Janurary 2021:** I will be offering a [Workshop on Software Engineering vs Computer Science](https://digital-divas.weebly.com/speakers--workshops.html) at the [Digital Divas 2021](https://digital-divas.weebly.com/) event.
 * **Janurary 2021:** I will be offering a [Workshop on Z3](https://uta.engineering/ourcs/workshops.php) at [OurCS@DFW](https://uta.engineering/ourcs/) cohosted by UTA and UNT.
 * **September 2020:** I am a member of the following Broadening Participation in Computing (BPC) sub committees at UTA: BPC Student Awards, External BPC Conferences and K-12 Outreach sub-committees.
