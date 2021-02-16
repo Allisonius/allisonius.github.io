@@ -24,6 +24,8 @@ Checking and Symbolic Execution
 
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **February 2021:** I will be sitting on the "Career Paths in Computing" panel at the Student Computing
+Research Festival [(SCRF)](https://uta.engineering/ourcs/) cohosted by UTA and UNT.
 * **February 2021:** I will be sitting on the "The Graduate School Experience" panel at [OurCS@DFW](https://uta.engineering/ourcs/) cohosted by UTA and UNT.
 * **Janurary 2021:** I will be offering a [Workshop on Software Engineering vs Computer Science](https://digital-divas.weebly.com/speakers--workshops.html) at the [Digital Divas 2021](https://digital-divas.weebly.com/) event.
 * **Janurary 2021:** I will be offering a [Workshop on Z3](https://uta.engineering/ourcs/workshops.php) at [OurCS@DFW](https://uta.engineering/ourcs/) cohosted by UTA and UNT.
