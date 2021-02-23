@@ -24,7 +24,7 @@ Checking and Symbolic Execution
 
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
-* **February 2021:** I am a member of the Software Engineering Research Center (SERC).
+* **February 2021:** I am a member of the Software Engineering Research Center (SERC) at UTA.
 * **February 2021:** I will be sitting on the "Career Paths in Computing" panel at the Student Computing.
 Research Festival [(SCRF)](https://uta.engineering/ourcs/) cohosted by UTA and UNT.
 * **February 2021:** I will be sitting on the "The Graduate School Experience" panel at [OurCS@DFW](https://uta.engineering/ourcs/) cohosted by UTA and UNT.
