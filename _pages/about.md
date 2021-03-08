@@ -19,7 +19,7 @@ My main goal is to improve software reliability by focusing on:
 Mutation Testing
   * **Formal Methods and Programming Languages:** Model Based Testing, First-Order Logic, Program Synthesis, Model
 Checking and Symbolic Execution
- * **Upcoming Service:** SPIN 2020 (PC Member), ESEC/FSE 2020 Tool Demonstrations Track (PC Member)
+ * **Upcoming Service:** ICSE 2022 Demo (PC Member)
  
 
  
