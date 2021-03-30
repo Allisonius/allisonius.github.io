@@ -24,6 +24,7 @@ Checking and Symbolic Execution
 
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **March 2021:** I will be a judge for UTA's [College of Engineering Innovation Day](https://www.uta.edu/academics/schools-colleges/engineering/students/innovation-day/).
 * **February 2021:** I am a member of the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) at UTA.
 * **February 2021:** I will be sitting on the "Career Paths in Computing" panel at the Student Computing.
 Research Festival [(SCRF)](https://uta.engineering/ourcs/) cohosted by UTA and UNT.
