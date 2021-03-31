@@ -41,8 +41,6 @@ Research Festival [(SCRF)](https://uta.engineering/ourcs/) cohosted by UTA and U
 * **May 2020:** Congratulations to Jasmine Mabrey for being given the "Outstanding Rising Scholar Award" by the graduate college at NC A&T for her M.S. Thesis work.
 * **April 2020:** I am Co-PI on a 20 member interdisciplinary team selected for NASA's [University Leadership Initiative](https://www.nasa.gov/press-release/nasa-looks-to-university-teams-to-advance-aviation-technology). Our focus is on verifying the interaction between multiple unmanned aerial vehicles. **Total:** 8M, **My Share:** 635k.
 * **April 2020:** I have accepted a position as an Assistant Professor in the [Computer Science and Engineering Department](https://cse.uta.edu/) at [UT Arlington](https://www.uta.edu/) starting in Fall 2020.
-* **March 2020:** Congratulations to George Thompson for being nominated by the Department Chair for NC A&T's "Outstanding Thesis Award" for his M.S. Thesis work.
-* **March 2020:** Congratulations to Jasmine Mabrey (Automated Defect Classification using Machine Learning) and George Thompson (Towards Automated Fault Localization for Prolog Models) on their successful Master Thesis proposals! Proud of you guys!!
 * **More:** ([Older News](https://allisonius.github.io/news/)).
   
 <h3><i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> Hobbies</h3>
