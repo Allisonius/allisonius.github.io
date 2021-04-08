@@ -10,6 +10,8 @@ author_profile: true
  *~Isaac Asimov*
 
 ### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> List of courses taught at UTA
+* **Fall 2021:** CSE 4321 Software Testing & Maintenance (Undergrad)
+* **Spring 2021:** CSE 5320/6392 Computer-Aided Verification of Systems (Graduate)
 * **Fall 2020:** CSE 5311 Design and Analysis of Algorithms (Graduate)
 
 ### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> List of courses taught at NC A&T
