@@ -37,10 +37,6 @@ Research Festival [(SCRF)](https://uta.engineering/ourcs/) cohosted by UTA and U
 * **August 2020:** One paper accepted into [ISSRE 2020](http://2020.issre.net/) "Fault Localization for Declarative Models in Alloy"
 * **July 2020:** I am Co-PI on a [NSF MRI award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2018879&HistoricalAwards=false) to obtain equipment to facilitate research on the interaction between multiple autonomous ground vehicles. **Total:** 550k, **My Share:** 55k. 
 * **June 2020:** Started working as an assistant professor at UTA.
-* **May 2020:** One paper accepted at ISSTA 2020 Tools and Demostrations Track "ProFL: A Fault Localization Framework for Prolog" - Congratulations George!
-* **May 2020:** Congratulations to Jasmine Mabrey for being given the "Outstanding Rising Scholar Award" by the graduate college at NC A&T for her M.S. Thesis work.
-* **April 2020:** I am Co-PI on a 20 member interdisciplinary team selected for NASA's [University Leadership Initiative](https://www.nasa.gov/press-release/nasa-looks-to-university-teams-to-advance-aviation-technology). Our focus is on verifying the interaction between multiple unmanned aerial vehicles. **Total:** 8M, **My Share:** 635k.
-* **April 2020:** I have accepted a position as an Assistant Professor in the [Computer Science and Engineering Department](https://cse.uta.edu/) at [UT Arlington](https://www.uta.edu/) starting in Fall 2020.
 * **More:** ([Older News](https://allisonius.github.io/news/)).
   
 <h3><i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> Hobbies</h3>
