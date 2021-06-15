@@ -9,9 +9,9 @@ author_profile: true
 **RAships/TAships/REU appointments available:** Please contact me if you are a self-motivated PhD student (or graduate student interested in our PhD program) with **strong programming skills** and **strong interests** in autonomous systems, software engineering and verification. Please include a copy of your CV/Resume, including descriptions of your education background, programming skills, and previous projects, in your correspondence. 
 
 ### <i class="fa fa-fw fa-users" aria-hidden="true"></i> Current Students
-* **Ana Jovanovic** <br> - Doctoral, Focus: Software Testing and Verification <br> - Projected Graduation: Spring 2024
-* **Anahita Samadi** <br> - Doctoral, Focus: Machine Learning, Software Engineering <br> - Projected Graduation: Spring 2024
-* **Tanvir Ahmed Khan** <br> - Doctoral, Focus: Verification of Formal Modeling Languages <br> - Projected Graduation: Spring 2024
+* **Ana Jovanovic** <br> - Doctoral, Focus: Formal Verification <br> - Projected Graduation: Spring 2024
+* **Anahita Samadi** <br> - Doctoral, Focus: Testing of Machine Learning Systems <br> - Projected Graduation: Spring 2024
+* **Tanvir Ahmed Khan** <br> - Doctoral, Focus: Automated Program Repair <br> - Projected Graduation: Spring 2024
 
 ### <i class="fa fa-fw fa-hands-helping" aria-hidden="true"></i> Volunteer Positions
 * **Saravanan Thirunavukkarasu** <br> - Role: Transform ASketch interfaces into educational exercises.
