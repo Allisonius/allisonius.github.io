@@ -3,11 +3,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+### 2021
+
+* **AlloyFL: A Fault Localization Framework for Alloy**     
+T.A. Khan, **A.Sullivan**, K. Wang,
+_The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) Demostration Track_     
+(FSE DEMO) August 2021. To Appear.
+
 ### 2020
 
 * **Fault Localization for Declarative Models in Alloy**     
 K. Wang, **A.Sullivan**, D. Marinov, S. Khurshid    
-_TThe 31st International Symposium on Software Reliability Engineering_     
+_The 31st International Symposium on Software Reliability Engineering_     
 (ISSRE) October 2020. \[[PDF](../files/ISSRE2020.pdf)\]
 * **ProFL: A Fault Localization Framework for Prolog**     
 G. Thompson, **A.Sullivan**     
