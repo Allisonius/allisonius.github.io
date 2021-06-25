@@ -24,6 +24,7 @@ Checking and Symbolic Execution
 
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **June 2021:** One paper accepted into [FSE Demo 2021](https://2021.esec-fse.org/track/fse-2021-demonstrations). Congratulations Tanvir!
 * **June 2021:** I have recieved a [NSF FmitF award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2123341&HistoricalAwards=false) to investigate improvements to Alloy's scenario finding functionality.
 * **March 2021:** I will be a judge for UTA's [College of Engineering Innovation Day](https://www.uta.edu/academics/schools-colleges/engineering/students/innovation-day/).
 * **February 2021:** I am a member of the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) at UTA.
