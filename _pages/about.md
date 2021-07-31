@@ -38,8 +38,6 @@ Research Festival [(SCRF)](https://uta.engineering/ourcs/) cohosted by UTA and U
 * **September 2020:** Attending [TAPIA](https://tapiaconference.cmd-it.org/) as a volunteer for the UTA booth. 
 * **August 2020:** I am the co-advisor for Society of Women Engineers ([SWE](https://mavorgs.campuslabs.com/engage/organization/societyofwomenengineers)) at UTA. 
 * **August 2020:** One paper accepted into [ISSRE 2020](http://2020.issre.net/) "Fault Localization for Declarative Models in Alloy"
-* **July 2020:** I am Co-PI on a [NSF MRI award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2018879&HistoricalAwards=false) to obtain equipment to facilitate research on the interaction between multiple autonomous ground vehicles. **Total:** 550k, **My Share:** 55k. 
-* **June 2020:** Started working as an assistant professor at UTA.
 * **More:** ([Older News](https://allisonius.github.io/news/)).
   
 <h3><i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> Hobbies</h3>
