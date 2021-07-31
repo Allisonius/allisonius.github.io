@@ -17,6 +17,7 @@ Here, I provide a highlight view of some current projects; for more information,
 
 I am interested in applied research, and the efforts to transition research ideas into real tools to be used by the software development community.
 
+  * **[HawkEye:](https://github.com/alloy-hawkeye/Hawkeye)** An interactive enumerator tool for Alloy that allows users to control how the next scenario enumated by Alloy differs from the current one.
   * **[AlloyFL:](https://AlloyFL.github.io)** Tool for automated fault localization of Alloy models.
   * **[ProFl:](https://github.com/geoorge1d127/ProFl)** Tool for automated fault localization of Prolog models.
   * **[Seabs:](https://github.com/Allisonius/Seabs)** Tool to allow the user to guide solution enumeration for an Alloy model using abstract functions.
