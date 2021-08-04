@@ -11,7 +11,6 @@ author_profile: true
 ### <i class="fa fa-fw fa-users" aria-hidden="true"></i> Current Students
 * **Ana Jovanovic** <br> - Doctoral, Focus: Formal Verification <br> - Projected Graduation: Spring 2024
 * **Anahita Samadi** <br> - Doctoral, Focus: Testing of Machine Learning Systems <br> - Projected Graduation: Spring 2024
-* **Tanvir Ahmed Khan** <br> - Doctoral, Focus: Automated Program Repair <br> - Projected Graduation: Spring 2024
 
 ### <i class="fa fa-fw fa-hands-helping" aria-hidden="true"></i> Volunteer Positions
 * **Saravanan Thirunavukkarasu** <br> - Role: Transform ASketch interfaces into educational exercises.
