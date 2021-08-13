@@ -12,7 +12,7 @@ _The 32nd International Symposium on Software Reliability Engineering_
 * **AlloyFL: A Fault Localization Framework for Alloy**     
 T.A. Khan, **A.Sullivan**, K. Wang    
 _The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) Demostration Track_    
-(FSE DEMO) August 2021. To Appear.    
+(FSE DEMO) August 2021. \[[PDF](../files/AlloyFLFSEDemo.pdf)\]   
 
 ### 2020
 
