@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### <i class="fa fa-fw fa-cat" aria-hidden="true"></i> About me
-I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA). Here is my current [CV](/files/ASullivan_CV.pdf).
+I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA) and the faculty advisor for UTA's [SWE](https://swe.org/) club. Here is my current [CV](/files/ASullivan_CV.pdf).
 
 I obtained my PhD in the Software Verification, Validation and Testing (SVVAT) group at the University of Texas at Austin (hook'em) in 2017. My adviser is [Sarfraz Khurshid](https://users.ece.utexas.edu/~khurshid/). I obtained my M.S. degree in software engineering at UT Austin in 2014 and my B.S. degree in software engineering from The University of Texas at Dallas in 2012 (whoosh). My PhD dissertation can be found [here](files/dissertation.pdf). 
 
