@@ -8,9 +8,7 @@ author_profile: true
  
  *~Neil Gaiman*
 
-
-Here, I provide a highlight view of some current projects; for more information, please read some of my papers, or contact me directly.
-
+I am the advisor for SCOPE Lab where we work on techniques for **S**howing **C**orrectness **O**f (all) **P**rogram **E**xecutions. 
 
 
 ### <i class="fa fa-fw fa-code-branch" aria-hidden="true"></i> Tools
