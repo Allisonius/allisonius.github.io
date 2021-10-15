@@ -8,7 +8,7 @@ author_profile: true
 * **Hawkeye: User-Guided Enumeration of Scenarios**     
 **A.Sullivan**  
 _The 32nd International Symposium on Software Reliability Engineering_      
-(ISSRE) October 2021. To Appear.  
+(ISSRE) October 2021. \[[PDF](../files/ISSRE21Hawkeye.pdf)\].  
 * **AlloyFL: A Fault Localization Framework for Alloy**     
 T.A. Khan, **A.Sullivan**, K. Wang    
 _The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) Demostration Track_    
