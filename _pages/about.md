@@ -24,6 +24,12 @@ Checking and Symbolic Execution
 
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **Feburary 2022:** Moderator for the `[Career Paths in Computing](https://uta.engineering/scrf/keynote.php#panel)' panel at [SCRF](https://uta.engineering/scrf/).
+* **Feburary 2022:** Panelist for `The Graduate School Experience' panel at [OurCS@DFW](https://uta.engineering/ourcs/).
+* **Feburary 2022:** Hosted a workshop on z3 at [OurCS@DFW](https://uta.engineering/ourcs/).
+* **Feburary 2022:** Gave a presented on CS vs SE vs CE majors and on Career Paths in Computing at [Digitial Divas](https://digital-divas.weebly.com/).
+* **Decemeber 2021:** Resha presented her work on current limtiations of automated repair tools at UTA's [UROP](https://www.uta.edu/research/opportunities/undergraduate-research/programs/urop) Fall semester wrap up.
+* **Octtober 2021:** Presented our solution enumeration tool [Hawkeye](https://github.com/alloy-hawkeye/Hawkeye) at [ISSRE2021](https://2021.issre.net/)).
 * **July 2021:** One paper accepted into [ISSRE 2021](https://2021.issre.net/)!
 * **June 2021:** One paper accepted into [FSE Demo 2021](https://2021.esec-fse.org/track/fse-2021-demonstrations). Congratulations Tanvir!
 * **June 2021:** I have recieved a [NSF FmitF award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2123341&HistoricalAwards=false) to investigate improvements to Alloy's scenario finding functionality.
