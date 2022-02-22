@@ -24,6 +24,7 @@ Checking and Symbolic Execution
 
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **Feburary 2022:** Congratulations Anahite on getting her master's thesis work written up in [Wired](https://www.wired.com/story/job-applicants-hack-resume-reading-software/).
 * **Feburary 2022:** Moderator for the `[Career Paths in Computing](https://uta.engineering/scrf/keynote.php#panel)' panel at [SCRF](https://uta.engineering/scrf/).
 * **Feburary 2022:** Panelist for `The Graduate School Experience' panel at [OurCS@DFW](https://uta.engineering/ourcs/).
 * **Feburary 2022:** Hosted a workshop on z3 at [OurCS@DFW](https://uta.engineering/ourcs/).
