@@ -29,6 +29,7 @@ Checking and Symbolic Execution
 * **Feburary 2022:** Panelist for `The Graduate School Experience' panel at [OurCS@DFW](https://uta.engineering/ourcs/).
 * **Feburary 2022:** Hosted a workshop on z3 at [OurCS@DFW](https://uta.engineering/ourcs/).
 * **Feburary 2022:** Gave a presented on CS vs SE vs CE majors and on Career Paths in Computing at [Digitial Divas](https://digital-divas.weebly.com/).
+* **Janurary 2022:** Served on the [ICSE Demo PC](https://conf.researchr.org/track/icse-2022/icse-2022-demo---demonstrations).
 * **Decemeber 2021:** Resha presented her work on current limtiations of automated repair tools at UTA's [UROP](https://www.uta.edu/research/opportunities/undergraduate-research/programs/urop) Fall semester wrap up.
 * **Octtober 2021:** Presented our solution enumeration tool [Hawkeye](https://github.com/alloy-hawkeye/Hawkeye) at [ISSRE2021](https://2021.issre.net/)).
 * **July 2021:** One paper accepted into [ISSRE 2021](https://2021.issre.net/)!
