@@ -3,6 +3,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+### 2022
+
+* **Towards Automated Input Generation for Sketching Alloy Models**     
+A. Jovanovic, **A.Sullivan**  
+_The 10th International Conference on Formal Methods in Software Engineering_      
+(FormaliSE) To Appear.  
+
 ### 2021
 
 * **Hawkeye: User-Guided Enumeration of Scenarios**     
