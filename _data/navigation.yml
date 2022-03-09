@@ -1,16 +1,13 @@
 # main links links
 main:
-  - title: "SCOPE Lab"
-    url: /research/
-    
-  - title: "Students"
-    url: /students/
-
   - title: "Teaching"
     url: /teaching/    
 
   - title: "Publications"
     url: /publications/    
     
+  - title: "News"
+    url: /news/    
+    
   - title: "Broader Impacts"
-    url: /impacts/    
+    url: /impacts/ 
