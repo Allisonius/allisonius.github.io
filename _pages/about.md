@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ### <i class="fa fa-fw fa-cat" aria-hidden="true"></i> About me
-I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA) and the faculty advisor for UTA's [SWE](https://swe.org/) club. Here is my current [CV](/files/ASullivan_CV.pdf).
+I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA) and the faculty advisor for UTA's [SWE](https://swe.org/) club and a memeber of the College of Engineering Arlington Women in Engineering organization (COE AWE). Here is my current [CV](/files/ASullivan_CV.pdf).
 
-I am lead professor of [SCOPE lab](https://scopelabuta.github.io/) which focuses on improving techniques to **s**how the **c**orrectness **o**f all **p**rogram **e**xecutions. **We are hiriing!** See lab website for details. 
+I am lead professor of [SCOPE lab](https://scopelabuta.github.io/) which focuses on improving techniques to **s**how the **c**orrectness **o**f all **p**rogram **e**xecutions.  You can explore our [projects](https://scopelabuta.github.io/projects/) and see the types of things SCOPE lab gets up too. **We are hiriing!** See lab website for details.
 
 I am a member of the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) at UTA.
 
