@@ -21,7 +21,7 @@ My main goal is to improve software reliability by focusing on:
 Mutation Testing
   * **Formal Methods and Programming Languages:** Model Based Testing, First-Order Logic, Program Synthesis, Model
 Checking and Symbolic Execution
- * **Upcoming Service:** ICSE Session Chair, ISSRE 2022 (PC Member), FSE Demo 2022 (PC Member), 1 NSF Panel, Software and Systems Modeling Reviewer, TOSEM Reviewer, TSE Reviewer.
+ * **Upcoming Service:** ISSRE 2022 (PC Member), FSE Demo 2022 (PC Member), SANER 2023 (PC Member), 1 NSF Panel, Software and Systems Modeling Reviewer, TOSEM Reviewer, TSE Reviewer.
  
 
  
