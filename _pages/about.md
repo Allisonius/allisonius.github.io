@@ -27,7 +27,7 @@ Checking and Symbolic Execution
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 * **November 2022:** One paper "Abstract Alloy Instances" accepted into [FM 2023](https://fm2023.isp.uni-luebeck.de/).
-* * **October 2022:** I am chairing the search for 2 new software engineering faculty memebers. If interested, please apply [here](https://uta.peopleadmin.com/postings/20379).
+* **October 2022:** I am chairing the search for 2 new software engineering faculty memebers. If interested, please apply [here](https://uta.peopleadmin.com/postings/20379).
 * **September 2022:** Our recent NSF grant is being talked about in the [media](https://www.uta.edu/news/news-releases/2022/09/22/sullivan-nsf-software-updates).
 * **September 2022:** Attend [GHC 2022](https://ghc.anitab.org/attend/) with a cohort of 10 female computer science students from [UTA](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse).
 * **July 2022:** One paper "REACH: Refining Alloy Scenarios by Size" accepted into [ISSRE 2022](https://issre2022.github.io/index.html). Congratulations Ana!
