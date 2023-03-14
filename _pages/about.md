@@ -29,6 +29,7 @@ Checking and Symbolic Execution
 
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **Janurary 2023:** On maternity leave - baby Arcadia arrived on the 7th!
 * **November 2022:** One paper "Abstract Alloy Instances" accepted into [FM 2023](https://fm2023.isp.uni-luebeck.de/).
 * **October 2022:** I am chairing the search for 2 new software engineering faculty memebers. If interested, please apply [here](https://uta.peopleadmin.com/postings/20379).
 * **September 2022:** Our recent NSF grant is being talked about in the [media](https://www.uta.edu/news/news-releases/2022/09/22/sullivan-nsf-software-updates).
