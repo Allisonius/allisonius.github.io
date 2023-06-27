@@ -5,10 +5,18 @@ author_profile: true
 ---
 ### 2023
 
+* **Mutation Testing for Temporal Alloy Models**     
+A. Jovanovic, **A.Sullivan** 
+_The ACM/IEEE 26th International Conference on Model-Driven Engineering Languages and Systems_      
+(MODELS) To Appear.
+* **Integrating Testing into the Alloy Model Development Workflow**     
+**A.Sullivan**  
+_The ACM/IEEE 26th International Conference on Model-Driven Engineering Languages and Systems_      
+(MODELS) To Appear.
 * **Abstract Alloy Instances**     
 J. O. Ringert, **A.Sullivan**  
 _The 25th International Symposium on Formal Methods_      
-(FM) To Appear. 
+(FM) March 2023. \[[PDF](../files/FM2023.pdf)\].  
 
 ### 2022
 
