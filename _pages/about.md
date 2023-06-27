@@ -29,7 +29,7 @@ Checking and Symbolic Execution
 
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
-
+* **June 2023:** Two papers accepted into [MODELS 2023](https://conf.researchr.org/home/models-2023).
 * **April 2023:** Presented a talk [Proofreading the Proofreader: The Benefits of Unit Tests for Software Models](https://neverworkintheory.org/) at Never Work in Theory 2023! 
 * **Janurary 2023:** On maternity leave - baby Arcadia arrived on the 7th!
 * **November 2022:** One paper "Abstract Alloy Instances" accepted into [FM 2023](https://fm2023.isp.uni-luebeck.de/).
