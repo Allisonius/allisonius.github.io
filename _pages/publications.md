@@ -6,7 +6,7 @@ author_profile: true
 ### 2023
 
 * **Mutation Testing for Temporal Alloy Models**     
-A. Jovanovic, **A.Sullivan** 
+A. Jovanovic, **A.Sullivan**      
 _The ACM/IEEE 26th International Conference on Model-Driven Engineering Languages and Systems_      
 (MODELS) To Appear.
 * **Integrating Testing into the Alloy Model Development Workflow**     
