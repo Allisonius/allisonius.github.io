@@ -10,8 +10,6 @@ redirect_from:
 
 ### <i class="fa fa-fw fa-cat" aria-hidden="true"></i> About me
 
-**Maternity Leave:** In the Spring 2023 semester, I will be on maternity leave. I am still recruiting for [SCOPE lab](https://scopelabuta.github.io/) for the fall of 2023 but will not be teaching or taking on new students in the Spring 2023 semester.
-
 I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA), a member of the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) at UTA, the faculty advisor for UTA's [SWE](https://swe.org/) club and a member of the College of Engineering Arlington Women in Engineering organization (COE AWE). Here is my current [CV](/files/ASullivan_CV.pdf).
 
 I am lead professor of [SCOPE lab](https://scopelabuta.github.io/) which focuses on improving techniques to **s**how the **c**orrectness **o**f all **p**rogram **e**xecutions.  You can explore our [projects](https://scopelabuta.github.io/projects/) and see the types of things SCOPE lab gets up too. **We are hiring!** See lab website for details.
