@@ -27,6 +27,7 @@ Checking and Symbolic Execution
 
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **October 2023:** Served on the "Blazing Bright: Faculty Impact To The Computing Community" panel and hosted the PhD Lightening Talks at [UTA's 50th anniversary event](https://uta.engineering/computing50/).
 * **July 2023:** One paper "Crucible: Graphical Test Cases for Alloy Models" accepted into [ISSRE 2023]((https://issre.github.io/2023/)).
 * **July 2023:** One paper "Live Programming for Finite Model Finders" accepted into [ASE NIER 2023](https://conf.researchr.org/home/ase-2023).
 * **June 2023:** Two papers accepted into [MODELS 2023](https://conf.researchr.org/home/models-2023).
