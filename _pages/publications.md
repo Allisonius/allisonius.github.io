@@ -8,7 +8,7 @@ author_profile: true
 * **Crucible: Graphical Test Cases for Alloy Models**     
 A. Emerson, A.Sullivan    
 _The 34th International Symposium on Software Reliability Engineering_      
-(ISSRE) October 2023. \[[PDF](../files/ISSRE2023)\].
+(ISSRE) October 2023. \[[PDF](../files/ISSRE2023.pdf)\].
 * **Mutation Testing for Temporal Alloy Models**     
 A. Jovanovic, A.Sullivan    
 _The ACM/IEEE 26th International Conference on Model-Driven Engineering Languages and Systems_      
