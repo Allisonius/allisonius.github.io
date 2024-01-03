@@ -27,6 +27,7 @@ Checking and Symbolic Execution
 
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
+* **December 2023:** I have received a [NSF CAREER Aaward](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337667&HistoricalAwards=false) grant to work on integrating live programming practices into finite model finders with the aim to ease the burden of learning software modeling. **Total:** 525k
 * **October 2023:** Served on the "Blazing Bright: Faculty Impact To The Computing Community" panel and hosted the PhD Lightening Talks at [UTA's 50th anniversary event](https://uta.engineering/computing50/).
 * **July 2023:** One paper "Crucible: Graphical Test Cases for Alloy Models" accepted into [ISSRE 2023]((https://issre.github.io/2023/)).
 * **July 2023:** One paper "Live Programming for Finite Model Finders" accepted into [ASE NIER 2023](https://conf.researchr.org/home/ase-2023).
