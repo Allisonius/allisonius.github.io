@@ -3,10 +3,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### Pre-prints
+
+### 2024
 
 * **LLM4TDD: Best Practices for Test Driven Development Using Large Language Models**     
-S. Piya, A.Sullivan \[[PDF](https://arxiv.org/abs/2312.04687)\].
+S. Piya, A.Sullivan   
+_The First International Workshop on Large Language Models for Code_      
+(LLM4CODE@ICSE) To Appear. \[[pre-print](https://arxiv.org/abs/2312.04687)\].
 
 ### 2023
 
