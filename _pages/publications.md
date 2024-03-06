@@ -4,6 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Pre-prints
+
+* **AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**     
+G. Wu, A.Sullivan   
+\[[pre-print](https://arxiv.org/pdf/2403.00170.pdf)\].
+
 ### 2024
 
 * **LLM4TDD: Best Practices for Test Driven Development Using Large Language Models**     
