@@ -8,7 +8,6 @@ author_profile: true
 
 * **Empirically Exploring How Novices Write Software Models in Alloy**     
 A. Jovanovic, A.Sullivan. \[[PDF](https://arxiv.org/pdf/2402.06624.pdf)\].
-
 * **AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**     
 G. Wu, A. Sullivan. \[[PDF](https://arxiv.org/pdf/2403.00170.pdf)\].
 
