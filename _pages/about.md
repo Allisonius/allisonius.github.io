@@ -36,24 +36,6 @@ Checking and Symbolic Execution
 * **April 2023:** Presented a talk [Proofreading the Proofreader: The Benefits of Unit Tests for Software Models](https://neverworkintheory.org/) at Never Work in Theory 2023! 
 * **Janurary 2023:** On maternity leave - baby Arcadia arrived on the 7th!
 * **November 2022:** One paper "Abstract Alloy Instances" accepted into [FM 2023](https://fm2023.isp.uni-luebeck.de/).
-* **October 2022:** I am chairing the search for 2 new software engineering faculty memebers. If interested, please apply [here](https://uta.peopleadmin.com/postings/20379).
-* **September 2022:** Our recent NSF grant is being talked about in the [media](https://www.uta.edu/news/news-releases/2022/09/22/sullivan-nsf-software-updates).
-* **September 2022:** Attend [GHC 2022](https://ghc.anitab.org/attend/) with a cohort of 10 female computer science students from [UTA](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse).
-* **July 2022:** One paper "REACH: Refining Alloy Scenarios by Size" accepted into [ISSRE 2022](https://issre2022.github.io/index.html). Congratulations Ana!
-* **July 2022:** I have received a [NSF CISE Core](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2204536&HistoricalAwards=false) grant to work on incremental analysis of software models across their development, testing and synthesis. **Total:** 490k
-* **March 2022:** One paper "Towards Automated Input Generation for Sketching Alloy Models" accepted into [FormaliSE 2022](https://conf.researchr.org/home/icse-2022/Formalise-2022#:~:text=of%20software%20systems.-,Originally%20a%20successful%20satellite%20workshop%20of%20ICSE%2C%20since%202018%20FormaliSE,%2C%20PA%20(or%20online).). Congratulations Ana!
-* **Feburary 2022:** Congratulations Anahita on getting her master's thesis work written up in [Wired](https://www.wired.com/story/job-applicants-hack-resume-reading-software/).
-* **Feburary 2022:** Moderator for the `[Career Paths in Computing](https://uta.engineering/scrf/keynote.php#panel)' panel at [SCRF](https://uta.engineering/scrf/).
-* **Feburary 2022:** Panelist for `The Graduate School Experience' panel at [OurCS@DFW](https://uta.engineering/ourcs/).
-* **Feburary 2022:** Hosted a workshop on z3 at [OurCS@DFW](https://uta.engineering/ourcs/).
-* **Feburary 2022:** Gave a presented on CS vs SE vs CE majors and on Career Paths in Computing at [Digitial Divas](https://digital-divas.weebly.com/).
-* **Janurary 2022:** Served on the [ICSE Demo PC](https://conf.researchr.org/track/icse-2022/icse-2022-demo---demonstrations).
-* **Decemeber 2021:** Resha presented her work on current limtiations of automated repair tools at UTA's [UROP](https://www.uta.edu/research/opportunities/undergraduate-research/programs/urop) Fall semester wrap up.
-* **October 2021:** Presented our solution enumeration tool [Hawkeye](https://github.com/alloy-hawkeye/Hawkeye) at [ISSRE2021](https://2021.issre.net/)).
-* **July 2021:** One paper accepted into [ISSRE 2021](https://2021.issre.net/)!
-* **June 2021:** One paper accepted into [FSE Demo 2021](https://2021.esec-fse.org/track/fse-2021-demonstrations). Congratulations Tanvir!
-* **June 2021:** I have recieved a [NSF FmitF award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2123341&HistoricalAwards=false) to investigate improvements to Alloy's scenario finding functionality.
-* **March 2021:** I will be a judge for UTA's [College of Engineering Innovation Day](https://www.uta.edu/academics/schools-colleges/engineering/students/innovation-day/).
 * **More:** ([Older News](https://allisonius.github.io/news/)).
   
 <h3><i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> Hobbies</h3>
