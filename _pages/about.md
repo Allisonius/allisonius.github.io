@@ -26,7 +26,8 @@ Checking and Symbolic Execution
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
-* **Feburary 2024:** Gave a presented on CS vs SE vs CE majors and how to prepare before college at [Digital Divas 2024](https://digital-divas.weebly.com/).
+* **April 2024:** Invited speaker at the [2024 NSF CISE CAREER Workshop](https://www.cnsr.ictas.vt.edu/NSF-CISE-CAREER-Workshop-24/index.html). Slides are up on the agenda for all of our CAREER Awardee Talks.
+* **Feburary 2024:** Gave a presentation on CS vs SE vs CE majors and how to prepare before college at [Digital Divas 2024](https://digital-divas.weebly.com/).
 * **Janurary 2024:** One paper " LLM4TDD: Best Practices for Test Driven Development Using Large Language Models" accepted into [LLMCODE@ICSE 2024](https://llm4code.github.io/).
 * **December 2023:** I have received a [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337667&HistoricalAwards=false) grant to work on integrating live programming practices into finite model finders with the aim to ease the burden of learning software modeling. **Total:** 525k
 * **October 2023:** Served on the "Blazing Bright: Faculty Impact To The Computing Community" panel and hosted the PhD Lightening Talks at [UTA's 50th anniversary event](https://uta.engineering/computing50/).
