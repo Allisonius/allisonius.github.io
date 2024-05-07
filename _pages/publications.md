@@ -16,7 +16,7 @@ G. Wu, A. Sullivan. \[[PDF](https://arxiv.org/pdf/2403.00170.pdf)\].
 * **LLM4TDD: Best Practices for Test Driven Development Using Large Language Models**     
 S. Piya, A.Sullivan   
 _The First International Workshop on Large Language Models for Code_      
-(LLM4CODE@ICSE) To Appear. \[[PDF](../files/LLM4CODE.pdf)\].
+(LLM4CODE@ICSE) April 2024. \[[PDF](../files/LLM4CODE.pdf)\].
 
 ### 2023
 
