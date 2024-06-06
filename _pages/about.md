@@ -22,7 +22,7 @@ My main goal is to improve software reliability by focusing on:
 Mutation Testing
   * **Formal Methods and Programming Languages:** Model Based Testing, First-Order Logic, Program Synthesis, Model
 Checking and Symbolic Execution
- * **Upcoming Service:** ICSE 2025 (PC Member), ISSRE 2024 (PC Member), FSE Demo 2024 (PC Member), [NSF's CISE Career Workshop 2024 Speaker](https://www.cnsr.ictas.vt.edu/NSF-CISE-CAREER-Workshop-24/index.html), CSGrad4US Reviewer.
+ * **Upcoming Service:** ICSE 2025 (PC Member), ISSRE 2024 (PC Member), FSE Demo 2024 (PC Member), [NSF's CISE Career Workshop 2024 Speaker](https://www.cnsr.ictas.vt.edu/NSF-CISE-CAREER-Workshop-24/index.html), NSF Panel Reviewer.
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
