@@ -26,6 +26,7 @@ Checking and Symbolic Execution
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
+* **June 2024:** One paper "Does Every Computer Scientist Need to Know Formal Methods?" published in Formal Aspects of Computing.
 * **April 2024:** Invited speaker at the [2024 NSF CISE CAREER Workshop](https://www.cnsr.ictas.vt.edu/NSF-CISE-CAREER-Workshop-24/index.html). Slides are up on the agenda for all of our CAREER Awardee Talks.
 * **Feburary 2024:** Gave a presentation on CS vs SE vs CE majors and how to prepare before college at [Digital Divas 2024](https://digital-divas.weebly.com/).
 * **Janurary 2024:** One paper " LLM4TDD: Best Practices for Test Driven Development Using Large Language Models" accepted into [LLMCODE@ICSE 2024](https://llm4code.github.io/).
