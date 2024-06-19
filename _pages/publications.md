@@ -12,34 +12,34 @@ A. Jovanovic, A.Sullivan. \[[PDF](https://arxiv.org/pdf/2402.06624.pdf)\].
 ### 2024
 
 * **AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**     
-G. Wu, A. Sullivan.       
+G. Wu, **A.Sullivan**       
 _The ACM/IEEE 27th International Conference on Model-Driven Engineering Languages and Systems_      
 (MODELS) To Appear. \[[Pre-Print](https://arxiv.org/pdf/2403.00170.pdf)\].
 * **Does Every Computer Scientist Need to Know Formal Methods?**     
-M. Broy, A.D. Brucker, A. Fantechi, M. Gleirscher, K. Havelund, M. Kuppe, A. Mendes, A. Platzer, J.O. Ringert, A. Sullivan   
+M. Broy, A.D. Brucker, A. Fantechi, M. Gleirscher, K. Havelund, M. Kuppe, A. Mendes, A. Platzer, J.O. Ringert, **A.Sullivan**   
 _Formal Aspects of Computing_      
 (FAOC) \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3670795)\].
 * **LLM4TDD: Best Practices for Test Driven Development Using Large Language Models**     
-S. Piya, A.Sullivan   
+S. Piya, **A.Sullivan**   
 _The First International Workshop on Large Language Models for Code_      
 (LLM4CODE@ICSE) April 2024. \[[PDF](../files/LLM4CODE.pdf)\].
 
 ### 2023
 
 * **Crucible: Graphical Test Cases for Alloy Models**     
-A. Emerson, A.Sullivan    
+A. Emerson, **A.Sullivan**    
 _The 34th International Symposium on Software Reliability Engineering_      
 (ISSRE) October 2023. \[[PDF](../files/ISSRE2023.pdf)\].
 * **Mutation Testing for Temporal Alloy Models**     
-A. Jovanovic, A.Sullivan    
+A. Jovanovic, **A.Sullivan**    
 _The ACM/IEEE 26th International Conference on Model-Driven Engineering Languages and Systems_      
 (MODELS) October 2023. \[[PDF](../files/Models2023-B.pdf)\].
 * **Integrating Testing into the Alloy Model Development Workflow**     
-A.Sullivan    
+**A.Sullivan**    
 _The ACM/IEEE 26th International Conference on Model-Driven Engineering Languages and Systems_      
 (MODELS) October 2023. \[[PDF](../files/Models2023-A.pdf)\].
 * **Live Programming for Finite Model Finders**     
-A.Sullivan      
+**A.Sullivan**      
 _The 38th IEEE/ACM International Conference on Automated Software Engineering - New Ideas and Emerging Results_      
 (ASE NIER) September 2023. \[[PDF](../files/ASE2023-NIER.pdf)\].
 * **Abstract Alloy Instances**     
