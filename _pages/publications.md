@@ -6,11 +6,17 @@ author_profile: true
 
 ### Pre-prints
 
+* **Structure Editor for Building Software Models**     
+M.N. Patwary, A. Jovanovic, A.Sullivan. \[[PDF](https://arxiv.org/pdf/2406.09524)\].
 * **Right or Wrong: Understanding How Novice Users Write Software Models**     
 A. Jovanovic, A.Sullivan. \[[PDF](https://arxiv.org/pdf/2402.06624.pdf)\].
 
 ### 2024
 
+* **Mutation Testing for Temporal Alloy Models (Extended Version)**     
+A. Jovanovic, **A.Sullivan**    
+_The International Journal on Software and Systems Modeling_      
+(SoSyM) To Appear.
 * **AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**     
 G. Wu, **A.Sullivan**       
 _The ACM/IEEE 27th International Conference on Model-Driven Engineering Languages and Systems_      
