@@ -12,7 +12,7 @@ M.N. Patwary, A. Jovanovic, A.Sullivan. \[[PDF](https://arxiv.org/pdf/2406.09524
 ### 2024
 
 * **Right or Wrong: Understanding How Novice Users Write Software Models**     
-A. Jovanovic, **A.Sullivan**
+A. Jovanovic, **A.Sullivan**    
 _22nd International Conference on Software Engineering and Formal Methods_      
 (SEFM) To Appear. \[[Preprint](https://arxiv.org/pdf/2402.06624.pdf)\].
 * **Mutation Testing for Temporal Alloy Models (Extended Version)**     
