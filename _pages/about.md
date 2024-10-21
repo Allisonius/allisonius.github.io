@@ -13,7 +13,10 @@ redirect_from:
 I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA), a member of the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) at UTA, the faculty advisor for UTA's [SWE](https://swe.org/) club and a member of the College of Engineering Arlington Women in Engineering organization (COE AWE). Here is my current [CV](/files/ASullivan_CV.pdf).
 
 I am lead professor of [SCOPE lab](https://scopelabuta.github.io/) which focuses on improving techniques to **s**how the **c**orrectness **o**f all **p**rogram **e**xecutions.  You can explore our [projects](https://scopelabuta.github.io/projects/) and see the types of things SCOPE lab gets up too.
-
+* SCOPE Lab is open to new students for the Fall 2025 semester, but will not be accepting new students in Spring 2025 as I will be on maternity leave. 
+* SCOPE lab is looking for students interested in either software engineering or programming language research.
+* SCOPE lab is not currently looking for new students interested in AI/ML. The allotment of students working on SE4AI and AI4SE is full.
+  
 I obtained my PhD in the Software Verification, Validation and Testing (SVVAT) group at the University of Texas at Austin (hook'em) in 2017. My adviser is [Sarfraz Khurshid](https://users.ece.utexas.edu/~khurshid/). I obtained my M.S. degree in software engineering at UT Austin in 2014 and my B.S. degree in software engineering from The University of Texas at Dallas in 2012 (whoosh). My PhD dissertation can be found [here](files/dissertation.pdf). 
 
 ### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Interest
@@ -23,9 +26,13 @@ Mutation Testing
   * **Formal Methods and Programming Languages:** Model Based Testing, First-Order Logic, Program Synthesis, Model
 Checking and Symbolic Execution
  * **Upcoming Service:** ICSE 2025 (PC Member), ISSRE 2024 (PC Member), FSE Demo 2024 (PC Member), [NSF's CISE Career Workshop 2024 Speaker](https://www.cnsr.ictas.vt.edu/NSF-CISE-CAREER-Workshop-24/index.html), NSF Panel Reviewer.
+
+
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
+* **October 2024:** Judge for [HackUTA](https://www.hackuta.org/).
+* **September 2024:** Presented our paper at [MODELS 2024](https://conf.researchr.org/home/models-2024).
 * **August 2024:** Our paper "Right or Wrong -- Understanding How Users Write Software Models in Alloy" accepted into [SEFM 2024](https://sefm-conference.github.io/2024/). 
 * **June 2024:** Our Seminar "Specification Engineering: Foundations for the Future of Software Development" has been accepted as a 5-day [Dagstuhl Seminar](https://www.dagstuhl.de/en/seminars/dagstuhl-seminars). I'll be an organizer along with Marsha Chechik, Eunsuk Kang, Shahar Maoz and Jan Oliver Ringert.
 * **June 2024:** One paper "AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph" accepted into [MODELS 2024](https://conf.researchr.org/home/models-2024).
