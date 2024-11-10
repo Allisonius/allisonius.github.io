@@ -31,7 +31,7 @@ Checking and Symbolic Execution
  
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
-* **November 2024:** Recipient of the UTA CSE department "Rishing Star Research Award" 
+* **November 2024:** Recipient of the UTA CSE department "Rising Star Research Award" 
 * **October 2024:** Judge for [HackUTA](https://www.hackuta.org/).
 * **September 2024:** Presented our paper at [MODELS 2024](https://conf.researchr.org/home/models-2024).
 * **August 2024:** Our paper "Right or Wrong -- Understanding How Users Write Software Models in Alloy" accepted into [SEFM 2024](https://sefm-conference.github.io/2024/). 
