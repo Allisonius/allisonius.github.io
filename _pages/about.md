@@ -16,9 +16,9 @@ I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/
 
 I am lead professor of [SCOPE lab](https://scopelabuta.github.io/) which focuses on improving techniques to **s**how the **c**orrectness **o**f all **p**rogram **e**xecutions.  You can explore our [projects](https://scopelabuta.github.io/projects/) and see the types of things SCOPE lab gets up too.
 
-I was a speaker at [NSF's CISE Career Workshop 2024](https://www.cnsr.ictas.vt.edu/NSF-CISE-CAREER-Workshop-24/index.html) along with 3 other past CAREER NSF recipients - all our talks and slides are posted online. Best of luck to all future PIs applying for the CAREER NSF - I hope our experiences are helpful!!
-  
 I obtained my PhD in the Software Verification, Validation and Testing (SVVAT) group at the University of Texas at Austin (hook'em) in 2017. My adviser is [Sarfraz Khurshid](https://users.ece.utexas.edu/~khurshid/). I obtained my M.S. degree in software engineering at UT Austin in 2014 and my B.S. degree in software engineering from The University of Texas at Dallas in 2012 (whoosh). My PhD dissertation can be found [here](files/dissertation.pdf). 
+
+I was a speaker at [NSF's CISE Career Workshop 2024](https://www.cnsr.ictas.vt.edu/NSF-CISE-CAREER-Workshop-24/index.html) along with 3 other past CAREER NSF recipients - all our talks and slides are posted online. Best of luck to all future PIs applying for the CAREER NSF - I hope our experiences are helpful!!
 
 ### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Interest
 My main goal is to improve software reliability by focusing on:
