@@ -3,6 +3,19 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* **February 2025:** One REU project "Automated Verification of Historical Map Translations into Vector-Based GIS Data" got selected for departmental support. Thank you CSE@UTA! And congrats Talia!
+* **Janurary 2025:** One paper accepted in [FormaliSE 2025](https://conf.researchr.org/home/Formalise-2025). Congratulations Ana and Mohammad!
+* **December 2024:** One paper accepted in [LLM4Code 2025](https://llm4code.github.io/). Congratulations Sanyogita and Anahita!
+* **November 2024:** My first PhD student defended her dissertation! Congratulations Dr. Ana Jovanovic on successfully defending her dissertation titled "Improving the Accuracy of Software Models Using Refinement and Mutation Testing"
+* **November 2024:** Recipient of the UTA CSE department "Rising Star Research Award"
+* **October 2024:** Our invited paper "Mutation testing for temporal alloy models (extended version)" has been published in [SySoM](https://link.springer.com/article/10.1007/s10270-024-01220-x).
+* **October 2024:** Judge for [HackUTA](https://www.hackuta.org/).
+* **September 2024:** Presented our paper at [MODELS 2024](https://conf.researchr.org/home/models-2024).
+* **August 2024:** Our paper "Right or Wrong -- Understanding How Users Write Software Models in Alloy" accepted into [SEFM 2024](https://sefm-conference.github.io/2024/). 
+* **June 2024:** Our Seminar "Specification Engineering: Foundations for the Future of Software Development" has been accepted as a 5-day [Dagstuhl Seminar](https://www.dagstuhl.de/en/seminars/dagstuhl-seminars). I'll be an organizer along with Marsha Chechik, Eunsuk Kang, Shahar Maoz and Jan Oliver Ringert.
+* **June 2024:** One paper "AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph" accepted into [MODELS 2024](https://conf.researchr.org/home/models-2024).
+* **June 2024:** One paper "Does Every Computer Scientist Need to Know Formal Methods?" published in Formal Aspects of Computing.
+* **April 2024:** Invited speaker at the [2024 NSF CISE CAREER Workshop](https://www.cnsr.ictas.vt.edu/NSF-CISE-CAREER-Workshop-24/index.html). Slides are up on the agenda for all of our CAREER Awardee Talks.
 * **Feburary 2024:** Gave a presented on CS vs SE vs CE majors and how to prepare before college at [Digital Divas 2024](https://digital-divas.weebly.com/).
 * **Janurary 2024:** One paper " LLM4TDD: Best Practices for Test Driven Development Using Large Language Models" accepted into [LLMCODE@ICSE 2024](https://llm4code.github.io/).
 * **December 2023:** I have received a [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337667&HistoricalAwards=false) grant to work on integrating live programming practices into finite model finders with the aim to ease the burden of learning software modeling. **Total:** 525k
