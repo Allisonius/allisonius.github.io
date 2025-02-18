@@ -12,7 +12,7 @@ redirect_from:
 
 **I am on maternity leave for the Spring 2025 semester.**
 
-I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA), a member of the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) at UTA, the faculty advisor for UTA's [SWE](https://swe.org/) club and a member of the College of Engineering Arlington Women in Engineering organization (COE AWE). Here is my current [CV](/files/ASullivan_CV.pdf).
+I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA), a member of the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) at UTA, the faculty advisor for UTA's [SWE](https://swe.org/) club and a member of the College of Engineering Arlington Women in Engineering organization (COE AWE). Here is my current [CV](/files/ASullivan_CV.pdf). I am a recipient of the NSF CAREER Award and the UTA CSE department Rising Star Research Award.
 
 I am lead professor of [SCOPE lab](https://scopelabuta.github.io/) which focuses on improving techniques to **s**how the **c**orrectness **o**f all **p**rogram **e**xecutions.  You can explore our [projects](https://scopelabuta.github.io/projects/) and see the types of things SCOPE lab gets up too.
 
@@ -46,14 +46,6 @@ Checking and Symbolic Execution
 * **April 2024:** Invited speaker at the [2024 NSF CISE CAREER Workshop](https://www.cnsr.ictas.vt.edu/NSF-CISE-CAREER-Workshop-24/index.html). Slides are up on the agenda for all of our CAREER Awardee Talks.
 * **Feburary 2024:** Gave a presentation on CS vs SE vs CE majors and how to prepare before college at [Digital Divas 2024](https://digital-divas.weebly.com/).
 * **Janurary 2024:** One paper "LLM4TDD: Best Practices for Test Driven Development Using Large Language Models" accepted into [LLMCODE@ICSE 2024](https://llm4code.github.io/).
-* **December 2023:** I have received a [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337667&HistoricalAwards=false) grant to work on integrating live programming practices into finite model finders with the aim to ease the burden of learning software modeling. **Total:** 525k
-* **October 2023:** Served on the "Blazing Bright: Faculty Impact To The Computing Community" panel and hosted the PhD Lightening Talks at [UTA's 50th anniversary event](https://uta.engineering/computing50/).
-* **July 2023:** One paper "Crucible: Graphical Test Cases for Alloy Models" accepted into [ISSRE 2023](https://issre.github.io/2023/).
-* **July 2023:** One paper "Live Programming for Finite Model Finders" accepted into [ASE NIER 2023](https://conf.researchr.org/home/ase-2023).
-* **June 2023:** Two papers accepted into [MODELS 2023](https://conf.researchr.org/home/models-2023).
-* **April 2023:** Presented a talk [Proofreading the Proofreader: The Benefits of Unit Tests for Software Models](https://neverworkintheory.org/) at Never Work in Theory 2023! 
-* **Janurary 2023:** On maternity leave - baby Arcadia arrived on the 7th!
-* **November 2022:** One paper "Abstract Alloy Instances" accepted into [FM 2023](https://fm2023.isp.uni-luebeck.de/).
 * **More:** ([Older News](https://allisonius.github.io/news/)).
   
 <h3><i class="fa fa-fw fa-puzzle-piece" aria-hidden="true"></i> Hobbies</h3>
