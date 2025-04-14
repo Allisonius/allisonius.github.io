@@ -31,12 +31,13 @@ Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
+* **March 2025:** Recipient of the UTA College of Engineering " Outstanding Early Career Faculty" Award
 * **March 2025:** My second PhD student defended her dissertation. Congratulations to Dr. Anahita Samadi! She will start a Post-Doc at UT Southwestern in May with Dr. Florence Chiang.
 * **February 2025:** One REU project "Automated Verification of Historical Map Translations into Vector-Based GIS Data" got selected for departmental support. Thank you CSE@UTA! And congrats Talia!
 * **Janurary 2025:** One paper accepted in [FormaliSE 2025](https://conf.researchr.org/home/Formalise-2025). Congratulations Ana and Mohammad!
 * **December 2024:** One paper accepted in [LLM4Code 2025](https://llm4code.github.io/). Congratulations Sanyogita and Anahita!
 * **November 2024:** My first PhD student defended her dissertation! Congratulations Dr. Ana Jovanovic on successfully defending her dissertation titled "Improving the Accuracy of Software Models Using Refinement and Mutation Testing"
-* **November 2024:** Recipient of the UTA CSE department "Rising Star Research Award"
+* **November 2024:** Recipient of the UTA CSE department "Rising Star" Research Award
 * **October 2024:** Our invited paper "Mutation testing for temporal alloy models (extended version)" has been published in [SySoM](https://link.springer.com/article/10.1007/s10270-024-01220-x).
 * **October 2024:** Judge for [HackUTA](https://www.hackuta.org/).
 * **September 2024:** Presented our paper at [MODELS 2024](https://conf.researchr.org/home/models-2024).
