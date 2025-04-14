@@ -31,7 +31,7 @@ Checking and Symbolic Execution
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
-* **March 2025:** Recipient of the UTA College of Engineering " Outstanding Early Career Faculty" Award
+* **March 2025:** Recipient of the UTA College of Engineering "Outstanding Early Career Faculty" Award
 * **March 2025:** My second PhD student defended her dissertation. Congratulations to Dr. Anahita Samadi! She will start a Post-Doc at UT Southwestern in May with Dr. Florence Chiang.
 * **February 2025:** One REU project "Automated Verification of Historical Map Translations into Vector-Based GIS Data" got selected for departmental support. Thank you CSE@UTA! And congrats Talia!
 * **Janurary 2025:** One paper accepted in [FormaliSE 2025](https://conf.researchr.org/home/Formalise-2025). Congratulations Ana and Mohammad!
