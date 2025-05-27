@@ -12,20 +12,18 @@ redirect_from:
 
 **I am on maternity leave for the Spring 2025 semester.**
 
-I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA), a member of the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) at UTA, the faculty advisor for UTA's [SWE](https://swe.org/) club and a member of the College of Engineering Arlington Women in Engineering organization (COE AWE). Here is my current [CV](/files/ASullivan_CV.pdf). I am a recipient of the NSF CAREER Award and the UTA CSE department Rising Star Research Award.
+I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA), a member of the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) at UTA and the faculty advisor for UTA's [SWE](https://swe.org/) club. I am a recipient of the NSF CAREER Award (2024), the UTA CSE department Rising Star Research Award (2024) and UTA College of Engineering Outstanding Early Career Faculty Award (2025). Here is my current [CV](/files/ASullivan_CV.pdf). 
 
-I am lead professor of [SCOPE lab](https://scopelabuta.github.io/) which focuses on improving techniques to **s**how the **c**orrectness **o**f all **p**rogram **e**xecutions.  You can explore our [projects](https://scopelabuta.github.io/projects/) and see the types of things SCOPE lab gets up too.
+I obtained my PhD in the Software Verification, Validation and Testing (SVVAT) group at the University of Texas at Austin (hook'em) in 2017. My adviser is [Sarfraz Khurshid](https://users.ece.utexas.edu/~khurshid/). I obtained my M.S. degree in software engineering at UT Austin in 2014 and my B.S. degree in software engineering from The University of Texas at Dallas in 2012 (whoosh). My PhD dissertation can be found [here](files/dissertation.pdf).
 
-I obtained my PhD in the Software Verification, Validation and Testing (SVVAT) group at the University of Texas at Austin (hook'em) in 2017. My adviser is [Sarfraz Khurshid](https://users.ece.utexas.edu/~khurshid/). I obtained my M.S. degree in software engineering at UT Austin in 2014 and my B.S. degree in software engineering from The University of Texas at Dallas in 2012 (whoosh). My PhD dissertation can be found [here](files/dissertation.pdf). 
+Currently, I am lead professor of [SCOPE lab](https://scopelabuta.github.io/) which focuses on improving techniques to **s**how the **c**orrectness **o**f all **p**rogram **e**xecutions.  You can explore our [projects](https://scopelabuta.github.io/projects/) and see the types of things SCOPE lab gets up too.
 
-I was a speaker at [NSF's CISE Career Workshop 2024](https://www.cnsr.ictas.vt.edu/NSF-CISE-CAREER-Workshop-24/index.html) along with 3 other past CAREER NSF recipients - all our talks and slides are posted online. Best of luck to all future PIs applying for the CAREER NSF - I hope our experiences are helpful!!
+I was a speaker at [NSF's CISE Career Workshop 2024](https://www.cnsr.ictas.vt.edu/NSF-CISE-CAREER-Workshop-24/index.html) along with 3 other past CAREER NSF recipients - our talks, slides and an overleaf template are posted online. Best of luck to all future PIs applying for the CAREER NSF - I hope our experiences are helpful!! Please reach out if you have any questions with "NSF CAREER Inquiry" in the title.
 
 ### <i class="fa fa-fw fa-lightbulb" aria-hidden="true"></i> Research Interest
 My main goal is to improve software reliability by focusing on:
-  * **Automated Software Engineering:** Test/Oracle Generation, Automated Bug Localization and Repair, Regression Testing, and
-Mutation Testing
-  * **Formal Methods and Programming Languages:** Model Based Testing, First-Order Logic, Program Synthesis, Model
-Checking and Symbolic Execution
+  * **Automated Software Engineering:** Test/Oracle Generation, Automated Bug Localization and Repair, Mutation Testing, and Regression Testing
+  * **Formal Methods and Programming Languages:** Abstractions, Finite Model Finders, Program Synthesis, and SAT/SMT Solvers
  * **Upcoming Service:** ISSRE 2025 (Organizing Committee), ASE 2025 (PC Member), MODELS 2025 Workshops (PC Member), NSF Panel Reviewer.
 
 
