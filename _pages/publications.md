@@ -14,11 +14,11 @@ M.N. Patwary, A. Jovanovic, A.Sullivan. \[[PDF](https://arxiv.org/pdf/2406.09524
 * **Refining Alloy-Based Mutation Operators to Reflect Common Mistakes**     
 A. Jovanovic, M.N. Patwary, **A. Sullivan**  
 _The 13th International Conference on Formal Methods in Software Engineering_      
-(FormaliSE 2025) To Appear. 
+(FormaliSE 2025) April 2025. \[[PDF](../files/FormaliSE2025.pdf)\]. 
 * **Is More or Less Automation Better? An Investigation into the LLM4TDD Process**     
 S. Piya, A. Samadi, **A. Sullivan**  
 _The Second International Workshop on Large Language Models for Code_      
-(LLM4CODE 2025 @ ICSE) To Appear. 
+(LLM4CODE 2025 @ ICSE) April 2025. \[[PDF](../files/LLM4CODE2025.pdf)\].
 
 ### 2024
 
@@ -33,7 +33,7 @@ _The International Journal on Software and Systems Modeling_
 * **AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**     
 G. Wu, **A. Sullivan**       
 _The ACM/IEEE 27th International Conference on Model-Driven Engineering Languages and Systems_      
-(MODELS) September 2024. \[[Pre-Print](https://arxiv.org/pdf/2403.00170.pdf)\].
+(MODELS) September 2024. \[[PDF](../files/MODELS2024.pdf)\].
 * **Does Every Computer Scientist Need to Know Formal Methods?**     
 M. Broy, A.D. Brucker, A. Fantechi, M. Gleirscher, K. Havelund, M. Kuppe, A. Mendes, A. Platzer, J.O. Ringert, **A. Sullivan**   
 _Formal Aspects of Computing_      
