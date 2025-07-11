@@ -10,8 +10,6 @@ redirect_from:
 
 ### <i class="fa fa-fw fa-cat" aria-hidden="true"></i> About me
 
-**I am on maternity leave for the Spring 2025 semester.**
-
 I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA), a member of the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) at UTA and the faculty advisor for UTA's [SWE](https://swe.org/) club. I am a recipient of the NSF CAREER Award (2024), the UTA CSE department Rising Star Research Award (2024) and UTA College of Engineering Outstanding Early Career Faculty Award (2025). Here is my current [CV](/files/ASullivan_CV.pdf). 
 
 I obtained my PhD in the Software Verification, Validation and Testing (SVVAT) group at the University of Texas at Austin (hook'em) in 2017. My adviser is [Sarfraz Khurshid](https://users.ece.utexas.edu/~khurshid/). I obtained my M.S. degree in software engineering at UT Austin in 2014 and my B.S. degree in software engineering from The University of Texas at Dallas in 2012 (whoosh). My PhD dissertation can be found [here](files/dissertation.pdf).
