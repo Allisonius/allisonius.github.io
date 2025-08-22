@@ -10,7 +10,7 @@ redirect_from:
 
 ### <i class="fa fa-fw fa-cat" aria-hidden="true"></i> About me
 
-I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/) (UTA), a member of the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) at UTA and the faculty advisor for UTA's [SWE](https://swe.org/) club. I am a recipient of the NSF CAREER Award (2024), the UTA CSE department Rising Star Research Award (2024) and UTA College of Engineering Outstanding Early Career Faculty Award (2025). Here is my current [CV](/files/ASullivan_CV.pdf). 
+I am an Assistant Professor of [Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) and the Undergraduate Software Engineering Program Director at [The University of Texas at Arlington](https://www.uta.edu/) (UTA), a member of the [Software Engineering Research Center (SERC)](https://se-research-center.uta.edu/) at UTA and the faculty advisor for UTA's [SWE](https://swe.org/) club. I am a recipient of the NSF CAREER Award (2024), the UTA CSE department Rising Star Research Award (2024) and UTA College of Engineering Outstanding Early Career Faculty Award (2025). Here is my current [CV](/files/ASullivan_CV.pdf). 
 
 I obtained my PhD in the Software Verification, Validation and Testing (SVVAT) group at the University of Texas at Austin (hook'em) in 2017. My adviser is [Sarfraz Khurshid](https://users.ece.utexas.edu/~khurshid/). I obtained my M.S. degree in software engineering at UT Austin in 2014 and my B.S. degree in software engineering from The University of Texas at Dallas in 2012 (whoosh). My PhD dissertation can be found [here](files/dissertation.pdf).
 
@@ -27,6 +27,7 @@ My main goal is to improve software reliability by focusing on:
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
+* **August 2025:** I am the Undergraduate Software Engineering Program Director for the [Software Engineering major at UTA](https://www.uta.edu/academics/programs/software-engineering-bs?level=ug&program=softeng).
 * **August 2025:** I have received a [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2517621&HistoricalAwards=false) to work on building an interactive tool that aims to ease the burden of learning software modeling. **Total:** 400k
 * **April 2025:** Recipient of the UTA College of Engineering "Outstanding Early Career Faculty" Award
 * **March 2025:** My second PhD student defended her dissertation. Congratulations to Dr. Anahita Samadi! She will start a Post-Doc at UT Southwestern in May with Dr. Florence Chiang.
