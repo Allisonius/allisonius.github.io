@@ -27,6 +27,8 @@ My main goal is to improve software reliability by focusing on:
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
+* **September 2025:** Two REUs supported by CRA's [UR2PhD program](https://cra.org/ur2phd/). Congrats Talia and Marcee!
+* **September 2025:** Attended our [Dagstuhl Seminar](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25392) "Specification Engineering: Foundations for the Future of Software Development".
 * **August 2025:** I am the Undergraduate Software Engineering Program Director for the [Software Engineering major at UTA](https://www.uta.edu/academics/programs/software-engineering-bs?level=ug&program=softeng).
 * **August 2025:** I have received a [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2517621&HistoricalAwards=false) to work on building an interactive tool that aims to ease the burden of learning software modeling. **Total:** 400k
 * **April 2025:** Welcomed baby#2 to the world!! 
