@@ -27,6 +27,7 @@ My main goal is to improve software reliability by focusing on:
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
+* **October 2025:**  Our CRA REUs received additional supplements from UTA's College of Engineering. Congrats Talia and Marcee!
 * **September 2025:** Two REUs supported by CRA's [UR2PhD program](https://cra.org/ur2phd/). Congrats Talia and Marcee!
 * **September 2025:** Attended our [Dagstuhl Seminar](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25392) "Specification Engineering: Foundations for the Future of Software Development".
 * **August 2025:** I am the Undergraduate Software Engineering Program Director for the [Software Engineering major at UTA](https://www.uta.edu/academics/programs/software-engineering-bs?level=ug&program=softeng).
