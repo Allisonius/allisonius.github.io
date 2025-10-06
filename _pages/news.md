@@ -3,6 +3,13 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* **August 2024:** Our paper "Right or Wrong -- Understanding How Users Write Software Models in Alloy" accepted into [SEFM 2024](https://sefm-conference.github.io/2024/). 
+* **June 2024:** Our Seminar "Specification Engineering: Foundations for the Future of Software Development" has been accepted as a 5-day [Dagstuhl Seminar](https://www.dagstuhl.de/en/seminars/dagstuhl-seminars). I'll be an organizer along with Marsha Chechik, Eunsuk Kang, Shahar Maoz and Jan Oliver Ringert.
+* **June 2024:** One paper "AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph" accepted into [MODELS 2024](https://conf.researchr.org/home/models-2024).
+* **June 2024:** One paper "Does Every Computer Scientist Need to Know Formal Methods?" published in Formal Aspects of Computing.
+* **April 2024:** Invited speaker at the [2024 NSF CISE CAREER Workshop](https://www.cnsr.ictas.vt.edu/NSF-CISE-CAREER-Workshop-24/index.html). Slides are up on the agenda for all of our CAREER Awardee Talks.
+* **Feburary 2024:** Gave a presentation on CS vs SE vs CE majors and how to prepare before college at [Digital Divas 2024](https://digital-divas.weebly.com/).
+* **Janurary 2024:** One paper "LLM4TDD: Best Practices for Test Driven Development Using Large Language Models" accepted into [LLMCODE@ICSE 2024](https://llm4code.github.io/).
 * **February 2025:** One REU project "Automated Verification of Historical Map Translations into Vector-Based GIS Data" got selected for departmental support. Thank you CSE@UTA! And congrats Talia!
 * **Janurary 2025:** One paper accepted in [FormaliSE 2025](https://conf.researchr.org/home/Formalise-2025). Congratulations Ana and Mohammad!
 * **December 2024:** One paper accepted in [LLM4Code 2025](https://llm4code.github.io/). Congratulations Sanyogita and Anahita!
@@ -84,3 +91,4 @@ Research Festival [(SCRF)](https://uta.engineering/ourcs/) cohosted by UTA and U
   * **December 2018:** Graduated Regina Bunch. Master's student. Project: Email for Autism.
   * **September 2018:** Joined the SAE International and General Motors co-sponsored [Autodrive Challenge](https://www.autodrivechallenge.com/) as a faculty advisor for the Functional Safety Challenge and the Mapping Challenge. This involves applying modeling and machine learning to verify autonomous vehicle systems. 
   * **August 2018:** Stated working at North Carolina A&T State University
+
