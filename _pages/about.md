@@ -27,6 +27,7 @@ My main goal is to improve software reliability by focusing on:
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
+* **November 2025:**  Panelist at Dallas College SWE's Women Engineers Panel.
 * **October 2025:**  Our CRA REUs received additional supplements from UTA's College of Engineering. Congrats Talia and Marcee!
 * **September 2025:** Two REUs supported by CRA's [UR2PhD program](https://cra.org/ur2phd/). Congrats Talia and Marcee!
 * **September 2025:** Honored to be recongized in [Arlington's 40 under 40 class of 2025](https://www.arlingtontx.com/blog/announcing-arlingtons-40-under-40-class-of-2025/)!
