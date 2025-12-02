@@ -27,6 +27,7 @@ My main goal is to improve software reliability by focusing on:
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
+* **December 2025:**  I am honored to be UTA's Blavatnik National Awards for Young Scientists nominee for Physical Sciences & Engineering
 * **November 2025:**  Initiated into Upsilon Pi Epsilon.
 * **November 2025:**  Panelist at Dallas College SWE's Women Engineers Panel.
 * **October 2025:**  Our CRA REUs received additional supplements from UTA's College of Engineering. Congrats Talia and Marcee!
