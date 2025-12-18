@@ -22,7 +22,7 @@ I was a speaker at [NSF's CISE Career Workshop 2024](https://www.cnsr.ictas.vt.e
 My main goal is to improve software reliability by focusing on:
   * **Automated Software Engineering:** Test/Oracle Generation, Automated Bug Localization and Repair, Mutation Testing, and Regression Testing
   * **Formal Methods and Programming Languages:** Abstractions, Finite Model Finders, Program Synthesis, and SAT/SMT Solvers
- * **Upcoming Service:** FormaliSE 2026 (PC Member), ISSTA 2026 (PC Member), ISSRE 2026 (Organizing Committee).
+ * **Upcoming Service:** ISSRE 2026 (Organizing Committee), FormaliSE 2026 (PC Member), ISSTA 2026 (PC Member), ASE 2026 (PC Member).
 
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
