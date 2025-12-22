@@ -11,6 +11,14 @@ M.N. Patwary, A. Jovanovic, A.Sullivan. \[[PDF](https://arxiv.org/pdf/2406.09524
 
 ### 2025
 
+* **Does Every Computer Scientist Need to Know Formal Methods?**     
+M. Broy, A.D. Brucker, A. Fantechi, M. Gleirscher, K. Havelund, M. Kuppe, A. Mendes, A. Platzer, J.O. Ringert, **A. Sullivan**   
+_Formal Aspects of Computing_      
+(FAOC) \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3670795)\].
+* **Mutation Testing for Temporal Alloy Models (Extended Version)**     
+A. Jovanovic, **A. Sullivan**    
+_The International Journal on Software and Systems Modeling_      
+(SoSyM) \[[Link](https://rdcu.be/dYrfs)\].
 * **Refining Alloy-Based Mutation Operators to Reflect Common Mistakes**     
 A. Jovanovic, M.N. Patwary, **A. Sullivan**  
 _The 13th International Conference on Formal Methods in Software Engineering_      
@@ -26,18 +34,10 @@ _The Second International Workshop on Large Language Models for Code_
 A. Jovanovic, **A. Sullivan**    
 _22nd International Conference on Software Engineering and Formal Methods_      
 (SEFM) November 2024. \[[Preprint](https://arxiv.org/pdf/2402.06624.pdf)\].
-* **Mutation Testing for Temporal Alloy Models (Extended Version)**     
-A. Jovanovic, **A. Sullivan**    
-_The International Journal on Software and Systems Modeling_      
-(SoSyM) \[[Link](https://rdcu.be/dYrfs)\].
 * **AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**     
 G. Wu, **A. Sullivan**       
 _The ACM/IEEE 27th International Conference on Model-Driven Engineering Languages and Systems_      
 (MODELS) September 2024. \[[PDF](../files/MODELS2024.pdf)\].
-* **Does Every Computer Scientist Need to Know Formal Methods?**     
-M. Broy, A.D. Brucker, A. Fantechi, M. Gleirscher, K. Havelund, M. Kuppe, A. Mendes, A. Platzer, J.O. Ringert, **A. Sullivan**   
-_Formal Aspects of Computing_      
-(FAOC) \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3670795)\].
 * **LLM4TDD: Best Practices for Test Driven Development Using Large Language Models**     
 S. Piya, **A. Sullivan**   
 _The First International Workshop on Large Language Models for Code_      
