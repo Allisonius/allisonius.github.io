@@ -27,6 +27,8 @@ My main goal is to improve software reliability by focusing on:
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
+* **March 2026:** One paper "Towards Output Directed Debugging of Finite Model Finders" accepted into FSE's Ideas, Visions, and Reflections track ([FSE-IVR 2026](https://conf.researchr.org/track/fse-2026/fse-2026-ideas-visions-and-reflections)). Congratulations Mohammad!
+* **March 2026:** Congrats Andy on being selected for a [CRA UR2PhD Summer REU](https://cra.org/ur2phd/)!
 * **February 2026:** Honored to be selected as a Faculty Fellow for UTA's [Honor College](https://www.uta.edu/academics/schools-colleges/honors).
 * **Janurary 2026:** One REU project "Exploring Block-Based Structure Editors for Alloy" got selected for departmental support. Thank you CSE@UTA and the CRA UR2PhD program.
 * **December 2025:**  I am honored to be UTA's Blavatnik National Awards for Young Scientists nominee for Physical Sciences & Engineering
