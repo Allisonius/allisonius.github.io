@@ -9,6 +9,13 @@ author_profile: true
 * **Structure Editor for Building Software Models**     
 M.N. Patwary, A. Jovanovic, A.Sullivan. \[[PDF](https://arxiv.org/pdf/2406.09524)\].
 
+### 2026
+
+* **Towards Output Directed Debugging of Finite Model Finders**     
+M.N. Patwary, **A. Sullivan**  
+_The ACM International Conference on the Foundations of Software Engineering - Ideas, Visions, and Reflections Track_      
+(FSE IVR 2026) To Appear.  
+
 ### 2025
 
 * **Does Every Computer Scientist Need to Know Formal Methods?**     
