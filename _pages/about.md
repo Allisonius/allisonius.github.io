@@ -27,7 +27,7 @@ My main goal is to improve software reliability by focusing on:
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
-* **May 2026:** The recap report from our [Dagstuhl Seminar](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25392) "Specification Engineering: Foundations for the Future of Software Development" is not available [online](https://drops.dagstuhl.de/entities/document/10.4230/DagRep.15.9.160).
+* **May 2026:** The recap report from our [Dagstuhl Seminar](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25392) "Specification Engineering: Foundations for the Future of Software Development" is now available [online](https://drops.dagstuhl.de/entities/document/10.4230/DagRep.15.9.160).
 * **April 2026:** Got an NSF REU supplement for my CAREER grant. Looking forward to continuing to work with Marcee and Luke this summer!
 * **March 2026:** One paper "Towards Output Directed Debugging of Finite Model Finders" accepted into FSE's Ideas, Visions, and Reflections track ([FSE-IVR 2026](https://conf.researchr.org/track/fse-2026/fse-2026-ideas-visions-and-reflections)). Congratulations Mohammad!
 * **March 2026:** Congrats Andy on being selected for a [CRA UR2PhD Summer REU](https://cra.org/ur2phd/)!
