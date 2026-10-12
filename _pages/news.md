@@ -7,22 +7,7 @@ author_profile: true
 * **April 2025:** Recipient of the UTA College of Engineering "Outstanding Early Career Faculty" Award
 * **March 2025:** My second PhD student defended her dissertation. Congratulations to Dr. Anahita Samadi! She will start a Post-Doc at UT Southwestern in May with Dr. Florence Chiang.
 * **February 2025:** One REU project "Automated Verification of Historical Map Translations into Vector-Based GIS Data" got selected for departmental support. Thank you CSE@UTA! And congrats Talia!
-* **Janurary 2025:** One paper accepted in [FormaliSE 2025](https://conf.researchr.org/home/Formalise-2025). Congratulations Ana and Mohammad!
-* **December 2024:** One paper accepted in [LLM4Code 2025](https://llm4code.github.io/). Congratulations Sanyogita and Anahita!
-* **November 2024:** My first PhD student defended her dissertation! Congratulations Dr. Ana Jovanovic on successfully defending her dissertation titled "Improving the Accuracy of Software Models Using Refinement and Mutation Testing"
-* **November 2024:** Recipient of the UTA CSE department "Rising Star" Research Award
-* **October 2024:** Our invited paper "Mutation testing for temporal alloy models (extended version)" has been published in [SySoM](https://link.springer.com/article/10.1007/s10270-024-01220-x).
-* **October 2024:** Judge for [HackUTA](https://www.hackuta.org/).
-* **September 2024:** Presented our paper at [MODELS 2024](https://conf.researchr.org/home/models-2024).
-* **August 2024:** Our paper "Right or Wrong -- Understanding How Users Write Software Models in Alloy" accepted into [SEFM 2024](https://sefm-conference.github.io/2024/). 
-* **June 2024:** Our Seminar "Specification Engineering: Foundations for the Future of Software Development" has been accepted as a 5-day [Dagstuhl Seminar](https://www.dagstuhl.de/en/seminars/dagstuhl-seminars). I'll be an organizer along with Marsha Chechik, Eunsuk Kang, Shahar Maoz and Jan Oliver Ringert.
-* **June 2024:** One paper "AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph" accepted into [MODELS 2024](https://conf.researchr.org/home/models-2024).
-* **June 2024:** One paper "Does Every Computer Scientist Need to Know Formal Methods?" published in Formal Aspects of Computing.
-* **April 2024:** Invited speaker at the [2024 NSF CISE CAREER Workshop](https://www.cnsr.ictas.vt.edu/NSF-CISE-CAREER-Workshop-24/index.html). Slides are up on the agenda for all of our CAREER Awardee Talks.
-* **Feburary 2024:** Gave a presentation on CS vs SE vs CE majors and how to prepare before college at [Digital Divas 2024](https://digital-divas.weebly.com/).
-* **Janurary 2024:** One paper "LLM4TDD: Best Practices for Test Driven Development Using Large Language Models" accepted into [LLMCODE@ICSE 2024](https://llm4code.github.io/).
-* **February 2025:** One REU project "Automated Verification of Historical Map Translations into Vector-Based GIS Data" got selected for departmental support. Thank you CSE@UTA! And congrats Talia!
-* **Janurary 2025:** One paper accepted in [FormaliSE 2025](https://conf.researchr.org/home/Formalise-2025). Congratulations Ana and Mohammad!
+* **January 2025:** One paper accepted in [FormaliSE 2025](https://conf.researchr.org/home/Formalise-2025). Congratulations Ana and Mohammad!
 * **December 2024:** One paper accepted in [LLM4Code 2025](https://llm4code.github.io/). Congratulations Sanyogita and Anahita!
 * **November 2024:** My first PhD student defended her dissertation! Congratulations Dr. Ana Jovanovic on successfully defending her dissertation titled "Improving the Accuracy of Software Models Using Refinement and Mutation Testing"
 * **November 2024:** Recipient of the UTA CSE department "Rising Star Research Award"
@@ -34,15 +19,15 @@ author_profile: true
 * **June 2024:** One paper "AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph" accepted into [MODELS 2024](https://conf.researchr.org/home/models-2024).
 * **June 2024:** One paper "Does Every Computer Scientist Need to Know Formal Methods?" published in Formal Aspects of Computing.
 * **April 2024:** Invited speaker at the [2024 NSF CISE CAREER Workshop](https://www.cnsr.ictas.vt.edu/NSF-CISE-CAREER-Workshop-24/index.html). Slides are up on the agenda for all of our CAREER Awardee Talks.
-* **Feburary 2024:** Gave a presented on CS vs SE vs CE majors and how to prepare before college at [Digital Divas 2024](https://digital-divas.weebly.com/).
-* **Janurary 2024:** One paper " LLM4TDD: Best Practices for Test Driven Development Using Large Language Models" accepted into [LLMCODE@ICSE 2024](https://llm4code.github.io/).
+* **February 2024:** Gave a presented on CS vs SE vs CE majors and how to prepare before college at [Digital Divas 2024](https://digital-divas.weebly.com/).
+* **January 2024:** One paper " LLM4TDD: Best Practices for Test Driven Development Using Large Language Models" accepted into [LLMCODE@ICSE 2024](https://llm4code.github.io/).
 * **December 2023:** I have received a [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337667&HistoricalAwards=false) grant to work on integrating live programming practices into finite model finders with the aim to ease the burden of learning software modeling. **Total:** 525k
 * **October 2023:** Served on the "Blazing Bright: Faculty Impact To The Computing Community" panel and hosted the PhD Lightening Talks at [UTA's 50th anniversary event](https://uta.engineering/computing50/).
 * **July 2023:** One paper "Crucible: Graphical Test Cases for Alloy Models" accepted into [ISSRE 2023](https://issre.github.io/2023/).
 * **July 2023:** One paper "Live Programming for Finite Model Finders" accepted into [ASE NIER 2023](https://conf.researchr.org/home/ase-2023).
 * **June 2023:** Two papers accepted into [MODELS 2023](https://conf.researchr.org/home/models-2023).
 * **April 2023:** Presented a talk [Proofreading the Proofreader: The Benefits of Unit Tests for Software Models](https://neverworkintheory.org/) at Never Work in Theory 2023! 
-* **Janurary 2023:** On maternity leave - baby Arcadia arrived on the 7th!
+* **January 2023:** On maternity leave - baby Arcadia arrived on the 7th!
 * **November 2022:** One paper "Abstract Alloy Instances" accepted into [FM 2023](https://fm2023.isp.uni-luebeck.de/).
 * **October 2022:** I am chairing the search for 2 new software engineering faculty memebers. If interested, please apply [here](https://uta.peopleadmin.com/postings/20379).
 * **September 2022:** Our recent NSF grant is being talked about in the [media](https://www.uta.edu/news/news-releases/2022/09/22/sullivan-nsf-software-updates).
@@ -50,13 +35,13 @@ author_profile: true
 * **July 2022:** One paper "REACH: Refining Alloy Scenarios by Size" accepted into [ISSRE 2022](https://issre2022.github.io/index.html). Congratulations Ana!
 * **July 2022:** I have received a [NSF CISE Core](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2204536&HistoricalAwards=false) grant to work on incremental analysis of software models across their development, testing and synthesis. **Total:** 490k
 * **March 2022:** One paper "Towards Automated Input Generation for Sketching Alloy Models" accepted into [FormaliSE 2022](https://conf.researchr.org/home/icse-2022/Formalise-2022#:~:text=of%20software%20systems.-,Originally%20a%20successful%20satellite%20workshop%20of%20ICSE%2C%20since%202018%20FormaliSE,%2C%20PA%20(or%20online).). Congratulations Ana!
-* **Feburary 2022:** Congratulations Anahita on getting her master's thesis work written up in [Wired](https://www.wired.com/story/job-applicants-hack-resume-reading-software/).
-* **Feburary 2022:** Moderator for the `[Career Paths in Computing](https://uta.engineering/scrf/keynote.php#panel)' panel at [SCRF](https://uta.engineering/scrf/).
-* **Feburary 2022:** Panelist for `The Graduate School Experience' panel at [OurCS@DFW](https://uta.engineering/ourcs/).
-* **Feburary 2022:** Hosted a workshop on z3 at [OurCS@DFW](https://uta.engineering/ourcs/).
-* **Feburary 2022:** Gave a presented on CS vs SE vs CE majors and on Career Paths in Computing at [Digitial Divas](https://digital-divas.weebly.com/).
-* **Janurary 2022:** Served on the [ICSE Demo PC](https://conf.researchr.org/track/icse-2022/icse-2022-demo---demonstrations).
-* **Decemeber 2021:** Resha presented her work on current limtiations of automated repair tools at UTA's [UROP](https://www.uta.edu/research/opportunities/undergraduate-research/programs/urop) Fall semester wrap up.
+* **February 2022:** Congratulations Anahita on getting her master's thesis work written up in [Wired](https://www.wired.com/story/job-applicants-hack-resume-reading-software/).
+* **February 2022:** Moderator for the `[Career Paths in Computing](https://uta.engineering/scrf/keynote.php#panel)' panel at [SCRF](https://uta.engineering/scrf/).
+* **February 2022:** Panelist for `The Graduate School Experience' panel at [OurCS@DFW](https://uta.engineering/ourcs/).
+* **February 2022:** Hosted a workshop on z3 at [OurCS@DFW](https://uta.engineering/ourcs/).
+* **February 2022:** Gave a presented on CS vs SE vs CE majors and on Career Paths in Computing at [Digitial Divas](https://digital-divas.weebly.com/).
+* **January 2022:** Served on the [ICSE Demo PC](https://conf.researchr.org/track/icse-2022/icse-2022-demo---demonstrations).
+* **December 2021:** Resha presented her work on current limtiations of automated repair tools at UTA's [UROP](https://www.uta.edu/research/opportunities/undergraduate-research/programs/urop) Fall semester wrap up.
 * **October 2021:** Presented our solution enumeration tool [Hawkeye](https://github.com/alloy-hawkeye/Hawkeye) at [ISSRE2021](https://2021.issre.net/)).
 * **July 2021:** One paper accepted into [ISSRE 2021](https://2021.issre.net/)!
 * **June 2021:** One paper accepted into [FSE Demo 2021](https://2021.esec-fse.org/track/fse-2021-demonstrations). Congratulations Tanvir!
@@ -66,8 +51,8 @@ author_profile: true
 * **February 2021:** I will be sitting on the "Career Paths in Computing" panel at the Student Computing.
 Research Festival [(SCRF)](https://uta.engineering/ourcs/) cohosted by UTA and UNT.
 * **February 2021:** I will be sitting on the "The Graduate School Experience" panel at [OurCS@DFW](https://uta.engineering/ourcs/) cohosted by UTA and UNT.
-* **Janurary 2021:** I will be offering a [Workshop on Software Engineering vs Computer Science](https://digital-divas.weebly.com/speakers--workshops.html) at the [Digital Divas 2021](https://digital-divas.weebly.com/) event.
-* **Janurary 2021:** I will be offering a [Workshop on Z3](https://uta.engineering/ourcs/workshops.php) at [OurCS@DFW](https://uta.engineering/ourcs/) cohosted by UTA and UNT.
+* **January 2021:** I will be offering a [Workshop on Software Engineering vs Computer Science](https://digital-divas.weebly.com/speakers--workshops.html) at the [Digital Divas 2021](https://digital-divas.weebly.com/) event.
+* **January 2021:** I will be offering a [Workshop on Z3](https://uta.engineering/ourcs/workshops.php) at [OurCS@DFW](https://uta.engineering/ourcs/) cohosted by UTA and UNT.
 * **September 2020:** I am a member of the following Broadening Participation in Computing (BPC) sub committees at UTA: BPC Student Awards, External BPC Conferences and K-12 Outreach sub-committees.
 * **September 2020:** Attending [TAPIA](https://tapiaconference.cmd-it.org/) as a volunteer for the UTA booth. 
 * **August 2020:** I am the co-advisor for Society of Women Engineers ([SWE](https://mavorgs.campuslabs.com/engage/organization/societyofwomenengineers)) at UTA. 
@@ -82,7 +67,7 @@ Research Festival [(SCRF)](https://uta.engineering/ourcs/) cohosted by UTA and U
 * **March 2020:** Congratulations to Jasmine Mabrey (Automated Defect Classification using Machine Learning) and George Thompson (Towards Automated Fault Localization for Prolog Models) on their successful Master Thesis proposals! Proud of you guys!!
 * **February 2020:** I am a Performer on the Naval Research Laboratory project "Assured Development and Operation of Autonomous Systems (ADAS)" funded by the DoD Research and Engineering Modernization program. Lead PI: Constance Heitmeyer. **Total:** 45M, **My Share:** 885k.
 * **February 2020:** Lead organizer for the [2020 Triad Programming Contest](https://triad-pc-2020.github.io/).
-* **Janurary 2020:** Faculty advisor for the NC A&T student team competing in the 3rd Annual AMIE Design Challenge at the 2020 Black Engineer of the Year Award Conference ([BEYA 2020](https://s4.goeshow.com/ccgroup/beyastem/2020/index.cfm)).
+* **January 2020:** Faculty advisor for the NC A&T student team competing in the 3rd Annual AMIE Design Challenge at the 2020 Black Engineer of the Year Award Conference ([BEYA 2020](https://s4.goeshow.com/ccgroup/beyastem/2020/index.cfm)).
  * **December 2019:** Participating in a female engineer focus group on how to prepare students for careers as researchers as part of an  [NSF Innovations in Graduate Education: Developing a Research Engineer Identity](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1856346&HistoricalAwards=false) grant.
  * **December 2019:** Congratulations to Mr. Derrick LeFlore for his successful MS defense and congratulations to Mrs. Hanan Alshahr and Mr. Shannon Brown for their successful PhD and MS proposals respectively.
  * **November 2019:** Presented our paper "Solution Enumeration Abstraction -- A Modeling Idiom to Enhance a Lightweight Formal Method" at [ICFEM 19](http://csse.szu.edu.cn/icfem2019/).
