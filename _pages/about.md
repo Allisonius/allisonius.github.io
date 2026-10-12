@@ -22,11 +22,12 @@ I was a speaker at [NSF's CISE Career Workshop 2024](https://www.cnsr.ictas.vt.e
 My main goal is to improve software reliability by focusing on:
   * **Automated Software Engineering:** Test/Oracle Generation, Automated Bug Localization and Repair, Mutation Testing, and Regression Testing
   * **Formal Methods and Programming Languages:** Abstractions, Finite Model Finders, Program Synthesis, and SAT/SMT Solvers
- * **Upcoming Service:** ISSRE 2026 (Organizing Committee), FormaliSE 2027 (PC Member), ICST 2027 (PC Member), FSE 2027 (PC Member), ISSRE 2027 (Organizing Committee), MODELS 2027 (Organizing Committee), ISSRE 2027 (PC Member).
+ * **Upcoming Service:** ISSRE 2027 (Organizing Committee), MODELS 2027 (Organizing Committee), FormaliSE 2027 (PC Member), ICST 2027 (PC Member), FSE 2027 (PC Member), ISSRE 2027 (PC Member).
 
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
+* **October 2026:** One REU project "A Formal Method Approach to Evaluate Gaussian Splatting Methods" got selected for support. Thank you COE@UTA.
 * **July 2026:** One paper "Formula Completion Suggestions for Alloy Models with Selection Guidance" accepted into [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-research-track). Congratulations Mohammad!
 * **May 2026:** The recap report from our [Dagstuhl Seminar](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25392) "Specification Engineering: Foundations for the Future of Software Development" is now available [online](https://drops.dagstuhl.de/entities/document/10.4230/DagRep.15.9.160).
 * **April 2026:** Got an NSF REU supplement for my CAREER grant. Looking forward to continuing to work with Marcee and Luke this summer!
