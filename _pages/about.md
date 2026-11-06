@@ -27,6 +27,7 @@ My main goal is to improve software reliability by focusing on:
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
+* **Nocember 2026:** Honored to receive the Post-Tenure Teaching Award from UTA's CSE Department!
 * **October 2026:** One REU project "A Formal Method Approach to Evaluate Gaussian Splatting Methods" got selected for support. Thank you COE@UTA.
 * **July 2026:** One paper "Formula Completion Suggestions for Alloy Models with Selection Guidance" accepted into [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-research-track). Congratulations Mohammad!
 * **May 2026:** The recap report from our [Dagstuhl Seminar](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25392) "Specification Engineering: Foundations for the Future of Software Development" is now available [online](https://drops.dagstuhl.de/entities/document/10.4230/DagRep.15.9.160).
