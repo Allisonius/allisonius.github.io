@@ -27,7 +27,8 @@ My main goal is to improve software reliability by focusing on:
 
 ### <i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true"></i> News.
 
-* **Nocember 2026:** Honored to receive the Post-Tenure Teaching Award from UTA's CSE Department!
+* **November 2026:** Honored to receive the Alumni Career Achievement award from the Greater Arlington Chamber of Commerce as part of this year's 40 under 40 event!
+* **November 2026:** Honored to receive the Post-Tenure Teaching Award from UTA's CSE Department!
 * **October 2026:** One REU project "A Formal Method Approach to Evaluate Gaussian Splatting Methods" got selected for support. Thank you COE@UTA.
 * **July 2026:** One paper "Formula Completion Suggestions for Alloy Models with Selection Guidance" accepted into [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-research-track). Congratulations Mohammad!
 * **May 2026:** The recap report from our [Dagstuhl Seminar](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25392) "Specification Engineering: Foundations for the Future of Software Development" is now available [online](https://drops.dagstuhl.de/entities/document/10.4230/DagRep.15.9.160).
@@ -41,7 +42,7 @@ My main goal is to improve software reliability by focusing on:
 * **November 2025:**  Panelist at Dallas College SWE's Women Engineers Panel.
 * **October 2025:**  Our CRA REUs received additional supplements from UTA's College of Engineering. Congrats Talia and Marcee!
 * **September 2025:** Two REUs supported by CRA's [UR2PhD program](https://cra.org/ur2phd/). Congrats Talia and Marcee!
-* **September 2025:** Honored to be recongized in [Arlington's 40 under 40 class of 2025](https://www.arlingtontx.com/blog/announcing-arlingtons-40-under-40-class-of-2025/)!
+* **September 2025:** Honored to be recognized in [Arlington's 40 under 40 class of 2025](https://www.arlingtontx.com/blog/announcing-arlingtons-40-under-40-class-of-2025/)!
 * **September 2025:** Attended our [Dagstuhl Seminar](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25392) "Specification Engineering: Foundations for the Future of Software Development".
 * **August 2025:** I am the Undergraduate Software Engineering Program Director for the [Software Engineering major at UTA](https://www.uta.edu/academics/programs/software-engineering-bs?level=ug&program=softeng).
 * **August 2025:** I have received a [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2517621&HistoricalAwards=false) to work on building an interactive tool that aims to ease the burden of learning software modeling. **Total:** 400k
